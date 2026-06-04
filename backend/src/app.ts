@@ -1,6 +1,10 @@
 import cors from "cors";
 import express from "express";
 import { pingDatabase } from "./db/service.js";
+import { errorHandler } from "./middleware/error-handler.js";
+import { authRouter } from "./routes/auth-router.js";
+import { dashboardRouter } from "./routes/dashboard-router.js";
+import { reportsRouter } from "./routes/reports-router.js";
 
 export const app = express();
 
@@ -24,18 +28,8 @@ app.get("/db/ping", async (_request, response, next) => {
   }
 });
 
-app.use(
-  (
-    error: unknown,
-    _request: express.Request,
-    response: express.Response,
-    _next: express.NextFunction
-  ) => {
-    console.error(error);
+app.use("/auth", authRouter);
+app.use("/dashboard", dashboardRouter);
+app.use("/reports", reportsRouter);
 
-    response.status(500).json({
-      ok: false,
-      error: "Internal server error"
-    });
-  }
-);
+app.use(errorHandler);

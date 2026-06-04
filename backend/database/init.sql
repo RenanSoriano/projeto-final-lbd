@@ -1,21 +1,23 @@
+CREATE EXTENSION IF NOT EXISTS pgcrypto;
+
 BEGIN;
 
 -- =========================================================
 -- TABELAS BÁSICAS / DOMÍNIO
 -- =========================================================
 
-CREATE TABLE seasons (
+CREATE TABLE IF NOT EXISTS seasons (
     id INTEGER PRIMARY KEY GENERATED ALWAYS AS IDENTITY,
     year INTEGER NOT NULL UNIQUE
 );
 
-CREATE TABLE continents (
+CREATE TABLE IF NOT EXISTS continents (
     id INTEGER PRIMARY KEY GENERATED ALWAYS AS IDENTITY,
     code VARCHAR(2) NOT NULL UNIQUE,
     name TEXT NOT NULL UNIQUE
 );
 
-CREATE TABLE countries (
+CREATE TABLE IF NOT EXISTS countries (
     id INTEGER PRIMARY KEY GENERATED ALWAYS AS IDENTITY,
     code VARCHAR(2) UNIQUE NOT NULL,
     name TEXT UNIQUE NOT NULL,
@@ -30,7 +32,7 @@ CREATE TABLE countries (
         ON UPDATE CASCADE
 );
 
-CREATE TABLE time_zones (
+CREATE TABLE IF NOT EXISTS time_zones (
     id INTEGER PRIMARY KEY GENERATED ALWAYS AS IDENTITY,
     name TEXT NOT NULL UNIQUE,
     gmt_offset DOUBLE PRECISION,
@@ -38,12 +40,12 @@ CREATE TABLE time_zones (
     raw_offset DOUBLE PRECISION
 );
 
-CREATE TABLE language_names (
+CREATE TABLE IF NOT EXISTS language_names (
     id INTEGER PRIMARY KEY GENERATED ALWAYS AS IDENTITY,
     name TEXT NOT NULL UNIQUE
 );
 
-CREATE TABLE iso_language_codes (
+CREATE TABLE IF NOT EXISTS iso_language_codes (
     id INTEGER PRIMARY KEY GENERATED ALWAYS AS IDENTITY,
     iso_639_3 TEXT UNIQUE,
     iso_639_2 TEXT UNIQUE,
@@ -57,7 +59,7 @@ CREATE TABLE iso_language_codes (
         ON UPDATE CASCADE
 );
 
-CREATE TABLE feature_codes (
+CREATE TABLE IF NOT EXISTS feature_codes (
     id INTEGER PRIMARY KEY GENERATED ALWAYS AS IDENTITY,
     feature_class TEXT NOT NULL,
     feature_code TEXT NOT NULL,
@@ -66,12 +68,12 @@ CREATE TABLE feature_codes (
     CONSTRAINT uq_feature_codes_class_code UNIQUE (feature_class, feature_code)
 );
 
-CREATE TABLE airport_types (
+CREATE TABLE IF NOT EXISTS airport_types (
     id INTEGER PRIMARY KEY GENERATED ALWAYS AS IDENTITY,
     type TEXT NOT NULL UNIQUE
 );
 
-CREATE TABLE status (
+CREATE TABLE IF NOT EXISTS status (
     id INTEGER PRIMARY KEY GENERATED ALWAYS AS IDENTITY,
     status TEXT NOT NULL UNIQUE
 );
@@ -80,7 +82,7 @@ CREATE TABLE status (
 -- CIDADES / AEROPORTOS
 -- =========================================================
 
-CREATE TABLE cities (
+CREATE TABLE IF NOT EXISTS cities (
     id TEXT PRIMARY KEY,
     name TEXT NOT NULL,
     ascii_name TEXT NOT NULL,
@@ -119,7 +121,7 @@ CREATE TABLE cities (
         ON UPDATE CASCADE
 );
 
-CREATE TABLE airports (
+CREATE TABLE IF NOT EXISTS airports (
     id INTEGER PRIMARY KEY GENERATED ALWAYS AS IDENTITY,
     ident VARCHAR(10) NOT NULL UNIQUE,
     airport_type_id INTEGER,
@@ -154,7 +156,7 @@ CREATE TABLE airports (
 -- F1: ENTIDADES PRINCIPAIS
 -- =========================================================
 
-CREATE TABLE circuits (
+CREATE TABLE IF NOT EXISTS circuits (
     id INTEGER PRIMARY KEY GENERATED ALWAYS AS IDENTITY,
     circuit_ref VARCHAR(14) UNIQUE,
     name VARCHAR(44) NOT NULL,
@@ -170,7 +172,7 @@ CREATE TABLE circuits (
         ON UPDATE CASCADE
 );
 
-CREATE TABLE constructors (
+CREATE TABLE IF NOT EXISTS constructors (
     id INTEGER PRIMARY KEY GENERATED ALWAYS AS IDENTITY,
     constructor_ref VARCHAR(20) NOT NULL UNIQUE,
     name VARCHAR(25) NOT NULL,
@@ -185,7 +187,7 @@ CREATE TABLE constructors (
         ON UPDATE CASCADE
 );
 
-CREATE TABLE drivers (
+CREATE TABLE IF NOT EXISTS drivers (
     id INTEGER PRIMARY KEY GENERATED ALWAYS AS IDENTITY,
     driver_ref VARCHAR(18) NOT NULL UNIQUE,
     given_name VARCHAR(17) NOT NULL,
@@ -194,7 +196,7 @@ CREATE TABLE drivers (
     date_of_birth DATE NOT NULL
 );
 
-CREATE TABLE races (
+CREATE TABLE IF NOT EXISTS races (
     id BIGINT PRIMARY KEY GENERATED ALWAYS AS IDENTITY,
     race_ref VARCHAR(7) NOT NULL UNIQUE,
     season_id INTEGER NOT NULL,
@@ -217,7 +219,7 @@ CREATE TABLE races (
         ON UPDATE CASCADE
 );
 
-CREATE TABLE qualifying (
+CREATE TABLE IF NOT EXISTS qualifying (
     id BIGINT PRIMARY KEY GENERATED ALWAYS AS IDENTITY,
     race_id BIGINT NOT NULL,
     driver_id INTEGER NOT NULL,
@@ -246,7 +248,7 @@ CREATE TABLE qualifying (
         ON UPDATE CASCADE
 );
 
-CREATE TABLE results (
+CREATE TABLE IF NOT EXISTS results (
     id BIGINT PRIMARY KEY GENERATED ALWAYS AS IDENTITY,
     race_id BIGINT NOT NULL,
     driver_id INTEGER NOT NULL,
@@ -287,7 +289,7 @@ CREATE TABLE results (
 -- STANDINGS
 -- =========================================================
 
-CREATE TABLE standings (
+CREATE TABLE IF NOT EXISTS standings (
     id INTEGER PRIMARY KEY GENERATED ALWAYS AS IDENTITY,
     season_id INTEGER NOT NULL,
     round INTEGER NOT NULL,
@@ -302,7 +304,7 @@ CREATE TABLE standings (
         ON UPDATE CASCADE
 );
 
-CREATE TABLE driver_standings (
+CREATE TABLE IF NOT EXISTS driver_standings (
     standing_id INTEGER NOT NULL,
     driver_id INTEGER NOT NULL,
     PRIMARY KEY (standing_id, driver_id),
@@ -320,7 +322,7 @@ CREATE TABLE driver_standings (
         ON UPDATE CASCADE
 );
 
-CREATE TABLE constructor_standings (
+CREATE TABLE IF NOT EXISTS constructor_standings (
     standing_id INTEGER NOT NULL,
     constructor_id INTEGER NOT NULL,
     PRIMARY KEY (standing_id, constructor_id),
@@ -342,7 +344,7 @@ CREATE TABLE constructor_standings (
 -- RELACIONAMENTOS AUXILIARES
 -- =========================================================
 
-CREATE TABLE country_languages (
+CREATE TABLE IF NOT EXISTS country_languages (
     country_id INTEGER NOT NULL,
     language_id INTEGER NOT NULL,
     PRIMARY KEY (country_id, language_id),
@@ -364,37 +366,37 @@ CREATE TABLE country_languages (
 -- ÍNDICES ÚTEIS
 -- =========================================================
 
-CREATE INDEX idx_cities_country_id ON cities(country_id);
-CREATE INDEX idx_cities_feature_code_id ON cities(feature_code_id);
-CREATE INDEX idx_cities_time_zone_id ON cities(time_zone_id);
+CREATE INDEX IF NOT EXISTS idx_cities_country_id ON cities(country_id);
+CREATE INDEX IF NOT EXISTS idx_cities_feature_code_id ON cities(feature_code_id);
+CREATE INDEX IF NOT EXISTS idx_cities_time_zone_id ON cities(time_zone_id);
 
-CREATE INDEX idx_airports_city_id ON airports(city_id);
-CREATE INDEX idx_airports_airport_type_id ON airports(airport_type_id);
+CREATE INDEX IF NOT EXISTS idx_airports_city_id ON airports(city_id);
+CREATE INDEX IF NOT EXISTS idx_airports_airport_type_id ON airports(airport_type_id);
 
-CREATE INDEX idx_circuits_city_id ON circuits(city_id);
-CREATE INDEX idx_constructors_country_id ON constructors(country_id);
+CREATE INDEX IF NOT EXISTS idx_circuits_city_id ON circuits(city_id);
+CREATE INDEX IF NOT EXISTS idx_constructors_country_id ON constructors(country_id);
 
-CREATE INDEX idx_races_season_id ON races(season_id);
-CREATE INDEX idx_races_circuit_id ON races(circuit_id);
+CREATE INDEX IF NOT EXISTS idx_races_season_id ON races(season_id);
+CREATE INDEX IF NOT EXISTS idx_races_circuit_id ON races(circuit_id);
 
-CREATE INDEX idx_qualifying_race_id ON qualifying(race_id);
-CREATE INDEX idx_qualifying_driver_id ON qualifying(driver_id);
-CREATE INDEX idx_qualifying_constructor_id ON qualifying(constructor_id);
+CREATE INDEX IF NOT EXISTS idx_qualifying_race_id ON qualifying(race_id);
+CREATE INDEX IF NOT EXISTS idx_qualifying_driver_id ON qualifying(driver_id);
+CREATE INDEX IF NOT EXISTS idx_qualifying_constructor_id ON qualifying(constructor_id);
 
-CREATE INDEX idx_results_race_id ON results(race_id);
-CREATE INDEX idx_results_driver_id ON results(driver_id);
-CREATE INDEX idx_results_constructor_id ON results(constructor_id);
-CREATE INDEX idx_results_status_id ON results(status_id);
+CREATE INDEX IF NOT EXISTS idx_results_race_id ON results(race_id);
+CREATE INDEX IF NOT EXISTS idx_results_driver_id ON results(driver_id);
+CREATE INDEX IF NOT EXISTS idx_results_constructor_id ON results(constructor_id);
+CREATE INDEX IF NOT EXISTS idx_results_status_id ON results(status_id);
 
-CREATE INDEX idx_standings_season_id ON standings(season_id);
+CREATE INDEX IF NOT EXISTS idx_standings_season_id ON standings(season_id);
 
 COMMIT;
+
+BEGIN;
 
 -- =========================================================
 -- TABELA LAP TIMES PARA O EXERCÍCIO 6
 -- =========================================================
-
-BEGIN;
 
 CREATE TABLE IF NOT EXISTS lap_times (
     race_id   BIGINT  NOT NULL,
@@ -409,5 +411,61 @@ CREATE TABLE IF NOT EXISTS lap_times (
     CONSTRAINT fk_lap_times_driver FOREIGN KEY (driver_id)
         REFERENCES drivers(id) ON DELETE RESTRICT ON UPDATE CASCADE
 );
+
+COMMIT;
+
+BEGIN;
+
+-- =========================================================
+-- CRIAÇÃO DAS TABELAS DA APLICAÇÃO
+-- =========================================================
+
+CREATE TABLE IF NOT EXISTS users (
+    userId UUID PRIMARY KEY DEFAULT gen_random_uuid(),
+    login TEXT NOT NULL UNIQUE,
+    password TEXT NOT NULL,
+    tipo TEXT NOT NULL CHECK (tipo IN ('Admin', 'Escuderia', 'Piloto')),
+    idOriginal TEXT,
+
+    name TEXT NOT NULL,
+    createdAt TIMESTAMPTZ NOT NULL DEFAULT NOW(),
+    updatedAt TIMESTAMPTZ NOT NULL DEFAULT NOW(),
+
+    UNIQUE(tipo, idOriginal)
+);
+
+CREATE TABLE IF NOT EXISTS users_admin (
+    id UUID PRIMARY KEY DEFAULT gen_random_uuid(),
+    userId UUID NOT NULL UNIQUE,
+
+    FOREIGN KEY (userId) REFERENCES users(userId) ON DELETE CASCADE
+);
+
+CREATE TABLE IF NOT EXISTS users_piloto (
+    id UUID PRIMARY KEY DEFAULT gen_random_uuid(),
+    userId UUID NOT NULL UNIQUE,
+
+    FOREIGN KEY (userId) REFERENCES users(userId) ON DELETE CASCADE
+);
+
+CREATE TABLE IF NOT EXISTS users_escuderia (
+    id UUID PRIMARY KEY DEFAULT gen_random_uuid(),
+    userId UUID NOT NULL UNIQUE,
+
+    FOREIGN KEY (userId) REFERENCES users(userId) ON DELETE CASCADE
+);
+
+CREATE TABLE IF NOT EXISTS users_log (
+    id BIGINT GENERATED ALWAYS AS IDENTITY PRIMARY KEY,
+    userId UUID NOT NULL,
+    action TEXT NOT NULL,
+    actionTimestamp TIMESTAMPTZ NOT NULL DEFAULT NOW(),
+    ip_address INET,
+
+    FOREIGN KEY (userId) REFERENCES users(userId)
+);
+
+CREATE INDEX IF NOT EXISTS idx_users_log_user
+ON users_log(userId);
 
 COMMIT;

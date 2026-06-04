@@ -1,3 +1,5 @@
+CREATE EXTENSION IF NOT EXISTS pgcrypto;
+
 BEGIN;
 
 -- =========================================================
@@ -232,5 +234,97 @@ DELETE FROM cities c
 USING city_merge_map m
 WHERE c.id = m.old_id
   AND m.old_id <> m.new_id;
+
+COMMIT;
+
+-- =========================================================
+-- CARGA DOS DADOS DA APLICAÇÃO
+-- =========================================================
+
+BEGIN;
+
+-- Cria o usuário admin
+
+INSERT INTO users (
+    login,
+    password,
+    tipo,
+    idOriginal,
+    name
+)
+VALUES (
+    'admin',
+    crypt('admin', gen_salt('bf')),
+    'Admin',
+    NULL,
+    'Administrador'
+)
+ON CONFLICT (login) DO NOTHING;
+
+INSERT INTO users_admin (userId)
+SELECT userId
+FROM users
+WHERE login = 'admin'
+ON CONFLICT (userId) DO NOTHING;
+
+
+-- Cria o usuário dos pilotos
+
+INSERT INTO users (
+    login,
+    password,
+    tipo,
+    idOriginal,
+    name
+)
+SELECT
+    d.driver_ref || '_d' AS login,
+    crypt(d.driver_ref, gen_salt('bf')) AS password,
+    'Piloto' AS tipo,
+    d.driver_ref AS idOriginal,
+    d.given_name || ' ' || d.family_name AS name
+FROM drivers d
+ON CONFLICT (tipo, idOriginal)
+DO UPDATE SET
+    login = EXCLUDED.login,
+    password = EXCLUDED.password,
+    name = EXCLUDED.name,
+    updatedAt = NOW();
+
+INSERT INTO users_piloto (userId)
+SELECT u.userId
+FROM users u
+WHERE u.tipo = 'Piloto'
+ON CONFLICT (userId) DO NOTHING;
+
+
+-- Cria usuário das escuderias
+
+INSERT INTO users (
+    login,
+    password,
+    tipo,
+    idOriginal,
+    name
+)
+SELECT
+    c.constructor_ref || '_c' AS login,
+    crypt(c.constructor_ref, gen_salt('bf')) AS password,
+    'Escuderia' AS tipo,
+    c.constructor_ref AS idOriginal,
+    c.name AS name
+FROM constructors c
+ON CONFLICT (tipo, idOriginal)
+DO UPDATE SET
+    login = EXCLUDED.login,
+    password = EXCLUDED.password,
+    name = EXCLUDED.name,
+    updatedAt = NOW();
+
+INSERT INTO users_escuderia (userId)
+SELECT u.userId
+FROM users u
+WHERE u.tipo = 'Escuderia'
+ON CONFLICT (userId) DO NOTHING;
 
 COMMIT;
