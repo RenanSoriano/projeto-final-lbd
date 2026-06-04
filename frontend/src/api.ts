@@ -1,31 +1,85 @@
-const apiUrl = import.meta.env.VITE_API_URL ?? "http://localhost:3000";
+import axios, { AxiosError } from "axios";
+import type { AuthUser, DashboardResponse, ReportRowsResponse } from "./types";
 
-type HealthResponse = {
-  status: "ok";
-};
+const tokenStorageKey = "projeto-final:token";
 
-type DatabasePingResponse = {
-  ok: boolean;
-  database?: {
-    now: string;
-  };
-  error?: string;
-};
+export const api = axios.create({
+  baseURL: import.meta.env.VITE_API_URL ?? "http://localhost:3000"
+});
 
-async function fetchJson<T>(path: string): Promise<T> {
-  const response = await fetch(`${apiUrl}${path}`);
+api.interceptors.request.use((config) => {
+  const token = localStorage.getItem(tokenStorageKey);
 
-  if (!response.ok) {
-    throw new Error(`Request failed with status ${response.status}`);
+  if (token) {
+    config.headers.Authorization = `Bearer ${token}`;
   }
 
-  return response.json() as Promise<T>;
+  return config;
+});
+
+export function getStoredToken() {
+  return localStorage.getItem(tokenStorageKey);
 }
 
-export function getHealth() {
-  return fetchJson<HealthResponse>("/health");
+export function setStoredToken(token: string) {
+  localStorage.setItem(tokenStorageKey, token);
 }
 
-export function getDatabasePing() {
-  return fetchJson<DatabasePingResponse>("/db/ping");
+export function clearStoredToken() {
+  localStorage.removeItem(tokenStorageKey);
+}
+
+export function getApiErrorMessage(error: unknown) {
+  if (error instanceof AxiosError) {
+    const message = error.response?.data?.error;
+
+    if (typeof message === "string") {
+      return message;
+    }
+
+    return error.message;
+  }
+
+  if (error instanceof Error) {
+    return error.message;
+  }
+
+  return "Erro inesperado.";
+}
+
+export async function loginRequest(login: string, password: string) {
+  const response = await api.post<{ token: string; user: AuthUser }>("/auth/login", {
+    login,
+    password
+  });
+
+  return response.data;
+}
+
+export async function getCurrentUser() {
+  const response = await api.get<{ user: AuthUser }>("/auth/me");
+
+  return response.data.user;
+}
+
+export async function getDashboard() {
+  const response = await api.get<DashboardResponse>("/dashboard");
+
+  return response.data;
+}
+
+export type ReportPaginationParams = {
+  page: number;
+  pageSize: number;
+};
+
+export async function getReportRows(
+  path: string,
+  pagination: ReportPaginationParams
+) {
+  const response = await api.get<ReportRowsResponse>(path, {
+    params: pagination
+  });
+
+  return response.data;
 }

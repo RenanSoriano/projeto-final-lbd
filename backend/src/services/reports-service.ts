@@ -1,8 +1,52 @@
 import { query } from "../db/service.js";
+import type {
+  PaginationInput,
+  PaginationMeta
+} from "../utils/pagination.js";
+import {
+  createPaginationMeta,
+  getOffset,
+  getTotalFromRows,
+  stripTotalCount
+} from "../utils/pagination.js";
 import type { AuthUser } from "../types/auth.js";
 
-export async function getAdminOverviewReport() {
-  const result = await query(`
+type PaginatedReport = {
+  rows: Record<string, unknown>[];
+  pagination: PaginationMeta;
+};
+
+type Counted<T extends Record<string, unknown>> = T & {
+  total_count: string | number;
+};
+
+function createPaginatedReport(
+  rows: Counted<Record<string, unknown>>[],
+  pagination: PaginationInput
+): PaginatedReport {
+  const total = getTotalFromRows(rows);
+
+  return {
+    rows: stripTotalCount(rows),
+    pagination: createPaginationMeta(pagination, total)
+  };
+}
+
+function createSingleRowReport(
+  rows: Record<string, unknown>[],
+  pagination: PaginationInput
+): PaginatedReport {
+  const offset = getOffset(pagination);
+  const visibleRows = rows.slice(offset, offset + pagination.pageSize);
+
+  return {
+    rows: visibleRows,
+    pagination: createPaginationMeta(pagination, rows.length)
+  };
+}
+
+export async function getAdminOverviewReport(pagination: PaginationInput) {
+  const result = await query<Record<string, unknown>>(`
     select
       (select count(*) from users)::int as users_count,
       (select count(*) from drivers)::int as drivers_count,
@@ -11,70 +55,98 @@ export async function getAdminOverviewReport() {
       (select count(*) from results)::int as results_count
   `);
 
-  return result.rows;
+  return createSingleRowReport(result.rows, pagination);
 }
 
-export async function getAdminTopDriversReport() {
-  const result = await query(`
-    select
-      d.id,
-      d.driver_ref,
-      d.given_name || ' ' || d.family_name as driver_name,
-      sum(r.points) as total_points,
-      count(*)::int as races_count
-    from results r
-    join drivers d on d.id = r.driver_id
-    group by d.id, d.driver_ref, d.given_name, d.family_name
-    order by total_points desc nulls last, driver_name asc
-    limit 20
-  `);
-
-  return result.rows;
-}
-
-export async function getAdminTopConstructorsReport() {
-  const result = await query(`
-    select
-      c.id,
-      c.constructor_ref,
-      c.name as constructor_name,
-      sum(r.points) as total_points,
-      count(distinct r.driver_id)::int as drivers_count
-    from results r
-    join constructors c on c.id = r.constructor_id
-    group by c.id, c.constructor_ref, c.name
-    order by total_points desc nulls last, constructor_name asc
-    limit 20
-  `);
-
-  return result.rows;
-}
-
-export async function getConstructorDriversReport(user: AuthUser) {
-  const result = await query(
+export async function getAdminTopDriversReport(pagination: PaginationInput) {
+  const result = await query<Counted<Record<string, unknown>>>(
     `
       select
-        d.id,
-        d.driver_ref,
-        d.given_name || ' ' || d.family_name as driver_name,
-        count(*)::int as races_count,
-        sum(r.points) as total_points
-      from users u
-      join constructors c on c.constructor_ref = u.idoriginal
-      join results r on r.constructor_id = c.id
-      join drivers d on d.id = r.driver_id
-      where u.userid = $1
-      group by d.id, d.driver_ref, d.given_name, d.family_name
+        *,
+        count(*) over() as total_count
+      from (
+        select
+          d.id,
+          d.driver_ref,
+          d.given_name || ' ' || d.family_name as driver_name,
+          sum(r.points) as total_points,
+          count(*)::int as races_count
+        from results r
+        join drivers d on d.id = r.driver_id
+        group by d.id, d.driver_ref, d.given_name, d.family_name
+      ) report
       order by total_points desc nulls last, driver_name asc
+      limit $1 offset $2
     `,
-    [user.userId]
+    [pagination.pageSize, getOffset(pagination)]
   );
 
-  return result.rows;
+  return createPaginatedReport(result.rows, pagination);
 }
 
-export async function getConstructorRaceResultsReport(user: AuthUser) {
-  const result = await query(
+export async function getAdminTopConstructorsReport(pagination: PaginationInput) {
+  const result = await query<Counted<Record<string, unknown>>>(
+    `
+      select
+        *,
+        count(*) over() as total_count
+      from (
+        select
+          c.id,
+          c.constructor_ref,
+          c.name as constructor_name,
+          sum(r.points) as total_points,
+          count(distinct r.driver_id)::int as drivers_count
+        from results r
+        join constructors c on c.id = r.constructor_id
+        group by c.id, c.constructor_ref, c.name
+      ) report
+      order by total_points desc nulls last, constructor_name asc
+      limit $1 offset $2
+    `,
+    [pagination.pageSize, getOffset(pagination)]
+  );
+
+  return createPaginatedReport(result.rows, pagination);
+}
+
+export async function getConstructorDriversReport(
+  user: AuthUser,
+  pagination: PaginationInput
+) {
+  const result = await query<Counted<Record<string, unknown>>>(
+    `
+      select
+        *,
+        count(*) over() as total_count
+      from (
+        select
+          d.id,
+          d.driver_ref,
+          d.given_name || ' ' || d.family_name as driver_name,
+          count(*)::int as races_count,
+          sum(r.points) as total_points
+        from users u
+        join constructors c on c.constructor_ref = u.idoriginal
+        join results r on r.constructor_id = c.id
+        join drivers d on d.id = r.driver_id
+        where u.userid = $1
+        group by d.id, d.driver_ref, d.given_name, d.family_name
+      ) report
+      order by total_points desc nulls last, driver_name asc
+      limit $2 offset $3
+    `,
+    [user.userId, pagination.pageSize, getOffset(pagination)]
+  );
+
+  return createPaginatedReport(result.rows, pagination);
+}
+
+export async function getConstructorRaceResultsReport(
+  user: AuthUser,
+  pagination: PaginationInput
+) {
+  const result = await query<Counted<Record<string, unknown>>>(
     `
       select
         ra.race_date,
@@ -82,7 +154,8 @@ export async function getConstructorRaceResultsReport(user: AuthUser) {
         d.given_name || ' ' || d.family_name as driver_name,
         r.position_order,
         r.points,
-        r.laps
+        r.laps,
+        count(*) over() as total_count
       from users u
       join constructors c on c.constructor_ref = u.idoriginal
       join results r on r.constructor_id = c.id
@@ -90,16 +163,19 @@ export async function getConstructorRaceResultsReport(user: AuthUser) {
       join drivers d on d.id = r.driver_id
       where u.userid = $1
       order by ra.race_date desc, ra.round desc, r.position_order asc
-      limit 100
+      limit $2 offset $3
     `,
-    [user.userId]
+    [user.userId, pagination.pageSize, getOffset(pagination)]
   );
 
-  return result.rows;
+  return createPaginatedReport(result.rows, pagination);
 }
 
-export async function getDriverRaceResultsReport(user: AuthUser) {
-  const result = await query(
+export async function getDriverRaceResultsReport(
+  user: AuthUser,
+  pagination: PaginationInput
+) {
+  const result = await query<Counted<Record<string, unknown>>>(
     `
       select
         ra.race_date,
@@ -109,7 +185,8 @@ export async function getDriverRaceResultsReport(user: AuthUser) {
         r.position,
         r.position_order,
         r.points,
-        r.laps
+        r.laps,
+        count(*) over() as total_count
       from users u
       join drivers d on d.driver_ref = u.idoriginal
       join results r on r.driver_id = d.id
@@ -117,16 +194,19 @@ export async function getDriverRaceResultsReport(user: AuthUser) {
       join constructors c on c.id = r.constructor_id
       where u.userid = $1
       order by ra.race_date desc, ra.round desc
-      limit 100
+      limit $2 offset $3
     `,
-    [user.userId]
+    [user.userId, pagination.pageSize, getOffset(pagination)]
   );
 
-  return result.rows;
+  return createPaginatedReport(result.rows, pagination);
 }
 
-export async function getDriverPerformanceSummaryReport(user: AuthUser) {
-  const result = await query(
+export async function getDriverPerformanceSummaryReport(
+  user: AuthUser,
+  pagination: PaginationInput
+) {
+  const result = await query<Record<string, unknown>>(
     `
       select
         d.id,
@@ -145,5 +225,5 @@ export async function getDriverPerformanceSummaryReport(user: AuthUser) {
     [user.userId]
   );
 
-  return result.rows;
+  return createSingleRowReport(result.rows, pagination);
 }
