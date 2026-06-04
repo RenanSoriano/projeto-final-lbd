@@ -1,0 +1,169 @@
+id,constructor_ref,name,nationality,country_id,wikipedia_url
+1,alfa,Alfa Romeo,Swiss,41,https://en.wikipedia.org/wiki/Alfa_Romeo_in_Formula_One
+2,lago,Talbot-Lago,French,73,https://en.wikipedia.org/wiki/Talbot-Lago_T26C
+3,era,ERA,British,75,http://en.espn.co.uk/era/motorsport/team/292.html#Profile
+4,maserati,Maserati,Italian,108,https://en.wikipedia.org/wiki/Maserati_in_motorsport
+5,alta,Alta,British,75,https://f1.fandom.com/wiki/Alta_Car_and_Engineering_Company
+6,ferrari,Ferrari,Italian,108,https://en.wikipedia.org/wiki/Scuderia_Ferrari
+7,simca,Simca,French,73,https://f1.fandom.com/wiki/Simca-Gordini
+8,cooper,Cooper,British,75,https://f1.fandom.com/wiki/Cooper_Car_Company
+9,kurtis_kraft,Kurtis Kraft,American,230,https://en.wikipedia.org/wiki/Kurtis_Kraft
+10,deidt,Deidt,American,230,https://en.wikipedia.org/wiki/Emil_Diedt
+11,moore,Moore,American,230,https://www.formula1points.com/team/Moore
+12,lesovsky,Lesovsky,American,230,https://www.formula1points.com/team/Lesovsky
+13,nichels,Nichels,American,230,https://www.formula1points.com/team/Nichels
+14,marchese,Marchese,American,230,https://f1.fandom.com/wiki/Carl_Marchese
+15,stevens,Stevens,American,230,https://f1.fandom.com/wiki/Will_Stevens
+16,langley,Langley,American,230,https://en.wikipedia.org/wiki/Langley_(constructor)
+17,ewing,Ewing,American,230,https://f1.fandom.com/wiki/Wayne_Ewing
+18,rae,Rae,American,230,https://www.4mula1stats.com/team/rae
+19,olson,Olson,American,230,https://www.formula1points.com/team/Olson
+20,wetteroth,Wetteroth,American,230,https://en.wikipedia.org/wiki/Wetteroth
+21,snowberger,Snowberger,American,230,https://en.wikipedia.org/wiki/Russ_Snowberger
+22,adams,Adams,American,230,https://en.wikipedia.org/wiki/Adams_(constructor)
+23,watson,Watson,American,230,https://en.wikipedia.org/wiki/A._J._Watson
+24,hwm,HWM,British,75,https://en.wikipedia.org/wiki/Hersham_and_Walton_Motors
+25,veritas,Veritas,German,55,https://en.wikipedia.org/wiki/Veritas_(automobile)
+26,sherman,Sherman,American,230,https://en.wikipedia.org/wiki/Roy_Sherman
+27,schroeder,Schroeder,American,230,https://en.wikipedia.org/wiki/Gordon_Schroeder
+28,kuzma,Kuzma,American,230,https://en.wikipedia.org/wiki/Eddie_Kuzma
+29,pawl,Pawl,American,230,https://en.wikipedia.org/wiki/Pawl_(constructor)
+30,hall,Hall,American,230,https://en.wikipedia.org/wiki/Hall_(constructor)
+31,bromme,Bromme,American,230,https://en.wikipedia.org/wiki/Bromme
+32,trevis,Trevis,American,230,https://en.wikipedia.org/wiki/Floyd_Trevis
+33,brm,BRM,British,75,https://en.wikipedia.org/wiki/British_Racing_Motors
+34,gordini,Gordini,French,73,https://en.wikipedia.org/wiki/Gordini
+35,frazer_nash,Frazer Nash,British,75,https://en.wikipedia.org/wiki/Frazer_Nash
+36,afm,AFM,German,55,https://en.wikipedia.org/wiki/Alex_von_Falkenhausen_Motorenbau
+37,butterworth,Aston Butterworth,British,75,https://en.wikipedia.org/wiki/Aston_Butterworth
+38,turner,Turner,American,230,https://en.wikipedia.org/wiki/Mike_Nazaruk
+39,del_roy,Del Roy,American,230,https://en.wikipedia.org/wiki/Dallara
+40,connaught,Connaught,British,75,https://en.wikipedia.org/wiki/Connaught_Engineering
+41,phillips,Phillips,American,230,https://en.wikipedia.org/wiki/Phillips_(constructor)
+42,pankratz,Pankratz,American,230,https://en.wikipedia.org/wiki/Pankratz
+43,mercedes,Mercedes,German,55,https://en.wikipedia.org/wiki/Mercedes-Benz_in_Formula_One
+44,lancia,Lancia,Italian,108,https://en.wikipedia.org/wiki/Scuderia_Lancia
+45,vanwall,Vanwall,British,75,
+46,epperly,Epperly,American,230,
+47,dunn,Dunn,American,230,
+48,team_lotus,Team Lotus,British,75,
+49,porsche,Porsche,German,55,
+50,cooper-climax,Cooper-Climax,British,75,
+51,cooper-maserati,Cooper-Maserati,British,75,
+52,elder,Elder,American,230,
+53,vhristensen,Christensen,American,230,
+54,sutton,Sutton,American,230,
+55,aston_martin,Aston Martin,British,75,
+56,cooper-borgward,Cooper-Borgward,British,75,
+57,behra-porsche,Behra-Porsche,Italian,108,
+58,meskowski,Meskowski,American,230,
+59,scarab,Scarab,American,230,
+60,lotus-climax,Lotus-Climax,British,75,
+61,de_tomaso-osca,De Tomaso-Osca,Italian,108,
+62,emeryson,Emeryson,British,75,
+63,jbw,JBW,British,75,
+64,lola,Lola,British,75,
+65,de_tomaso-alfa_romeo,De Tomaso-Alfa Romeo,Italian,108,
+66,lotus-brm,Lotus-BRM,British,75,
+67,brabham,Brabham,British,75,
+68,ats,ATS,Italian,108,
+69,scirocco,Scirocco,British,75,
+70,tomaso,De Tomaso,Italian,108,
+71,brp,BRP,British,75,
+72,brabham-climax,Brabham-Climax,British,75,
+73,brabham-brm,Brabham-BRM,British,75,
+74,brabham-ford,Brabham-Ford,British,75,
+75,lds-alfa_romeo,LDS-Alfa Romeo,South African,246,
+76,re,RE,Rhodesian,248,
+77,honda,Honda,Japanese,112,
+78,brabham-repco,Brabham-Repco,British,75,
+79,mclaren-ford,McLaren-Ford,British,75,
+80,eagle-climax,Eagle-Climax,American,230,
+81,mclaren-seren,McLaren-Serenissima,British,75,
+82,cooper-ferrari,Cooper-Ferrari,British,75,
+83,shannon,Shannon,British,75,
+84,lds-climax,LDS-Climax,South African,246,
+85,mclaren-brm,McLaren-BRM,British,75,
+86,eagle-weslake,Eagle-Weslake,American,230,
+87,matra,Matra,French,73,
+88,lotus-ford,Lotus-Ford,British,75,
+89,cooper-ats,Cooper-ATS,British,75,
+90,matra-ford,Matra-Ford,French,73,
+91,lds,LDS,South African,246,
+92,cooper-brm,Cooper-BRM,British,75,
+93,march,March,British,75,
+94,tyrrell,Tyrrell,British,75,
+95,mclaren,McLaren,British,75,
+96,surtees,Surtees,British,75,
+97,march-ford,March-Ford,British,75,
+98,march-alfa_romeo,March-Alfa Romeo,British,75,
+99,lotus-pw,Lotus-Pratt &amp; Whitney,British,75,
+100,iso_marlboro,Iso Marlboro,British,75,
+101,shadow,Shadow,British,75,
+102,tecno,Tecno,Italian,108,
+103,hesketh,Hesketh,British,75,
+104,trojan,Trojan,British,75,
+105,amon,Amon,New Zealander,169,
+106,penske,Penske,American,230,
+107,shadow-ford,Shadow-Ford,British,75,
+108,williams,Williams,British,75,
+109,parnelli,Parnelli,American,230,
+110,fittipaldi,Fittipaldi,Brazilian,30,
+111,hill,Embassy Hill,British,75,
+112,ensign,Ensign,British,75,
+113,wolf,Wolf,Canadian,36,
+114,brabham-alfa_romeo,Brabham-Alfa Romeo,British,75,
+115,ligier,Ligier,French,73,
+116,boro,Boro,Dutch,164,
+117,merzario,Merzario,Italian,108,
+118,arrows,Arrows,British,75,
+119,renault,Renault,French,73,
+120,theodore,Theodore,Hong Kong,,
+121,osella,Osella,Italian,108,
+122,toleman,Toleman,British,75,
+123,ram,RAM,British,75,
+124,spirit,Spirit,British,75,
+125,minardi,Minardi,Italian,108,
+126,zakspeed,Zakspeed,German,55,
+127,benetton,Benetton,Italian,108,
+128,ags,AGS,French,73,
+129,larrousse,Larrousse,French,73,
+130,rial,Rial,German,55,
+131,coloni,Coloni,Italian,108,
+132,eurobrun,Euro Brun,Italian,108,
+133,dallara,Dallara,Italian,108,
+134,leyton,Leyton House,British,75,
+135,onyx,Onyx,British,75,
+136,lambo,Lambo,Italian,108,
+137,jordan,Jordan,Irish,100,
+138,footwork,Footwork,British,75,
+139,fondmetal,Fondmetal,Italian,108,
+140,sauber,Sauber,Swiss,41,
+141,simtek,Simtek,British,75,
+142,pacific,Pacific,British,75,
+143,forti,Forti,Italian,108,
+144,prost,Prost,French,73,
+145,stewart,Stewart,British,75,
+146,bar,BAR,British,75,
+147,jaguar,Jaguar,British,75,
+148,toyota,Toyota,Japanese,112,
+149,red_bull,Red Bull,Austrian,12,
+150,toro_rosso,Toro Rosso,Italian,108,
+151,bmw_sauber,BMW Sauber,German,55,
+152,mf1,MF1,Russian,,
+153,super_aguri,Super Aguri,Japanese,112,
+154,spyker,Spyker,Dutch,164,
+155,force_india,Force India,Indian,103,
+156,brawn,Brawn,British,75,
+157,lotus_racing,Lotus,Malaysian,156,
+158,hrt,HRT,Spanish,66,
+159,virgin,Virgin,British,75,
+160,lotus_f1,Lotus F1,British,75,
+161,marussia,Marussia,Russian,,
+162,caterham,Caterham,Malaysian,156,
+163,manor,Manor Marussia,British,75,
+164,haas,Haas F1 Team,American,230,
+165,racing_point,Racing Point,British,75,
+166,alphatauri,AlphaTauri,Italian,108,
+167,alpine,Alpine F1 Team,French,73,
+168,rb,RB F1 Team,Italian,108,

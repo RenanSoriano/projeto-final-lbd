@@ -1,0 +1,7927 @@
+id,name
+1,Afro-Asiatic languages
+2,Algonquian languages
+3,Apache languages
+4,Artificial languages
+5,Athapascan languages
+6,Australian languages
+7,Banda languages
+8,Bamileke languages
+9,Baltic languages
+10,Berber languages
+11,Bihari languages
+12,Bantu (Other)
+13,Batak languages
+14,Central American Indian languages
+15,Caucasian languages
+16,Celtic languages
+17,Chamic languages
+18,"Creoles and pidgins, English based"
+19,"Creoles and pidgins, French-based"
+20,"Creoles and pidgins, Portuguese-based"
+21,Creoles and pidgins
+22,Cushitic languages
+23,Land Dayak languages
+24,Dravidian languages
+25,Finno-Ugrian languages
+26,Northern Frisian
+27,Germanic languages
+28,Himachali languages; Western Pahari languages
+29,Ijo languages
+30,Indic languages
+31,Indo-European languages
+32,Iranian languages
+33,Iroquoian languages
+34,Karen languages
+35,Khoisan languages
+36,Kru languages
+37,Austronesian languages
+38,Mon-Khmer languages
+39,Manobo languages
+40,Munda languages
+41,Mayan languages
+42,Nahuatl languages
+43,North American Indian languages
+44,Niger-Kordofanian languages
+45,Nubian languages
+46,Otomian languages
+47,Papuan languages
+48,Philippine languages
+49,Prakrit languages
+50,Romance languages
+51,Aromanian; Arumanian; Macedo-Romanian
+52,South American Indian (Other)
+53,Salishan languages
+54,Semitic languages
+55,Sign Languages
+56,Siouan languages
+57,Sino-Tibetan languages
+58,Slavic languages
+59,Sami languages
+60,Songhai languages
+61,Sranan Tongo
+62,Nilo-Saharan languages
+63,Classical Syriac
+64,Tai languages
+65,Tupi languages
+66,Altaic languages
+67,Wakashan languages
+68,Sorbian languages
+69,Yupik languages
+70,Zande languages
+71,Ghotuo
+72,Alumu-Tesu
+73,Ari
+74,Amal
+75,Arbëreshë Albanian
+76,Aranadan
+77,Ambrak
+78,Abu' Arapesh
+79,Arifama-Miniafia
+80,Ankave
+81,Afade
+82,Anambé
+83,Algerian Saharan Arabic
+84,Pará Arára
+85,Eastern Abnaki
+86,Afar
+87,Aasáx
+88,Arvanitika Albanian
+89,Abau
+90,Solong
+91,Mandobo Atas
+92,Amarasi
+93,Abé
+94,Bankon
+95,Ambala Ayta
+96,Manide
+97,Western Abnaki
+98,Abai Sungai
+99,Abaga
+100,Tajiki Arabic
+101,Abidji
+102,Aka-Bea
+103,Abkhazian
+104,Lampung Nyo
+105,Abanyom
+106,Abua
+107,Abon
+108,Abellen Ayta
+109,Abaza
+110,Abron
+111,Ambonese Malay
+112,Ambulas
+113,Abure
+114,Baharna Arabic
+115,Pal
+116,Inabaknon
+117,Aneme Wake
+118,Abui
+119,Achagua
+120,Áncá
+121,Gikyode
+122,Achinese
+123,Saint Lucian Creole French
+124,Acoli
+125,Aka-Cari
+126,Aka-Kora
+127,Akar-Bale
+128,Mesopotamian Arabic
+129,Achang
+130,Eastern Acipa
+131,Ta'izzi-Adeni Arabic
+132,Achi
+133,Acroá
+134,Achterhoeks
+135,Achuar-Shiwiar
+136,Achumawi
+137,Hijazi Arabic
+138,Omani Arabic
+139,Cypriot Arabic
+140,Acheron
+141,Adangme
+142,Adabe
+143,Lidzonka
+144,Adele
+145,Dhofari Arabic
+146,Andegerebinha
+147,Adhola
+148,Adi
+149,Adioukrou
+150,Galo
+151,Adang
+152,Abu
+153,Adangbe
+154,Adonara
+155,Adamorobe Sign Language
+156,Adnyamathanha
+157,Aduge
+158,Amundava
+159,Amdo Tibetan
+160,Adyghe
+161,Adzera
+162,Areba
+163,Tunisian Arabic
+164,Saidi Arabic
+165,Argentine Sign Language
+166,Northeast Pashai
+167,Haeke
+168,Ambele
+169,Arem
+170,Armenian Sign Language
+171,Aer
+172,Eastern Arrernte
+173,Alsea
+174,Akeu
+175,Ambakich
+176,Amele
+177,Aeka
+178,Gulf Arabic
+179,Andai
+180,Putukwam
+181,Afghan Sign Language
+182,Afrihili
+183,Akrukay
+184,Nanubae
+185,Defaka
+186,Eloyi
+187,Tapei
+188,Afrikaans
+189,Afro-Seminole Creole
+190,Afitti
+191,Awutu
+192,Obokuitai
+193,Aguano
+194,Legbo
+195,Agatu
+196,Agarabi
+197,Angal
+198,Arguni
+199,Angor
+200,Ngelima
+201,Agariya
+202,Argobba
+203,Isarog Agta
+204,Fembe
+205,Angaataha
+206,Agutaynen
+207,Tainae
+208,Aghem
+209,Aguaruna
+210,Esimbi
+211,Central Cagayan Agta
+212,Aguacateco
+213,Remontado Dumagat
+214,Kahua
+215,Aghul
+216,Southern Alta
+217,Mt. Iriga Agta
+218,Ahanta
+219,Axamb
+220,Qimant
+221,Aghu
+222,Tiagbamrin Aizi
+223,Akha
+224,Igo
+225,Mobumrin Aizi
+226,Àhàn
+227,Ahom
+228,Aproumu Aizi
+229,Ahirani
+230,Ashe
+231,Ahtena
+232,Arosi
+233,Ainu (China)
+234,Ainbai
+235,Alngith
+236,Amara
+237,Agi
+238,Antigua and Barbuda Creole English
+239,Ai-Cham
+240,Assyrian Neo-Aramaic
+241,Lishanid Noshan
+242,Ake
+243,Aimele
+244,Aimol
+245,Ainu (Japan)
+246,Aiton
+247,Burumakok
+248,Aimaq
+249,Airoran
+250,Arikem
+251,Aari
+252,Aighon
+253,Ali
+254,Aja (South Sudan)
+255,Aja (Benin)
+256,Ajië
+257,Andajin
+258,South Levantine Arabic
+259,Judeo-Tunisian Arabic
+260,Judeo-Moroccan Arabic
+261,Ajawa
+262,Amri Karbi
+263,Akan
+264,Batak Angkola
+265,Mpur
+266,Ukpet-Ehom
+267,Akawaio
+268,Akpa
+269,Anakalangu
+270,Angal Heneng
+271,Aiome
+272,Aka-Jeru
+273,Akkadian
+274,Aklanon
+275,Aka-Bo
+276,Akurio
+277,Siwu
+278,Ak
+279,Araki
+280,Akaselem
+281,Akolet
+282,Akum
+283,Akhvakh
+284,Akwa
+285,Aka-Kede
+286,Aka-Kol
+287,Alabama
+288,Alago
+289,Qawasqar
+290,Alladian
+291,Aleut
+292,Alege
+293,Alawa
+294,Amaimon
+295,Alangan
+296,Alak
+297,Allar
+298,Amblong
+299,Gheg Albanian
+300,Larike-Wakasihu
+301,Alune
+302,Algonquin
+303,Alutor
+304,Tosk Albanian
+305,Southern Altai
+306,'Are'are
+307,Alaba-K’abeena
+308,Amol
+309,Alyawarr
+310,Alur
+311,Amanayé
+312,Ambo
+313,Amahuaca
+314,Yanesha'
+315,Hamer-Banna
+316,Amurdak
+317,Amharic
+318,Amis
+319,Amdang
+320,Ambai
+321,War-Jaintia
+322,Ama (Papua New Guinea)
+323,Amanab
+324,Amo
+325,Alamblak
+326,Amahai
+327,Amarakaeri
+328,Southern Amami-Oshima
+329,Amto
+330,Guerrero Amuzgo
+331,Ambelau
+332,Western Neo-Aramaic
+333,Anmatyerre
+334,Ami
+335,Atampaya
+336,Andaqui
+337,Andoa
+338,Ngas
+339,Ansus
+340,Xârâcùù
+341,Animere
+342,Old English (ca. 450-1100)
+343,Nend
+344,Andi
+345,Anor
+346,Goemai
+347,Anu-Hkongso Chin
+348,Anal
+349,Obolo
+350,Andoque
+351,Angika
+352,Jarawa (India)
+353,Andh
+354,Anserma
+355,Antakarinya
+356,Anuak
+357,Denya
+358,Anaang
+359,Andra-Hus
+360,Anyin
+361,Anem
+362,Angolar
+363,Abom
+364,Pemon
+365,Andarum
+366,Angal Enen
+367,Bragat
+368,Angoram
+369,Arma
+370,Anindilyakwa
+371,Mufian
+372,Arhö
+373,Alor
+374,Ömie
+375,Bumbita Arapesh
+376,Aore
+377,Taikat
+378,Atong (India)
+379,A'ou
+380,Atorada
+381,Uab Meto
+382,Sa'a
+383,North Levantine Arabic
+384,Sudanese Arabic
+385,Bukiyip
+386,Pahanan Agta
+387,Ampanang
+388,Athpariya
+389,Apiaká
+390,Jicarilla Apache
+391,Kiowa Apache
+392,Lipan Apache
+393,Mescalero-Chiricahua Apache
+394,Apinayé
+395,Ambul
+396,Apma
+397,A-Pucikwar
+398,Arop-Lokep
+399,Arop-Sissano
+400,Apatani
+401,Apurinã
+402,Alapmunte
+403,Western Apache
+404,Aputai
+405,Apalaí
+406,Safeyoka
+407,Archi
+408,Ampari Dogon
+409,Arigidi
+410,Atohwaim
+411,Northern Alta
+412,Atakapa
+413,Arhâ
+414,Angaité
+415,Akuntsu
+416,Arabic
+417,Standard Arabic
+418,Official Aramaic (700-300 BCE)
+419,Arabana
+420,Western Arrarnta
+421,Aragonese
+422,Arhuaco
+423,Arikara
+424,Arapaso
+425,Arikapú
+426,Arabela
+427,Mapudungun
+428,Araona
+429,Arapaho
+430,Algerian Arabic
+431,Karo (Brazil)
+432,Najdi Arabic
+433,Aruá (Amazonas State)
+434,Arbore
+435,Arawak
+436,Aruá (Rodonia State)
+437,Moroccan Arabic
+438,Egyptian Arabic
+439,Asu (Tanzania)
+440,Assiniboine
+441,Casuarina Coast Asmat
+442,American Sign Language
+443,Auslan
+444,Cishingini
+445,Abishira
+446,Buruwai
+447,Sari
+448,Ashkun
+449,Asilulu
+450,Assamese
+451,Xingú Asuriní
+452,Dano
+453,Algerian Sign Language
+454,Austrian Sign Language
+455,Asuri
+456,Ipulo
+457,Asturian
+458,Tocantins Asurini
+459,Asoa
+460,Australian Aborigines Sign Language
+461,Muratayak
+462,Yaosakor Asmat
+463,As
+464,Pele-Ata
+465,Zaiwa
+466,Atsahuaca
+467,Ata Manobo
+468,Atemble
+469,Ivbie North-Okpela-Arhe
+470,Attié
+471,Atikamekw
+472,Ati
+473,Mt. Iraya Agta
+474,Ata
+475,Ashtiani
+476,Atong (Cameroon)
+477,Pudtol Atta
+478,Aralle-Tabulahan
+479,Waimiri-Atroari
+480,Gros Ventre
+481,Pamplona Atta
+482,Reel
+483,Northern Altai
+484,Atsugewi
+485,Arutani
+486,Aneityum
+487,Arta
+488,Asumboa
+489,Alugu
+490,Waorani
+491,Anuta
+492,Aguna
+493,Aushi
+494,Anuki
+495,Awjilah
+496,Heyo
+497,Aulua
+498,Asu (Nigeria)
+499,Molmo One
+500,Auyokawa
+501,Makayam
+502,Anus
+503,Aruek
+504,Austral
+505,Auye
+506,Awyi
+507,Aurá
+508,Awiyaana
+509,Uzbeki Arabic
+510,Avaric
+511,Avau
+512,Alviri-Vidari
+513,Avestan
+514,Avikam
+515,Kotava
+516,Eastern Egyptian Bedawi Arabic
+517,Angkamuthi
+518,Avatime
+519,Agavotaguerra
+520,Aushiri
+521,Au
+522,Avokaya
+523,Avá-Canoeiro
+524,Awadhi
+525,Awa (Papua New Guinea)
+526,Cicipu
+527,Awetí
+528,Anguthimri
+529,Awbono
+530,Aekyom
+531,Awabakal
+532,Arawum
+533,Awngi
+534,Awak
+535,Awera
+536,South Awyu
+537,Araweté
+538,Central Awyu
+539,Jair Awyu
+540,Awun
+541,Awara
+542,Edera Awyu
+543,Abipon
+544,Ayerrerenge
+545,Mato Grosso Arára
+546,Yaka (Central African Republic)
+547,Lower Southern Aranda
+548,Middle Armenian
+549,Xârâgurè
+550,Awar
+551,Ayizo Gbe
+552,Southern Aymara
+553,Ayabadhu
+554,Ayere
+555,Ginyanga
+556,Hadrami Arabic
+557,Leyigha
+558,Akuku
+559,Libyan Arabic
+560,Aymara
+561,Sanaani Arabic
+562,Ayoreo
+563,North Mesopotamian Arabic
+564,Ayi (Papua New Guinea)
+565,Central Aymara
+566,Sorsogon Ayta
+567,Magbukun Ayta
+568,Ayu
+569,Tayabas Ayta
+570,Mai Brat
+571,Azha
+572,South Azerbaijani
+573,Eastern Durango Nahuatl
+574,Azerbaijani
+575,San Pedro Amuzgos Amuzgo
+576,North Azerbaijani
+577,Ipalapa Amuzgo
+578,Western Durango Nahuatl
+579,Awing
+580,Faire Atta
+581,Highland Puebla Nahuatl
+582,Babatana
+583,Bainouk-Gunyuño
+584,Badui
+585,Baré
+586,Nubaca
+587,Tuki
+588,Bahamas Creole English
+589,Barakai
+590,Bashkir
+591,Baluchi
+592,Bambara
+593,Balinese
+594,Waimaha
+595,Bantawa
+596,Bavarian
+597,Basa (Cameroon)
+598,Bada (Nigeria)
+599,Vengo
+600,Bambili-Bambui
+601,Bamun
+602,Batuley
+603,Baatonum
+604,Barai
+605,Batak Toba
+606,Bau
+607,Bangba
+608,Baibai
+609,Barama
+610,Bugan
+611,Barombi
+612,Ghomálá'
+613,Babanki
+614,Bats
+615,Babango
+616,Uneapa
+617,Northern Bobo Madaré
+618,West Central Banda
+619,Bamali
+620,Girawa
+621,Bakpinka
+622,Mburku
+623,Kulung (Nigeria)
+624,Karnai
+625,Baba
+626,Bubia
+627,Befang
+628,Babalia Creole Arabic
+629,Central Bai
+630,Bainouk-Samik
+631,Southern Balochi
+632,North Babar
+633,Bamenyam
+634,Bamu
+635,Baga Pokur
+636,Bariai
+637,Baoulé
+638,Bardi
+639,Bunuba
+640,Central Bikol
+641,Bannoni
+642,Bali (Nigeria)
+643,Kaluli
+644,Bali (Democratic Republic of Congo)
+645,Bench
+646,Babine
+647,Kohumono
+648,Bendi
+649,Awad Bing
+650,Shoo-Minda-Nye
+651,Bana
+652,Bacama
+653,Bainouk-Gunyaamolo
+654,Bayot
+655,Basap
+656,Emberá-Baudó
+657,Bunama
+658,Bade
+659,Biage
+660,Bonggi
+661,Baka (South Sudan)
+662,Burun
+663,Bai (South Sudan)
+664,Budukh
+665,Indonesian Bajau
+666,Buduma
+667,Baldemu
+668,Morom
+669,Bende
+670,Bahnar
+671,West Coast Bajau
+672,Burunge
+673,Bokoto
+674,Oroko
+675,Bodo Parja
+676,Baham
+677,Budong-Budong
+678,Bandjalang
+679,Badeshi
+680,Beaver
+681,Bebele
+682,Iceve-Maci
+683,Bedoanas
+684,Byangsi
+685,Benabena
+686,Belait
+687,Biali
+688,Bekati'
+689,Beja
+690,Bebeli
+691,Belarusian
+692,Bemba (Zambia)
+693,Bengali
+694,Beami
+695,Besoa
+696,Beembe
+697,Besme
+698,Guiberoua Béte
+699,Blagar
+700,Daloa Bété
+701,Betawi
+702,Jur Modo
+703,Beli (Papua New Guinea)
+704,Bena (Tanzania)
+705,Bari
+706,Pauri Bareli
+707,Panyi Bai
+708,Bafut
+709,Betaf
+710,Bofi
+711,Busang Kayan
+712,Blafe
+713,British Sign Language
+714,Bafanji
+715,Ban Khor Sign Language
+716,Banda-Ndélé
+717,Mmen
+718,Bunak
+719,Malba Birifor
+720,Beba
+721,Badaga
+722,Bazigar
+723,Southern Bai
+724,Balti
+725,Gahri
+726,Bondo
+727,Bantayanon
+728,Bagheli
+729,Mahasu Pahari
+730,Gwamhi-Wuri
+731,Bobongko
+732,Haryanvi
+733,Rathwi Bareli
+734,Bauria
+735,Bangandu
+736,Bugun
+737,Giangan
+738,Bangolan
+739,Bit
+740,Bo (Laos)
+741,Western Balochi
+742,Baga Koga
+743,Eastern Balochi
+744,Bagri
+745,Bawm Chin
+746,Tagabawa
+747,Bughotu
+748,Mbongno
+749,Warkay-Bipim
+750,Bhatri
+751,Balkan Gagauz Turkish
+752,Benggoi
+753,Banggai
+754,Bharia
+755,Bhili
+756,Biga
+757,Bhadrawahi
+758,Bhaya
+759,Odiai
+760,Binandere
+761,Bukharic
+762,Bhilali
+763,Bahing
+764,Bimin
+765,Bathari
+766,Bohtan Neo-Aramaic
+767,Bhojpuri
+768,Bima
+769,Tukang Besi South
+770,Bara Malagasy
+771,Buwal
+772,Bhattiyali
+773,Bhunjia
+774,Bahau
+775,Biak
+776,Bhalay
+777,Bhele
+778,Bada (Indonesia)
+779,Badimaya
+780,Bissa
+781,Bikaru
+782,Bidiyo
+783,Bepour
+784,Biafada
+785,Biangai
+786,Vaghat-Ya-Bijim-Legeri
+787,Bikol
+788,Bile
+789,Bimoba
+790,Bini
+791,Nai
+792,Bila
+793,Bipi
+794,Bisorio
+795,Bislama
+796,Berinomo
+797,Biete
+798,Southern Birifor
+799,Kol (Cameroon)
+800,Bijori
+801,Birhor
+802,Baloi
+803,Budza
+804,Banggarla
+805,Bariji
+806,Biao-Jiao Mien
+807,Barzani Jewish Neo-Aramaic
+808,Bidyogo
+809,Bahinemo
+810,Burji
+811,Kanauji
+812,Barok
+813,Bulu (Papua New Guinea)
+814,Bajelani
+815,Banjar
+816,Mid-Southern Banda
+817,Fanamaket
+818,Binumarien
+819,Bajan
+820,Balanta-Ganja
+821,Busuu
+822,Bedjond
+823,Bakwé
+824,Banao Itneg
+825,Bayali
+826,Baruga
+827,Kyak
+828,Baka (Cameroon)
+829,Binukid
+830,Beeke
+831,Buraka
+832,Bakoko
+833,Baki
+834,Pande
+835,Brokskat
+836,Berik
+837,Kom (Cameroon)
+838,Bukitan
+839,Kwa'
+840,Boko (Democratic Republic of Congo)
+841,Bakairí
+842,Bakumpai
+843,Northern Sorsoganon
+844,Boloki
+845,Buhid
+846,Bekwarra
+847,Bekwel
+848,Baikeno
+849,Bokyi
+850,Bungku
+851,Siksika
+852,Bilua
+853,Bella Coola
+854,Bolango
+855,Balanta-Kentohe
+856,Buol
+857,Balau
+858,Kuwaa
+859,Bolia
+860,Bolongan
+861,Pa'o Karen
+862,Biloxi
+863,Beli (South Sudan)
+864,Southern Catanduanes Bikol
+865,Anii
+866,Blablanga
+867,Baluan-Pam
+868,Blang
+869,Balaesang
+870,Tai Dam
+871,Kibala
+872,Balangao
+873,Mag-Indi Ayta
+874,Notre
+875,Balantak
+876,Lame
+877,Bembe
+878,Biem
+879,Baga Manduri
+880,Limassa
+881,Bom-Kim
+882,Bamwe
+883,Kein
+884,Bagirmi
+885,Bote-Majhi
+886,Ghayavi
+887,Bomboli
+888,Northern Betsimisaraka Malagasy
+889,Bina (Papua New Guinea)
+890,Bambalang
+891,Bulgebi
+892,Bomu
+893,Muinane
+894,Bilma Kanuri
+895,Biao Mon
+896,Somba-Siawari
+897,Bum
+898,Bomwali
+899,Baimak
+900,Baramu
+901,Bonerate
+902,Bookan
+903,Bontok
+904,Banda (Indonesia)
+905,Bintauna
+906,Masiwang
+907,Benga
+908,Bangi
+909,Eastern Tawbuid
+910,Bierebo
+911,Boon
+912,Batanga
+913,Bunun
+914,Bantoanon
+915,Bola
+916,Bantik
+917,Butmas-Tur
+918,Bundeli
+919,Bentong
+920,Bonerif
+921,Bisis
+922,Bangubangu
+923,Bintulu
+924,Beezen
+925,Bora
+926,Aweer
+927,Tibetan
+928,Mundabli
+929,Bolon
+930,Bamako Sign Language
+931,Boma
+932,Barbareño
+933,Anjam
+934,Bonjo
+935,Bole
+936,Berom
+937,Bine
+938,Tiemacèwè Bozo
+939,Bonkiman
+940,Bogaya
+941,Borôro
+942,Bosnian
+943,Bongo
+944,Bondei
+945,Tuwuli
+946,Rema
+947,Buamu
+948,Bodo (Central African Republic)
+949,Tiéyaxo Bozo
+950,Daakaka
+951,Barbacoas
+952,Banda-Banda
+953,Bonggo
+954,Botlikh
+955,Bagupi
+956,Binji
+957,Orowe
+958,Broome Pearling Lugger Pidgin
+959,Biyom
+960,Dzao Min
+961,Anasi
+962,Kaure
+963,Banda Malay
+964,Koronadal Blaan
+965,Sarangani Blaan
+966,Barrow Point
+967,Bongu
+968,Bian Marind
+969,Bo (Papua New Guinea)
+970,Palya Bareli
+971,Bishnupriya
+972,Bilba
+973,Tchumbuli
+974,Bagusa
+975,Boko (Benin)
+976,Bung
+977,Baga Kaloum
+978,Bago-Kusuntu
+979,Baima
+980,Bakhtiari
+981,Bandial
+982,Banda-Mbrès
+983,Bilakura
+984,Wumboko
+985,Bulgarian Sign Language
+986,Balo
+987,Busa
+988,Biritai
+989,Burusu
+990,Bosngun
+991,Bamukumbit
+992,Boguru
+993,Koro Wachi
+994,Buru (Nigeria)
+995,Baangi
+996,Bengkala Sign Language
+997,Bakaka
+998,Braj
+999,Lave
+1000,Berbice Creole Dutch
+1001,Baraamu
+1002,Breton
+1003,Bera
+1004,Baure
+1005,Brahui
+1006,Mokpwe
+1007,Bieria
+1008,Birked
+1009,Birwa
+1010,Barambu
+1011,Boruca
+1012,Brokkat
+1013,Barapasi
+1014,Breri
+1015,Birao
+1016,Baras
+1017,Bitare
+1018,Eastern Bru
+1019,Western Bru
+1020,Bellari
+1021,Bodo (India)
+1022,Burui
+1023,Bilbil
+1024,Abinomn
+1025,Brunei Bisaya
+1026,Bassari
+1027,Wushi
+1028,Bauchi
+1029,Bashkardi
+1030,Kati
+1031,Bassossi
+1032,Bangwinji
+1033,Burushaski
+1034,Basa-Gumna
+1035,Busami
+1036,Barasana-Eduria
+1037,Buso
+1038,Baga Sitemu
+1039,Bassa
+1040,Bassa-Kontagora
+1041,Akoose
+1042,Basketo
+1043,Bahonsuai
+1044,Baga Sobané
+1045,Baiso
+1046,Yangkam
+1047,Sabah Bisaya
+1048,Bata
+1049,Bati (Cameroon)
+1050,Batak Dairi
+1051,Gamo-Ningi
+1052,Birgit
+1053,Gagnoa Bété
+1054,Biatah Bidayuh
+1055,Burate
+1056,Bacanese Malay
+1057,Batak Mandailing
+1058,Ratagnon
+1059,Rinconada Bikol
+1060,Budibud
+1061,Batek
+1062,Baetora
+1063,Batak Simalungun
+1064,Bete-Bendi
+1065,Batu
+1066,Bateri
+1067,Butuanon
+1068,Batak Karo
+1069,Bobot
+1070,Batak Alas-Kluet
+1071,Buriat
+1072,Bua
+1073,Bushi
+1074,Ntcham
+1075,Beothuk
+1076,Bushoong
+1077,Buginese
+1078,Younuo Bunu
+1079,Bongili
+1080,Basa-Gurmana
+1081,Bugawac
+1082,Bulgarian
+1083,Bulu (Cameroon)
+1084,Sherbro
+1085,Terei
+1086,Busoa
+1087,Brem
+1088,Bokobaru
+1089,Bungain
+1090,Budu
+1091,Bun
+1092,Bubi
+1093,Boghom
+1094,Bullom So
+1095,Bukwen
+1096,Barein
+1097,Bube
+1098,Baelelea
+1099,Baeggu
+1100,Berau Malay
+1101,Boor
+1102,Bonkeng
+1103,Bure
+1104,Belanda Viri
+1105,Baan
+1106,Bukat
+1107,Bolivian Sign Language
+1108,Bamunka
+1109,Buna
+1110,Bolgo
+1111,Bumang
+1112,Birri
+1113,Burarra
+1114,Bati (Indonesia)
+1115,Bukit Malay
+1116,Baniva
+1117,Boga
+1118,Dibole
+1119,Baybayanon
+1120,Bauzi
+1121,Bwatoo
+1122,Namosi-Naitasiri-Serua
+1123,Bwile
+1124,Bwaidoka
+1125,Bwe Karen
+1126,Boselewa
+1127,Barwe
+1128,Bishuo
+1129,Baniwa
+1130,Láá Láá Bwamu
+1131,Bauwaki
+1132,Bwela
+1133,Biwat
+1134,Wunai Bunu
+1135,Boro (Ethiopia)
+1136,Mandobo Bawah
+1137,Southern Bobo Madaré
+1138,Bura-Pabir
+1139,Bomboma
+1140,Bafaw-Balong
+1141,Buli (Ghana)
+1142,Bwa
+1143,Bu-Nao Bunu
+1144,Cwi Bwamu
+1145,Bwisi
+1146,Tairaha
+1147,Belanda Bor
+1148,Molengue
+1149,Pela
+1150,Birale
+1151,Bilur
+1152,Bangala
+1153,Buhutu
+1154,Pirlatapa
+1155,Bayungu
+1156,Bukusu
+1157,Jalkunan
+1158,Mongolia Buriat
+1159,Burduna
+1160,Barikanchi
+1161,Bebil
+1162,Beele
+1163,Russia Buriat
+1164,Busam
+1165,China Buriat
+1166,Berakou
+1167,Bankagooma
+1168,Binahari
+1169,Batak
+1170,Bikya
+1171,Ubaghara
+1172,Benyadu'
+1173,Pouye
+1174,Bete
+1175,Baygo
+1176,Bhujel
+1177,Buyu
+1178,Bina (Nigeria)
+1179,Biao
+1180,Bayono
+1181,Bidjara
+1182,Bilin
+1183,Biyo
+1184,Bumaji
+1185,Basay
+1186,Baruya
+1187,Burak
+1188,Berti
+1189,Medumba
+1190,Belhariya
+1191,Qaqet
+1192,Banaro
+1193,Bandi
+1194,Andio
+1195,Southern Betsimisaraka Malagasy
+1196,Bribri
+1197,Jenaama Bozo
+1198,Boikin
+1199,Babuza
+1200,Mapos Buang
+1201,Bisu
+1202,Belize Kriol English
+1203,Nicaragua Creole English
+1204,Boano (Sulawesi)
+1205,Bolondo
+1206,Boano (Maluku)
+1207,Bozaba
+1208,Kemberano
+1209,Buli (Indonesia)
+1210,Biri
+1211,Brazilian Sign Language
+1212,Brithenig
+1213,Burmeso
+1214,Naami
+1215,Basa (Nigeria)
+1216,Kɛlɛngaxo Bozo
+1217,Obanliku
+1218,Evant
+1219,Chortí
+1220,Garifuna
+1221,Chuj
+1222,Caddo
+1223,Lehar
+1224,Southern Carrier
+1225,Nivaclé
+1226,Cahuarano
+1227,Chané
+1228,Kaqchikel
+1229,Carolinian
+1230,Cemuhî
+1231,Chambri
+1232,Chácobo
+1233,Chipaya
+1234,Car Nicobarese
+1235,Galibi Carib
+1236,Tsimané
+1237,Catalan
+1238,Cavineña
+1239,Callawalla
+1240,Chiquitano
+1241,Cayuga
+1242,Canichana
+1243,Cabiyarí
+1244,Carapana
+1245,Carijona
+1246,Chimila
+1247,Chachi
+1248,Ede Cabe
+1249,Chavacano
+1250,Bualkhaw Chin
+1251,Nyahkur
+1252,Izora
+1253,Tsucuba
+1254,Cashibo-Cacataibo
+1255,Cashinahua
+1256,Chayahuita
+1257,Candoshi-Shapra
+1258,Cacua
+1259,Kinabalian
+1260,Carabayo
+1261,Cauca
+1262,Chamicuro
+1263,Cafundo Creole
+1264,Chopi
+1265,Samba Daka
+1266,Atsam
+1267,Kasanga
+1268,Cutchi-Swahili
+1269,Malaccan Creole Malay
+1270,Comaltepec Chinantec
+1271,Chakma
+1272,Cacaopera
+1273,Choni
+1274,Chenchu
+1275,Chiru
+1276,Chamari
+1277,Chambeali
+1278,Chodri
+1279,Churahi
+1280,Chepang
+1281,Chaudangsi
+1282,Min Dong Chinese
+1283,Cinda-Regi-Tiyal
+1284,Chadian Sign Language
+1285,Chadong
+1286,Koda
+1287,Lower Chehalis
+1288,Cebuano
+1289,Chamacoco
+1290,Eastern Khumi Chin
+1291,Cen
+1292,Czech
+1293,Centúúm
+1294,Ekai Chin
+1295,Dijim-Bwilim
+1296,Cara
+1297,Como Karim
+1298,Falam Chin
+1299,Changriwa
+1300,Kagayanen
+1301,Chiga
+1302,Chocangacakha
+1303,Chamorro
+1304,Chibcha
+1305,Catawba
+1306,Highland Oaxaca Chontal
+1307,Chechen
+1308,Tabasco Chontal
+1309,Chagatai
+1310,Chinook
+1311,Ojitlán Chinantec
+1312,Chuukese
+1313,Cahuilla
+1314,Mari (Russia)
+1315,Chinook jargon
+1316,Choctaw
+1317,Chipewyan
+1318,Quiotepec Chinantec
+1319,Cherokee
+1320,Cholón
+1321,Church Slavic
+1322,Chuvash
+1323,Chuwabu
+1324,Chantyal
+1325,Cheyenne
+1326,Ozumacín Chinantec
+1327,Cia-Cia
+1328,Ci Gbe
+1329,Chickasaw
+1330,Chimariko
+1331,Cineni
+1332,Chinali
+1333,Chitkuli Kinnauri
+1334,Cimbrian
+1335,Cinta Larga
+1336,Chiapanec
+1337,Tiri
+1338,Chippewa
+1339,Chaima
+1340,Western Cham
+1341,Chru
+1342,Upper Chehalis
+1343,Chamalal
+1344,Chokwe
+1345,Eastern Cham
+1346,Chenapian
+1347,Ashéninka Pajonal
+1348,Cabécar
+1349,Shor
+1350,Chuave
+1351,Jinyu Chinese
+1352,Central Kurdish
+1353,Chak
+1354,Cibak
+1355,Kaang Chin
+1356,Anufo
+1357,Kajakse
+1358,Kairak
+1359,Tayo
+1360,Chukot
+1361,Koasati
+1362,Kavalan
+1363,Caka
+1364,Cakfem-Mushere
+1365,Cakchiquel-Quiché Mixed Language
+1366,Ron
+1367,Chilcotin
+1368,Chaldean Neo-Aramaic
+1369,Lealao Chinantec
+1370,Chilisso
+1371,Chakali
+1372,Laitu Chin
+1373,Idu-Mishmi
+1374,Chala
+1375,Clallam
+1376,Lowland Oaxaca Chontal
+1377,Lautu Chin
+1378,Caluyanun
+1379,Chulym
+1380,Eastern Highland Chatino
+1381,Maa
+1382,Cerma
+1383,Classical Mongolian
+1384,Emberá-Chamí
+1385,Campalagian
+1386,Michigamea
+1387,Mandarin Chinese
+1388,Central Mnong
+1389,Mro-Khimi Chin
+1390,Messapic
+1391,Camtho
+1392,Changthang
+1393,Chinbon Chin
+1394,Côông
+1395,Northern Qiang
+1396,Hakha Chin
+1397,Asháninka
+1398,Khumi Chin
+1399,Lalana Chinantec
+1400,Con
+1401,Montenegrin
+1402,Central Asmat
+1403,Tepetotutla Chinantec
+1404,Chenoua
+1405,Ngawn Chin
+1406,Middle Cornish
+1407,Cocos Islands Malay
+1408,Chicomuceltec
+1409,Cocopa
+1410,Cocama-Cocamilla
+1411,Koreguaje
+1412,Colorado
+1413,Chong
+1414,Chonyi-Dzihana-Kauma
+1415,Cochimi
+1416,Santa Teresa Cora
+1417,Columbia-Wenatchi
+1418,Comanche
+1419,Cofán
+1420,Comox
+1421,Coptic
+1422,Coquille
+1423,Cornish
+1424,Corsican
+1425,Caquinte
+1426,Wamey
+1427,Cao Miao
+1428,Cowlitz
+1429,Nanti
+1430,Chochotec
+1431,Palantla Chinantec
+1432,Ucayali-Yurúa Ashéninka
+1433,Ajyíninka Apurucayali
+1434,Cappadocian Greek
+1435,Chinese Pidgin English
+1436,Cherepon
+1437,Kpeego
+1438,Capiznon
+1439,Pichis Ashéninka
+1440,Pu-Xian Chinese
+1441,South Ucayali Ashéninka
+1442,Chuanqiandian Cluster Miao
+1443,Chara
+1444,Island Carib
+1445,Lonwolwol
+1446,Coeur d'Alene
+1447,Cree
+1448,Caramanta
+1449,Michif
+1450,Crimean Tatar
+1451,Sãotomense
+1452,Southern East Cree
+1453,Plains Cree
+1454,Northern East Cree
+1455,Moose Cree
+1456,El Nayar Cora
+1457,Crow
+1458,Iyo'wujwa Chorote
+1459,Carolina Algonquian
+1460,Seselwa Creole French
+1461,Iyojwa'ja Chorote
+1462,Chaura
+1463,Chrau
+1464,Carrier
+1465,Cori
+1466,Cruzeño
+1467,Chiltepec Chinantec
+1468,Kashubian
+1469,Catalan Sign Language
+1470,Chiangmai Sign Language
+1471,Czech Sign Language
+1472,Cuba Sign Language
+1473,Chilean Sign Language
+1474,Asho Chin
+1475,Coast Miwok
+1476,Songlai Chin
+1477,Jola-Kasa
+1478,Chinese Sign Language
+1479,Central Sierra Miwok
+1480,Colombian Sign Language
+1481,Sochiapam Chinantec
+1482,Croatia Sign Language
+1483,Costa Rican Sign Language
+1484,Southern Ohlone
+1485,Northern Ohlone
+1486,Sumtu Chin
+1487,Swampy Cree
+1488,Siyin Chin
+1489,Coos
+1490,Tataltepec Chatino
+1491,Chetco
+1492,Tedim Chin
+1493,Tepinapa Chinantec
+1494,Chittagonian
+1495,Thaiphum Chin
+1496,Tlacoatzintepec Chinantec
+1497,Chitimacha
+1498,Chhintange
+1499,Emberá-Catío
+1500,Western Highland Chatino
+1501,Northern Catanduanes Bikol
+1502,Wayanad Chetti
+1503,Chol
+1504,Zacatepec Chatino
+1505,Cua
+1506,Cubeo
+1507,Usila Chinantec
+1508,Chungmboko
+1509,Chuka
+1510,Cuiba
+1511,Mashco Piro
+1512,San Blas Kuna
+1513,Culina
+1514,Cumanagoto
+1515,Cupeño
+1516,Cun
+1517,Chhulung
+1518,Teutila Cuicatec
+1519,Tai Ya
+1520,Cuvok
+1521,Chukwa
+1522,Tepeuxila Cuicatec
+1523,Cuitlatec
+1524,Chug
+1525,Valle Nacional Chinantec
+1526,Kabwa
+1527,Maindo
+1528,Woods Cree
+1529,Kwere
+1530,Chewong
+1531,Kuwaataay
+1532,Nopala Chatino
+1533,Cayubaba
+1534,Welsh
+1535,Cuyonon
+1536,Huizhou Chinese
+1537,Knaanic
+1538,Zenzontepec Chatino
+1539,Min Zhong Chinese
+1540,Zotung Chin
+1541,Dangaléat
+1542,Dambi
+1543,Marik
+1544,Duupa
+1545,Dagbani
+1546,Gwahatike
+1547,Day
+1548,Dar Fur Daju
+1549,Dakota
+1550,Dahalo
+1551,Damakawa
+1552,Danish
+1553,Daai Chin
+1554,Dandami Maria
+1555,Dargwa
+1556,Daho-Doo
+1557,Dar Sila Daju
+1558,Taita
+1559,Davawenyo
+1560,Dayi
+1561,Dao
+1562,Bangime
+1563,Deno
+1564,Dadiya
+1565,Dabe
+1566,Edopi
+1567,Dogul Dom Dogon
+1568,Doka
+1569,Ida'an
+1570,Dyirbal
+1571,Duguri
+1572,Duriankere
+1573,Dulbu
+1574,Duwai
+1575,Daba
+1576,Dabarre
+1577,Ben Tey Dogon
+1578,Bondum Dom Dogon
+1579,Dungu
+1580,Bankan Tey Dogon
+1581,Dibiyaso
+1582,Deccan
+1583,Negerhollands
+1584,Dadi Dadi
+1585,Dongotono
+1586,Doondo
+1587,Fataluku
+1588,West Goodenough
+1589,Jaru
+1590,Dendi (Benin)
+1591,Dido
+1592,Dhudhuroa
+1593,Donno So Dogon
+1594,Dawera-Daweloor
+1595,Dagik
+1596,Dedua
+1597,Dewoin
+1598,Dezfuli
+1599,Degema
+1600,Dehwari
+1601,Demisa
+1602,Dek
+1603,Delaware
+1604,Dem
+1605,Slave (Athapascan)
+1606,Pidgin Delaware
+1607,Dendi (Central African Republic)
+1608,Deori
+1609,Desano
+1610,German
+1611,Domung
+1612,Dengese
+1613,Southern Dagaare
+1614,Bunoge Dogon
+1615,Casiguran Dumagat Agta
+1616,Dagaari Dioula
+1617,Degenan
+1618,Doga
+1619,Dghwede
+1620,Northern Dagara
+1621,Dagba
+1622,Andaandi
+1623,Dagoman
+1624,Dogri (individual language)
+1625,Dogrib
+1626,Dogoso
+1627,Ndra'ngith
+1628,Degaru
+1629,Daungwurrung
+1630,Doghoro
+1631,Daga
+1632,Dhundari
+1633,Dhangu-Djangu
+1634,Dhimal
+1635,Dhalandji
+1636,Zemba
+1637,Dhanki
+1638,Dhodia
+1639,Dhargari
+1640,Dhaiso
+1641,Dhurga
+1642,Dehu
+1643,Dhanwar (Nepal)
+1644,Dhungaloo
+1645,Dia
+1646,South Central Dinka
+1647,Lakota Dida
+1648,Didinga
+1649,Dieri
+1650,Digo
+1651,Kumiai
+1652,Dimbong
+1653,Dai
+1654,Southwestern Dinka
+1655,Dilling
+1656,Dime
+1657,Dinka
+1658,Dibo
+1659,Northeastern Dinka
+1660,Dimli (individual language)
+1661,Dirim
+1662,Dimasa
+1663,Diriku
+1664,Dhivehi
+1665,Northwestern Dinka
+1666,Dixon Reef
+1667,Diuwe
+1668,Ding
+1669,Djadjawurrung
+1670,Djinba
+1671,Dar Daju Daju
+1672,Djamindjung
+1673,Zarma
+1674,Djangun
+1675,Djinang
+1676,Djeebbana
+1677,Eastern Maroon Creole
+1678,Jamsay Dogon
+1679,Jawoyn
+1680,Jangkang
+1681,Djambarrpuyngu
+1682,Kapriman
+1683,Djawi
+1684,Dakpakha
+1685,Dakka
+1686,Kuijau
+1687,Southeastern Dinka
+1688,Mazagway
+1689,Dolgan
+1690,Dahalik
+1691,Dalmatian
+1692,Darlong
+1693,Duma
+1694,Mombo Dogon
+1695,Gavak
+1696,Madhi Madhi
+1697,Dugwor
+1698,Upper Kinabatangan
+1699,Domaaki
+1700,Dameli
+1701,Dama
+1702,Kemedzung
+1703,East Damar
+1704,Dampelas
+1705,Dubu
+1706,Dumpas
+1707,Mudburra
+1708,Dema
+1709,Demta
+1710,Upper Grand Valley Dani
+1711,Daonda
+1712,Ndendeule
+1713,Dungan
+1714,Lower Grand Valley Dani
+1715,Dan
+1716,Dengka
+1717,Dzùùngoo
+1718,Ndrulo
+1719,Danaru
+1720,Mid Grand Valley Dani
+1721,Danau
+1722,Danu
+1723,Western Dani
+1724,Dení
+1725,Dom
+1726,Dobu
+1727,Northern Dong
+1728,Doe
+1729,Domu
+1730,Dong
+1731,Dogri (macrolanguage)
+1732,Dondo
+1733,Doso
+1734,Toura (Papua New Guinea)
+1735,Dongo
+1736,Lukpa
+1737,Dominican Sign Language
+1738,Dori'o
+1739,Dogosé
+1740,Dass
+1741,Dombe
+1742,Doyayo
+1743,Bussa
+1744,Dompo
+1745,Dorze
+1746,Papar
+1747,Dair
+1748,Minderico
+1749,Darmiya
+1750,Dolpo
+1751,Rungus
+1752,C'Lela
+1753,Paakantyi
+1754,West Damar
+1755,Daro-Matu Melanau
+1756,Dura
+1757,Dororo
+1758,Gedeo
+1759,Drents
+1760,Rukai
+1761,Darai
+1762,Lower Sorbian
+1763,Dutch Sign Language
+1764,Daasanach
+1765,Disa
+1766,Danish Sign Language
+1767,Dusner
+1768,Desiya
+1769,Tadaksahak
+1770,Daur
+1771,Labuk-Kinabatangan Kadazan
+1772,Ditidaht
+1773,Adithinngithigh
+1774,Ana Tinga Dogon
+1775,Tene Kan Dogon
+1776,Tomo Kan Dogon
+1777,Daatsʼíin
+1778,Tommo So Dogon
+1779,Kadazan Dusun
+1780,Lotud
+1781,Toro So Dogon
+1782,Toro Tegu Dogon
+1783,Tebul Ure Dogon
+1784,Dotyali
+1785,Duala
+1786,Dubli
+1787,Duna
+1788,Umiray Dumaget Agta
+1789,Dumbea
+1790,Duruma
+1791,Dungra Bhil
+1792,Dumun
+1793,Uyajitaya
+1794,Alabat Island Agta
+1795,Middle Dutch (ca. 1050-1350)
+1796,Dusun Deyah
+1797,Dupaninan Agta
+1798,Duano
+1799,Dusun Malang
+1800,Dii
+1801,Dumi
+1802,Drung
+1803,Duvle
+1804,Dusun Witu
+1805,Duungooma
+1806,Dicamay Agta
+1807,Duli-Gey
+1808,Duau
+1809,Diri
+1810,Dawro
+1811,Dutton World Speedwords
+1812,Dhuwal
+1813,Dawawa
+1814,Dhuwaya
+1815,Dewas Rai
+1816,Dyan
+1817,Dyaberdyaber
+1818,Dyugun
+1819,Villa Viciosa Agta
+1820,Djimini Senoufo
+1821,Yanda Dom Dogon
+1822,Dyangadi
+1823,Jola-Fonyi
+1824,Dyula
+1825,Djabugay
+1826,Tunzu
+1827,Djiwarli
+1828,Dazaga
+1829,Dzalakha
+1830,Dzando
+1831,Dzongkha
+1832,Karenggapa
+1833,Ebughu
+1834,Eastern Bontok
+1835,Teke-Ebo
+1836,Ebrié
+1837,Embu
+1838,Eteocretan
+1839,Ecuadorian Sign Language
+1840,Eteocypriot
+1841,E
+1842,Efai
+1843,Efe
+1844,Efik
+1845,Ega
+1846,Emilian
+1847,Eggon
+1848,Egyptian (Ancient)
+1849,Ehueun
+1850,Eipomek
+1851,Eitiep
+1852,Askopan
+1853,Ejamat
+1854,Ekajuk
+1855,Eastern Karnic
+1856,Ekit
+1857,Ekari
+1858,Eki
+1859,Standard Estonian
+1860,Kol (Bangladesh)
+1861,Elip
+1862,Koti
+1863,Ekpeye
+1864,Yace
+1865,Eastern Kayah
+1866,Elepi
+1867,El Hugeirat
+1868,Nding
+1869,Elkei
+1870,Modern Greek (1453-)
+1871,Eleme
+1872,El Molo
+1873,Elu
+1874,Elamite
+1875,Emai-Iuleha-Ora
+1876,Embaloh
+1877,Emerillon
+1878,Eastern Meohang
+1879,Mussau-Emira
+1880,Eastern Maninkakan
+1881,Mamulique
+1882,Eman
+1883,Northern Emberá
+1884,Pacific Gulf Yupik
+1885,Eastern Muria
+1886,Emplawas
+1887,Erromintxela
+1888,Epigraphic Mayan
+1889,Apali
+1890,Markweeta
+1891,En
+1892,Ende
+1893,Forest Enets
+1894,English
+1895,Tundra Enets
+1896,Enlhet
+1897,Middle English (1100-1500)
+1898,Engenni
+1899,Enggano
+1900,Enga
+1901,Emumu
+1902,Enu
+1903,Enwan (Edu State)
+1904,Enwan (Akwa Ibom State)
+1905,Enxet
+1906,Beti (Côte d'Ivoire)
+1907,Epie
+1908,Esperanto
+1909,Eravallan
+1910,Sie
+1911,Eruwa
+1912,Ogea
+1913,South Efate
+1914,Horpa
+1915,Erre
+1916,Ersu
+1917,Eritai
+1918,Erokwanas
+1919,Ese Ejja
+1920,Aheri Gondi
+1921,Eshtehardi
+1922,North Alaskan Inupiatun
+1923,Northwest Alaska Inupiatun
+1924,Egypt Sign Language
+1925,Esuma
+1926,Salvadoran Sign Language
+1927,Estonian Sign Language
+1928,Esselen
+1929,Central Siberian Yupik
+1930,Estonian
+1931,Central Yupik
+1932,Eskayan
+1933,Etebi
+1934,Etchemin
+1935,Ethiopian Sign Language
+1936,Eton (Vanuatu)
+1937,Eton (Cameroon)
+1938,Edolo
+1939,Yekhee
+1940,Etruscan
+1941,Ejagham
+1942,Eten
+1943,Semimi
+1944,Basque
+1945,Even
+1946,Uvbie
+1947,Evenki
+1948,Ewe
+1949,Ewondo
+1950,Extremaduran
+1951,Eyak
+1952,Keiyo
+1953,Ezaa
+1954,Uzekwe
+1955,Fasu
+1956,Fa d'Ambu
+1957,Wagi
+1958,Fagani
+1959,Finongan
+1960,Baissa Fali
+1961,Faiwol
+1962,Faita
+1963,Fang (Cameroon)
+1964,South Fali
+1965,Fam
+1966,Fang (Equatorial Guinea)
+1967,Faroese
+1968,Paloor
+1969,Fataleka
+1970,Persian
+1971,Fanti
+1972,Fayu
+1973,Fala
+1974,Southwestern Fars
+1975,Northwestern Fars
+1976,West Albay Bikol
+1977,Quebec Sign Language
+1978,Feroge
+1979,Foia Foia
+1980,Maasina Fulfulde
+1981,Fongoro
+1982,Nobiin
+1983,Fyer
+1984,Fijian
+1985,Filipino
+1986,Finnish
+1987,Fipa
+1988,Firan
+1989,Tornedalen Finnish
+1990,Fiwaga
+1991,Kirya-Konzəl
+1992,Kven Finnish
+1993,Kalispel-Pend d'Oreille
+1994,Foau
+1995,Fali
+1996,North Fali
+1997,Flinders Island
+1998,Fuliiru
+1999,Flaaitaal
+2000,Fe'fe'
+2001,Far Western Muria
+2002,Fanbak
+2003,Fanagalo
+2004,Fania
+2005,Foodo
+2006,Foi
+2007,Foma
+2008,Fon
+2009,Fore
+2010,Siraya
+2011,Fernando Po Creole English
+2012,Fas
+2013,French
+2014,Cajun French
+2015,Fordata
+2016,Frankish
+2017,Middle French (ca. 1400-1600)
+2018,Old French (842-ca. 1400)
+2019,Arpitan
+2020,Forak
+2021,Eastern Frisian
+2022,Fortsenal
+2023,Western Frisian
+2024,Finnish Sign Language
+2025,French Sign Language
+2026,Finland-Swedish Sign Language
+2027,Adamawa Fulfulde
+2028,Pulaar
+2029,East Futuna
+2030,Borgu Fulfulde
+2031,Pular
+2032,Western Niger Fulfulde
+2033,Bagirmi Fulfulde
+2034,Ko
+2035,Fulah
+2036,Fum
+2037,Fulniô
+2038,Central-Eastern Niger Fulfulde
+2039,Friulian
+2040,Futuna-Aniwa
+2041,Furu
+2042,Nigerian Fulfulde
+2043,Fuyug
+2044,Fur
+2045,Fwâi
+2046,Fwe
+2047,Ga
+2048,Gabri
+2049,Mixed Great Andamanese
+2050,Gaddang
+2051,Guarequena
+2052,Gende
+2053,Gagauz
+2054,Alekano
+2055,Borei
+2056,Gadsup
+2057,Gamkonora
+2058,Galolen
+2059,Kandawo
+2060,Gan Chinese
+2061,Gants
+2062,Gal
+2063,Gata'
+2064,Galeya
+2065,Adiwasi Garasia
+2066,Kenati
+2067,Mudhili Gadaba
+2068,Nobonob
+2069,Borana-Arsi-Guji Oromo
+2070,Gayo
+2071,West Central Oromo
+2072,Gbaya (Central African Republic)
+2073,Kaytetye
+2074,Karajarri
+2075,Niksek
+2076,Gaikundi
+2077,Gbanziri
+2078,Defi Gbe
+2079,Galela
+2080,Bodo Gadaba
+2081,Gaddi
+2082,Gamit
+2083,Garhwali
+2084,Mo'da
+2085,Northern Grebo
+2086,Gbaya-Bossangoa
+2087,Gbaya-Bozoum
+2088,Gbagyi
+2089,Gbesi Gbe
+2090,Gagadu
+2091,Gbanu
+2092,Gabi-Gabi
+2093,Eastern Xwla Gbe
+2094,Gbari
+2095,Zoroastrian Dari
+2096,Mali
+2097,Ganggalida
+2098,Galice
+2099,Guadeloupean Creole French
+2100,Grenadian Creole English
+2101,Gaina
+2102,Guianese Creole French
+2103,Colonia Tovar German
+2104,Gade Lohar
+2105,Pottangi Ollar Gadaba
+2106,Gugu Badhun
+2107,Gedaged
+2108,Gude
+2109,Guduf-Gava
+2110,Ga'dang
+2111,Gadjerawang
+2112,Gundi
+2113,Gurdjar
+2114,Gadang
+2115,Dirasha
+2116,Laal
+2117,Umanakaina
+2118,Ghodoberi
+2119,Mehri
+2120,Wipi
+2121,Ghandruk Sign Language
+2122,Kungardutyi
+2123,Gudu
+2124,Godwari
+2125,Geruma
+2126,Kire
+2127,Gboloo Grebo
+2128,Gade
+2129,Gengle
+2130,Hutterite German
+2131,Gebe
+2132,Gen
+2133,Ywom
+2134,ut-Ma'in
+2135,Geme
+2136,Geser-Gorom
+2137,Eviya
+2138,Gera
+2139,Garre
+2140,Enya
+2141,Geez
+2142,Patpatar
+2143,Gafat
+2144,Gao
+2145,Gbii
+2146,Gugadj
+2147,Gurr-goni
+2148,Gurgula
+2149,Kungarakany
+2150,Ganglau
+2151,Gitua
+2152,Gagu
+2153,Gogodala
+2154,Ghadamès
+2155,Hiberno-Scottish Gaelic
+2156,Southern Ghale
+2157,Northern Ghale
+2158,Geko Karen
+2159,Ghulfan
+2160,Ghanongga
+2161,Ghomara
+2162,Ghera
+2163,Guhu-Samane
+2164,Kuke
+2165,Kija
+2166,Gibanawa
+2167,Gail
+2168,Gidar
+2169,Gaɓogbo
+2170,Goaria
+2171,Githabul
+2172,Gilbertese
+2173,Gimi (Eastern Highlands)
+2174,Hinukh
+2175,Gimi (West New Britain)
+2176,Green Gelao
+2177,Red Gelao
+2178,North Giziga
+2179,Gitxsan
+2180,Mulao
+2181,White Gelao
+2182,Gilima
+2183,Giyug
+2184,South Giziga
+2185,Geji
+2186,Kachi Koli
+2187,Gunditjmara
+2188,Gonja
+2189,Gurindji Kriol
+2190,Gujari
+2191,Guya
+2192,Magɨ (Madang Province)
+2193,Ndai
+2194,Gokana
+2195,Kok-Nar
+2196,Guinea Kpelle
+2197,ǂUngkue
+2198,Scottish Gaelic
+2199,Bon Gula
+2200,Nanai
+2201,Irish
+2202,Galician
+2203,Northwest Pashai
+2204,Guliguli
+2205,Gula Iro
+2206,Gilaki
+2207,Garlali
+2208,Galambu
+2209,Glaro-Twabo
+2210,Gula (Chad)
+2211,Manx
+2212,Glavda
+2213,Gule
+2214,Gambera
+2215,Gula'alaa
+2216,Mághdì
+2217,Magɨyi
+2218,Middle High German (ca. 1050-1500)
+2219,Middle Low German
+2220,Gbaya-Mbodomo
+2221,Gimnime
+2222,Gumalu
+2223,Gamo
+2224,Magoma
+2225,Mycenaean Greek
+2226,Mgbolizhia
+2227,Kaansa
+2228,Gangte
+2229,Guanche
+2230,Zulgo-Gemzek
+2231,Ganang
+2232,Ngangam
+2233,Lere
+2234,Gooniyandi
+2235,Ngen
+2236,ǁGana
+2237,Gangulu
+2238,Ginuman
+2239,Gumatj
+2240,Northern Gondi
+2241,Gana
+2242,Gureng Gureng
+2243,Guntai
+2244,Gnau
+2245,Western Bolivian Guaraní
+2246,Ganzi
+2247,Guro
+2248,Playero
+2249,Gorakor
+2250,Godié
+2251,Gongduk
+2252,Gofa
+2253,Gogo
+2254,Old High German (ca. 750-1050)
+2255,Gobasi
+2256,Gowlan
+2257,Gowli
+2258,Gola
+2259,Goan Konkani
+2260,Gondi
+2261,Gone Dau
+2262,Yeretuar
+2263,Gorap
+2264,Gorontalo
+2265,Gronings
+2266,Gothic
+2267,Gavar
+2268,Gorowa
+2269,Gobu
+2270,Goundo
+2271,Gozarkhani
+2272,Gupa-Abawa
+2273,Ghanaian Pidgin English
+2274,Taiap
+2275,Ga'anda
+2276,Guiqiong
+2277,Guana (Brazil)
+2278,Gor
+2279,Qau
+2280,Rajput Garasia
+2281,Grebo
+2282,Ancient Greek (to 1453)
+2283,Guruntum-Mbaaru
+2284,Madi
+2285,Gbiri-Niragu
+2286,Ghari
+2287,Southern Grebo
+2288,Kota Marudu Talantang
+2289,Guarani
+2290,Groma
+2291,Gorovu
+2292,Taznatit
+2293,Gresi
+2294,Garo
+2295,Kistane
+2296,Central Grebo
+2297,Gweda
+2298,Guriaso
+2299,Barclayville Grebo
+2300,Guramalum
+2301,Ghanaian Sign Language
+2302,German Sign Language
+2303,Gusilay
+2304,Guatemalan Sign Language
+2305,Nema
+2306,Southwest Gbaya
+2307,Wasembo
+2308,Greek Sign Language
+2309,Swiss German
+2310,Guató
+2311,Aghu-Tharnggala
+2312,Shiki
+2313,Guajajára
+2314,Wayuu
+2315,Yocoboué Dida
+2316,Gurindji
+2317,Gupapuyngu
+2318,Paraguayan Guaraní
+2319,Guahibo
+2320,Eastern Bolivian Guaraní
+2321,Gujarati
+2322,Gumuz
+2323,Sea Island Creole English
+2324,Guambiano
+2325,Mbyá Guaraní
+2326,Guayabero
+2327,Gunwinggu
+2328,Aché
+2329,Farefare
+2330,Guinean Sign Language
+2331,Maléku Jaíka
+2332,Yanomamö
+2333,Gun
+2334,Gourmanchéma
+2335,Gusii
+2336,Guana (Paraguay)
+2337,Guanano
+2338,Duwet
+2339,Golin
+2340,Guajá
+2341,Gulay
+2342,Gurmana
+2343,Kuku-Yalanji
+2344,Gavião Do Jiparaná
+2345,Pará Gavião
+2346,Gurung
+2347,Gumawana
+2348,Guyani
+2349,Mbato
+2350,Gwa
+2351,Kalami
+2352,Gawwada
+2353,Gweno
+2354,Gowro
+2355,Moo
+2356,Gwichʼin
+2357,ǀGwi
+2358,Awngthim
+2359,Gwandara
+2360,Gwere
+2361,Gawar-Bati
+2362,Guwamu
+2363,Kwini
+2364,Gua
+2365,Wè Southern
+2366,Northwest Gbaya
+2367,Garus
+2368,Kayardild
+2369,Gyem
+2370,Gungabula
+2371,Gbayi
+2372,Gyele
+2373,Gayil
+2374,Ngäbere
+2375,Guyanese Creole English
+2376,Gyalsumdo
+2377,Guarayu
+2378,Gunya
+2379,Ganza
+2380,Gazi
+2381,Gane
+2382,Han
+2383,Hanoi Sign Language
+2384,Gurani
+2385,Hatam
+2386,Eastern Oromo
+2387,Haiphong Sign Language
+2388,Hanga
+2389,Hahon
+2390,Haida
+2391,Hajong
+2392,Hakka Chinese
+2393,Halang
+2394,Hewa
+2395,Hangaza
+2396,Hakö
+2397,Hupla
+2398,Ha
+2399,Harari
+2400,Haisla
+2401,Haitian
+2402,Hausa
+2403,Havu
+2404,Hawaiian
+2405,Southern Haida
+2406,Haya
+2407,Hazaragi
+2408,Hamba
+2409,Huba
+2410,Heiban
+2411,Ancient Hebrew
+2412,Serbo-Croatian
+2413,Habu
+2414,Andaman Creole Hindi
+2415,Huichol
+2416,Northern Haida
+2417,Honduras Sign Language
+2418,Hadiyya
+2419,Northern Qiandong Miao
+2420,Hebrew
+2421,Herdé
+2422,Helong
+2423,Hehe
+2424,Heiltsuk
+2425,Hemba
+2426,Herero
+2427,Haiǁom
+2428,Haigwai
+2429,Hoia Hoia
+2430,Kerak
+2431,Hoyahoya
+2432,Lamang
+2433,Hibito
+2434,Hidatsa
+2435,Fiji Hindi
+2436,Kamwe
+2437,Pamosu
+2438,Hinduri
+2439,Hijuk
+2440,Seit-Kaitetu
+2441,Hiligaynon
+2442,Hindi
+2443,Tsoa
+2444,Himarimã
+2445,Hittite
+2446,Hiw
+2447,Hixkaryána
+2448,Haji
+2449,Kahe
+2450,Hunde
+2451,Hunjara-Kaina Ke
+2452,Mel-Khaonh
+2453,Hong Kong Sign Language
+2454,Halia
+2455,Halbi
+2456,Halang Doan
+2457,Hlersu
+2458,Matu Chin
+2459,Hieroglyphic Luwian
+2460,Southern Mashan Hmong
+2461,Humburi Senni Songhay
+2462,Central Huishui Hmong
+2463,Large Flowery Miao
+2464,Eastern Huishui Hmong
+2465,Hmong Don
+2466,Southwestern Guiyang Hmong
+2467,Southwestern Huishui Hmong
+2468,Northern Huishui Hmong
+2469,Ge
+2470,Maek
+2471,Luopohe Hmong
+2472,Central Mashan Hmong
+2473,Hmong
+2474,Hiri Motu
+2475,Northern Mashan Hmong
+2476,Eastern Qiandong Miao
+2477,Hmar
+2478,Southern Qiandong Miao
+2479,Hamtai
+2480,Hamap
+2481,Hmong Dô
+2482,Western Mashan Hmong
+2483,Southern Guiyang Hmong
+2484,Hmong Shua
+2485,Mina (Cameroon)
+2486,Southern Hindko
+2487,Chhattisgarhi
+2488,ǁAni
+2489,Hani
+2490,Hmong Njua
+2491,Hanunoo
+2492,Northern Hindko
+2493,Caribbean Hindustani
+2494,Hung
+2495,Hoava
+2496,Mari (Madang Province)
+2497,Ho
+2498,Holma
+2499,Horom
+2500,Hobyót
+2501,Holikachuk
+2502,Hadothi
+2503,Holu
+2504,Homa
+2505,Holoholo
+2506,Hopi
+2507,Horo
+2508,Ho Chi Minh City Sign Language
+2509,Hote
+2510,Hovongan
+2511,Honi
+2512,Holiya
+2513,Hozo
+2514,Hpon
+2515,Hawai'i Sign Language (HSL)
+2516,Hrangkhol
+2517,Niwer Mil
+2518,Hre
+2519,Haruku
+2520,Horned Miao
+2521,Haroi
+2522,Nhirrpi
+2523,Hértevin
+2524,Hruso
+2525,Croatian
+2526,Warwar Feni
+2527,Hunsrik
+2528,Harzani
+2529,Upper Sorbian
+2530,Hungarian Sign Language
+2531,Hausa Sign Language
+2532,Xiang Chinese
+2533,Harsusi
+2534,Hoti
+2535,Minica Huitoto
+2536,Hadza
+2537,Hitu
+2538,Middle Hittite
+2539,Huambisa
+2540,ǂHua
+2541,Huaulu
+2542,San Francisco Del Mar Huave
+2543,Humene
+2544,Huachipaeri
+2545,Huilliche
+2546,Huli
+2547,Northern Guiyang Hmong
+2548,Hulung
+2549,Hula
+2550,Hungana
+2551,Hungarian
+2552,Hu
+2553,Hupa
+2554,Tsat
+2555,Halkomelem
+2556,Huastec
+2557,Humla
+2558,Murui Huitoto
+2559,San Mateo Del Mar Huave
+2560,Hukumina
+2561,Nüpode Huitoto
+2562,Hulaulá
+2563,Hunzib
+2564,Haitian Vodoun Culture Language
+2565,San Dionisio Del Mar Huave
+2566,Haveke
+2567,Sabu
+2568,Santa María Del Mar Huave
+2569,Wané
+2570,Hawai'i Creole English
+2571,Hwana
+2572,Hya
+2573,Armenian
+2574,Western Armenian
+2575,Iaai
+2576,Iatmul
+2577,Purari
+2578,Iban
+2579,Ibibio
+2580,Iwaidja
+2581,Akpes
+2582,Ibanag
+2583,Bih
+2584,Ibaloi
+2585,Agoi
+2586,Ibino
+2587,Igbo
+2588,Ibuoro
+2589,Ibu
+2590,Ibani
+2591,Ede Ica
+2592,Etkywan
+2593,Icelandic Sign Language
+2594,Islander Creole English
+2595,Idakho-Isukha-Tiriki
+2596,Indo-Portuguese
+2597,Idon
+2598,Ede Idaca
+2599,Idere
+2600,Idi
+2601,Ido
+2602,Indri
+2603,Idesa
+2604,Idaté
+2605,Idoma
+2606,Amganad Ifugao
+2607,Batad Ifugao
+2608,Ifè
+2609,Ifo
+2610,Tuwali Ifugao
+2611,Teke-Fuumu
+2612,Mayoyao Ifugao
+2613,Keley-I Kallahan
+2614,Ebira
+2615,Igede
+2616,Igana
+2617,Igala
+2618,Kanggape
+2619,Ignaciano
+2620,Isebe
+2621,Interglossa
+2622,Igwe
+2623,Iha Based Pidgin
+2624,Ihievbe
+2625,Iha
+2626,Bidhawal
+2627,Sichuan Yi
+2628,Thiin
+2629,Izon
+2630,Biseni
+2631,Ede Ije
+2632,Kalabari
+2633,Southeast Ijo
+2634,Eastern Canadian Inuktitut
+2635,Iko
+2636,Ika
+2637,Ikulu
+2638,Olulumo-Ikom
+2639,Ikpeshi
+2640,Ikaranggal
+2641,Inuit Sign Language
+2642,Inuinnaqtun
+2643,Inuktitut
+2644,Iku-Gora-Ankwa
+2645,Ikwere
+2646,Ik
+2647,Ikizu
+2648,Ile Ape
+2649,Ila
+2650,Interlingue
+2651,Garig-Ilgar
+2652,Ili Turki
+2653,Ilongot
+2654,Iranun (Malaysia)
+2655,Iloko
+2656,Iranun (Philippines)
+2657,International Sign
+2658,Ili'uun
+2659,Ilue
+2660,Mala Malasar
+2661,Anamgura
+2662,Miluk
+2663,Imonda
+2664,Imbongu
+2665,Imroing
+2666,Marsian
+2667,Milyan
+2668,Interlingua (International Auxiliary Language Association)
+2669,Inga
+2670,Indonesian
+2671,Degexit'an
+2672,Ingush
+2673,Jungle Inga
+2674,Indonesian Sign Language
+2675,Minaean
+2676,Isinai
+2677,Inoke-Yate
+2678,Iñapari
+2679,Indian Sign Language
+2680,Intha
+2681,Ineseño
+2682,Inor
+2683,Tuma-Irumu
+2684,Iowa-Oto
+2685,Ipili
+2686,Inupiaq
+2687,Ipiko
+2688,Iquito
+2689,Ikwo
+2690,Iresim
+2691,Irarutu
+2692,Rigwe
+2693,Iraqw
+2694,Irántxe
+2695,Ir
+2696,Irula
+2697,Kamberau
+2698,Iraya
+2699,Isabi
+2700,Isconahua
+2701,Isnag
+2702,Italian Sign Language
+2703,Irish Sign Language
+2704,Esan
+2705,Nkem-Nkum
+2706,Ishkashimi
+2707,Icelandic
+2708,Masimasi
+2709,Isanzu
+2710,Isoko
+2711,Israeli Sign Language
+2712,Istriot
+2713,Isu (Menchum Division)
+2714,Italian
+2715,Binongan Itneg
+2716,Southern Tidung
+2717,Itene
+2718,Inlaod Itneg
+2719,Judeo-Italian
+2720,Itelmen
+2721,Itu Mbon Uzo
+2722,Itonama
+2723,Iteri
+2724,Isekiri
+2725,Maeng Itneg
+2726,Itawit
+2727,Ito
+2728,Itik
+2729,Moyadan Itneg
+2730,Itzá
+2731,Iu Mien
+2732,Ibatan
+2733,Ivatan
+2734,I-Wak
+2735,Iwam
+2736,Iwur
+2737,Sepik Iwam
+2738,Ixcatec
+2739,Ixil
+2740,Iyayu
+2741,Mesaka
+2742,Yaka (Congo)
+2743,Ingrian
+2744,Izere
+2745,Izii
+2746,Jamamadí
+2747,Hyam
+2748,Popti'
+2749,Jahanka
+2750,Yabem
+2751,Jara
+2752,Jah Hut
+2753,Zazao
+2754,Jakun
+2755,Yalahatan
+2756,Jamaican Creole English
+2757,Jandai
+2758,Yanyuwa
+2759,Yaqay
+2760,New Caledonian Javanese
+2761,Jakati
+2762,Yaur
+2763,Javanese
+2764,Jambi Malay
+2765,Yan-nhangu
+2766,Jawe
+2767,Judeo-Berber
+2768,Badjiri
+2769,Arandai
+2770,Barikewa
+2771,Nafusi
+2772,Lojban
+2773,Jofotek-Bromnya
+2774,Jabutí
+2775,Jukun Takum
+2776,Yawijibaya
+2777,Jamaican Country Sign Language
+2778,Krymchak
+2779,Jad
+2780,Jadgali
+2781,Judeo-Tat
+2782,Jebero
+2783,Jerung
+2784,Jeh
+2785,Yei
+2786,Jeri Kuo
+2787,Yelmek
+2788,Dza
+2789,Jere
+2790,Manem
+2791,Jonkor Bourmataguil
+2792,Ngbee
+2793,Judeo-Georgian
+2794,Gwak
+2795,Ngomba
+2796,Jehai
+2797,Jhankot Sign Language
+2798,Jina
+2799,Jibu
+2800,Tol
+2801,Bu
+2802,Jilbe
+2803,Jingulu
+2804,sTodsde
+2805,Jiiddu
+2806,Jilim
+2807,Jimi (Cameroon)
+2808,Jiamao
+2809,Guanyinqiao
+2810,Jita
+2811,Youle Jinuo
+2812,Shuar
+2813,Buyuan Jinuo
+2814,Jejueo
+2815,Bankal
+2816,Kaera
+2817,Mobwa Karen
+2818,Kubo
+2819,Paku Karen
+2820,Koro (India)
+2821,Labir
+2822,Ngile
+2823,Jamaican Sign Language
+2824,Dima
+2825,Zumbun
+2826,Machame
+2827,Yamdena
+2828,Jimi (Nigeria)
+2829,Jumli
+2830,Makuri Naga
+2831,Kamara
+2832,Mashi (Nigeria)
+2833,Mouwase
+2834,Western Juxtlahuaca Mixtec
+2835,Jangshung
+2836,Jandavra
+2837,Yangman
+2838,Janji
+2839,Yemsa
+2840,Rawat
+2841,Jaunsari
+2842,Joba
+2843,Wojenaka
+2844,Jogi
+2845,Jorá
+2846,Jordanian Sign Language
+2847,Jowulu
+2848,Jewish Palestinian Aramaic
+2849,Japanese
+2850,Judeo-Persian
+2851,Jaqaru
+2852,Jarai
+2853,Judeo-Arabic
+2854,Jiru
+2855,Jorto
+2856,Japrería
+2857,Japanese Sign Language
+2858,Júma
+2859,Wannu
+2860,Jurchen
+2861,Worodougou
+2862,Hõne
+2863,Ngadjuri
+2864,Wapan
+2865,Jirel
+2866,Jumjum
+2867,Juang
+2868,Jiba
+2869,Hupdë
+2870,Jurúna
+2871,Jumla Sign Language
+2872,Jutish
+2873,Ju
+2874,Wãpha
+2875,Juray
+2876,Javindo
+2877,Caribbean Javanese
+2878,Jwira-Pepesa
+2879,Jiarong
+2880,Judeo-Yemeni Arabic
+2881,Jaya
+2882,Kara-Kalpak
+2883,Kabyle
+2884,Kachin
+2885,Adara
+2886,Ketangalan
+2887,Katso
+2888,Kajaman
+2889,Kara (Central African Republic)
+2890,Karekare
+2891,Jju
+2892,Kalanguya
+2893,Kalaallisut
+2894,Kamba (Kenya)
+2895,Kannada
+2896,Xaasongaxango
+2897,Bezhta
+2898,Capanahua
+2899,Kashmiri
+2900,Georgian
+2901,Kanuri
+2902,Katukína
+2903,Kawi
+2904,Kao
+2905,Kamayurá
+2906,Kazakh
+2907,Kalarko
+2908,Kaxuiâna
+2909,Kadiwéu
+2910,Kabardian
+2911,Kanju
+2912,Khamba
+2913,Camsá
+2914,Kaptiau
+2915,Kari
+2916,Grass Koiari
+2917,Kanembu
+2918,Iwal
+2919,Kare (Central African Republic)
+2920,Keliko
+2921,Kabiyè
+2922,Kamano
+2923,Kafa
+2924,Kande
+2925,Abadi
+2926,Kabutra
+2927,Dera (Indonesia)
+2928,Kaiep
+2929,Ap Ma
+2930,Manga Kanuri
+2931,Duhwa
+2932,Khanty
+2933,Kawacha
+2934,Lubila
+2935,Ngkâlmpw Kanum
+2936,Kaivi
+2937,Ukaan
+2938,Tyap
+2939,Vono
+2940,Kamantan
+2941,Kobiana
+2942,Kalanga
+2943,Kela (Papua New Guinea)
+2944,Gula (Central African Republic)
+2945,Nubi
+2946,Kinalakna
+2947,Kanga
+2948,Kamo
+2949,Katla
+2950,Koenoem
+2951,Kaian
+2952,Kami (Tanzania)
+2953,Kete
+2954,Kabwari
+2955,Kachama-Ganjule
+2956,Korandje
+2957,Konongo
+2958,Worimi
+2959,Kutu
+2960,Yankunytjatjara
+2961,Makonde
+2962,Mamusi
+2963,Seba
+2964,Tem
+2965,Kumam
+2966,Karamojong
+2967,Numèè
+2968,Tsikimba
+2969,Kagoma
+2970,Kunda
+2971,Kaningdon-Nindem
+2972,Koch
+2973,Karaim
+2974,Kuy
+2975,Kadaru
+2976,Koneraw
+2977,Kam
+2978,Keder
+2979,Kwaja
+2980,Kabuverdianu
+2981,Kélé
+2982,Keiga
+2983,Kerewe
+2984,Eastern Keres
+2985,Kpessi
+2986,Tese
+2987,Keak
+2988,Kei
+2989,Kadar
+2990,Kekchí
+2991,Kela (Democratic Republic of Congo)
+2992,Kemak
+2993,Kenyang
+2994,Kakwa
+2995,Kaikadi
+2996,Kamar
+2997,Kera
+2998,Kugbo
+2999,Ket
+3000,Akebu
+3001,Kanikkaran
+3002,West Kewa
+3003,Kukna
+3004,Kupia
+3005,Kukele
+3006,Kodava
+3007,Northwestern Kolami
+3008,Konda-Dora
+3009,Korra Koraga
+3010,Kota (India)
+3011,Koya
+3012,Kudiya
+3013,Kurichiya
+3014,Kannada Kurumba
+3015,Kemiehua
+3016,Kinnauri
+3017,Kung
+3018,Khunsari
+3019,Kuk
+3020,Koro (Côte d'Ivoire)
+3021,Korwa
+3022,Korku
+3023,Kachhi
+3024,Bilaspuri
+3025,Kanjari
+3026,Katkari
+3027,Kurmukar
+3028,Kharam Naga
+3029,Kullu Pahari
+3030,Kumaoni
+3031,Koromfé
+3032,Koyaga
+3033,Kawe
+3034,Komering
+3035,Kube
+3036,Kusunda
+3037,Selangor Sign Language
+3038,Gamale Kham
+3039,Kaiwá
+3040,Kunggari
+3041,Karipúna
+3042,Karingani
+3043,Krongo
+3044,Kaingang
+3045,Kamoro
+3046,Abun
+3047,Kumbainggar
+3048,Somyev
+3049,Kobol
+3050,Karas
+3051,Karon Dori
+3052,Kamaru
+3053,Kyerung
+3054,Khasi
+3055,Lü
+3056,Tukang Besi North
+3057,Bädi Kanum
+3058,Korowai
+3059,Khuen
+3060,Khams Tibetan
+3061,Kehu
+3062,Kuturmi
+3063,Halh Mongolian
+3064,Lusi
+3065,Khmer
+3066,Khandesi
+3067,Khotanese
+3068,Kapori
+3069,Koyra Chiini Songhay
+3070,Kharia
+3071,Kasua
+3072,Khamti
+3073,Nkhumbi
+3074,Khvarshi
+3075,Khowar
+3076,Kanu
+3077,Kele (Democratic Republic of Congo)
+3078,Keapara
+3079,Kim
+3080,Koalib
+3081,Kickapoo
+3082,Koshin
+3083,Kibet
+3084,Eastern Parbate Kham
+3085,Kimaama
+3086,Kilmeri
+3087,Kitsai
+3088,Kilivila
+3089,Kikuyu
+3090,Kariya
+3091,Karagas
+3092,Kinyarwanda
+3093,Kiowa
+3094,Sheshi Kham
+3095,Kosadle
+3096,Kirghiz
+3097,Kis
+3098,Agob
+3099,Kirmanjki (individual language)
+3100,Kimbu
+3101,Northeast Kiwai
+3102,Khiamniungan Naga
+3103,Kirikiri
+3104,Kisi
+3105,Mlap
+3106,Q'anjob'al
+3107,Coastal Konjo
+3108,Southern Kiwai
+3109,Kisar
+3110,Khalaj
+3111,Khmu
+3112,Khakas
+3113,Zabana
+3114,Khinalugh
+3115,Highland Konjo
+3116,Western Parbate Kham
+3117,Kháng
+3118,Kunjen
+3119,Harijan Kinnauri
+3120,Pwo Eastern Karen
+3121,Western Keres
+3122,Kurudu
+3123,East Kewa
+3124,Phrae Pwo Karen
+3125,Kashaya
+3126,Kaikavian Literary Language
+3127,Ramopa
+3128,Erave
+3129,Bumthangkha
+3130,Kakanda
+3131,Kwerisa
+3132,Odoodee
+3133,Kinuku
+3134,Kakabe
+3135,Kalaktang Monpa
+3136,Mabaka Valley Kalinga
+3137,Khün
+3138,Kagulu
+3139,Kako
+3140,Kokota
+3141,Kosarek Yale
+3142,Kiong
+3143,Kon Keu
+3144,Karko
+3145,Gugubera
+3146,Kaiku
+3147,Kir-Balar
+3148,Giiwo
+3149,Koi
+3150,Tumi
+3151,Kangean
+3152,Teke-Kukuya
+3153,Kohin
+3154,Guugu Yimidhirr
+3155,Kaska
+3156,Klamath-Modoc
+3157,Kiliwa
+3158,Kolbila
+3159,Gamilaraay
+3160,Kulung (Nepal)
+3161,Kendeje
+3162,Tagakaulo
+3163,Weliki
+3164,Kalumpang
+3165,Turkic Khalaj
+3166,Kono (Nigeria)
+3167,Kagan Kalagan
+3168,Migum
+3169,Kalenjin
+3170,Kapya
+3171,Kamasa
+3172,Rumu
+3173,Khaling
+3174,Kalasha
+3175,Nukna
+3176,Klao
+3177,Maskelynes
+3178,Tado
+3179,Koluwawa
+3180,Kalao
+3181,Kabola
+3182,Konni
+3183,Kimbundu
+3184,Southern Dong
+3185,Majukayang Kalinga
+3186,Bakole
+3187,Kare (Papua New Guinea)
+3188,Kâte
+3189,Kalam
+3190,Kami (Nigeria)
+3191,Kumarbhag Paharia
+3192,Limos Kalinga
+3193,Tanudan Kalinga
+3194,Kom (India)
+3195,Awtuw
+3196,Kwoma
+3197,Gimme
+3198,Kwama
+3199,Northern Kurdish
+3200,Kamasau
+3201,Kemtuik
+3202,Kanite
+3203,Karipúna Creole French
+3204,Komo (Democratic Republic of Congo)
+3205,Waboda
+3206,Koma
+3207,Khorasani Turkish
+3208,Dera (Nigeria)
+3209,Lubuagan Kalinga
+3210,Central Kanuri
+3211,Konda
+3212,Kankanaey
+3213,Mankanya
+3214,Koongo
+3215,Kanufi
+3216,Western Kanjobal
+3217,Kuranko
+3218,Keninjal
+3219,Kanamarí
+3220,Konkani (individual language)
+3221,Kono (Sierra Leone)
+3222,Kwanja
+3223,Kintaq
+3224,Kaningra
+3225,Kensiu
+3226,Panoan Katukína
+3227,Kono (Guinea)
+3228,Tabo
+3229,Kung-Ekoka
+3230,Kendayan
+3231,Kanyok
+3232,Kalamsé
+3233,Konomala
+3234,Kpati
+3235,Kodi
+3236,Kacipo-Balesi
+3237,Kubi
+3238,Cogui
+3239,Koyo
+3240,Komi-Permyak
+3241,Konkani (macrolanguage)
+3242,Kol (Papua New Guinea)
+3243,Komi
+3244,Kongo
+3245,Konzo
+3246,Waube
+3247,Kota (Gabon)
+3248,Korean
+3249,Kosraean
+3250,Lagwan
+3251,Koke
+3252,Kudu-Camo
+3253,Kugama
+3254,Koyukon
+3255,Korak
+3256,Kutto
+3257,Mullu Kurumba
+3258,Curripaco
+3259,Koba
+3260,Kpelle
+3261,Komba
+3262,Kapingamarangi
+3263,Kplang
+3264,Kofei
+3265,Karajá
+3266,Kpan
+3267,Kpala
+3268,Koho
+3269,Kepkiriwát
+3270,Ikposo
+3271,Korupun-Sela
+3272,Korafe-Yegha
+3273,Tehit
+3274,Karata
+3275,Kafoa
+3276,Komi-Zyrian
+3277,Kobon
+3278,Mountain Koiali
+3279,Koryak
+3280,Kupsabiny
+3281,Mum
+3282,Kovai
+3283,Doromu-Koki
+3284,Koy Sanjaq Surat
+3285,Kalagan
+3286,Kakabai
+3287,Khe
+3288,Kisankasa
+3289,Koitabu
+3290,Koromira
+3291,Kotafon Gbe
+3292,Kyenele
+3293,Khisa
+3294,Kaonde
+3295,Eastern Krahn
+3296,Kimré
+3297,Krenak
+3298,Kimaragang
+3299,Northern Kissi
+3300,Klias River Kadazan
+3301,Seroa
+3302,Okolod
+3303,Kandas
+3304,Mser
+3305,Koorete
+3306,Korana
+3307,Kumhali
+3308,Karkin
+3309,Karachay-Balkar
+3310,Kairui-Midiki
+3311,Panará
+3312,Koro (Vanuatu)
+3313,Kurama
+3314,Krio
+3315,Kinaray-A
+3316,Kerek
+3317,Karelian
+3318,Sapo
+3319,Korop
+3320,Krung
+3321,Gbaya (Sudan)
+3322,Tumari Kanuri
+3323,Kurukh
+3324,Kavet
+3325,Western Krahn
+3326,Karon
+3327,Kryts
+3328,Sota Kanum
+3329,Shuwa-Zamani
+3330,Shambala
+3331,Southern Kalinga
+3332,Kuanua
+3333,Kuni
+3334,Bafia
+3335,Kusaghe
+3336,Kölsch
+3337,Krisa
+3338,Uare
+3339,Kansa
+3340,Kumalu
+3341,Kumba
+3342,Kasiguranin
+3343,Kofa
+3344,Kaba
+3345,Kwaami
+3346,Borong
+3347,Southern Kisi
+3348,Winyé
+3349,Khamyang
+3350,Kusu
+3351,S'gaw Karen
+3352,Kedang
+3353,Kharia Thar
+3354,Kodaku
+3355,Katua
+3356,Kambaata
+3357,Kholok
+3358,Kokata
+3359,Nubri
+3360,Kwami
+3361,Kalkutung
+3362,Karanga
+3363,North Muyu
+3364,Plapo Krumen
+3365,Kaniet
+3366,Koroshi
+3367,Kurti
+3368,Karitiâna
+3369,Kuot
+3370,Kaduo
+3371,Katabaga
+3372,South Muyu
+3373,Ketum
+3374,Kituba (Democratic Republic of Congo)
+3375,Eastern Katu
+3376,Kato
+3377,Kaxararí
+3378,Kango (Bas-Uélé District)
+3379,Juǀʼhoan
+3380,Kuanyama
+3381,Kutep
+3382,Kwinsu
+3383,'Auhelawa
+3384,Kuman (Papua New Guinea)
+3385,Western Katu
+3386,Kupa
+3387,Kushi
+3388,Kuikúro-Kalapálo
+3389,Kuria
+3390,Kepo'
+3391,Kulere
+3392,Kumyk
+3393,Kunama
+3394,Kumukio
+3395,Kunimaipa
+3396,Karipuna
+3397,Kurdish
+3398,Kusaal
+3399,Kutenai
+3400,Upper Kuskokwim
+3401,Kur
+3402,Kpagua
+3403,Kukatja
+3404,Kuuku-Ya'u
+3405,Kunza
+3406,Bagvalal
+3407,Kubu
+3408,Kove
+3409,Kui (Indonesia)
+3410,Kalabakan
+3411,Kabalai
+3412,Kuni-Boazi
+3413,Komodo
+3414,Kwang
+3415,Psikye
+3416,Korean Sign Language
+3417,Kayaw
+3418,Kendem
+3419,Border Kuna
+3420,Dobel
+3421,Kompane
+3422,Geba Karen
+3423,Kerinci
+3424,Lahta Karen
+3425,Yinbaw Karen
+3426,Kola
+3427,Wersing
+3428,Parkari Koli
+3429,Yintale Karen
+3430,Tsakwambo
+3431,Dâw
+3432,Kwa
+3433,Likwala
+3434,Kwaio
+3435,Kwerba
+3436,Kwara'ae
+3437,Sara Kaba Deme
+3438,Kowiai
+3439,Awa-Cuaiquer
+3440,Kwanga
+3441,Kwakiutl
+3442,Kofyar
+3443,Kwambi
+3444,Kwangali
+3445,Kwomtari
+3446,Kodia
+3447,Kwer
+3448,Kwese
+3449,Kwesten
+3450,Kwakum
+3451,Sara Kaba Náà
+3452,Kwinti
+3453,Khirwar
+3454,San Salvador Kongo
+3455,Kwadi
+3456,Kairiru
+3457,Krobu
+3458,Konso
+3459,Brunei
+3460,Manumanaw Karen
+3461,Karo (Ethiopia)
+3462,Keningau Murut
+3463,Kulfa
+3464,Zayein Karen
+3465,Nepali Kurux
+3466,Northern Khmer
+3467,Kanowit-Tanjong Melanau
+3468,Kanoé
+3469,Wadiyara Koli
+3470,Smärky Kanum
+3471,Koro (Papua New Guinea)
+3472,Kangjia
+3473,Koiwat
+3474,Kui (India)
+3475,Kuvi
+3476,Konai
+3477,Likuba
+3478,Kayong
+3479,Kerewo
+3480,Kwaya
+3481,Butbut Kalinga
+3482,Kyaka
+3483,Karey
+3484,Krache
+3485,Kouya
+3486,Keyagana
+3487,Karok
+3488,Kiput
+3489,Karao
+3490,Kamayo
+3491,Kalapuya
+3492,Kpatili
+3493,Northern Binukidnon
+3494,Kelon
+3495,Kang
+3496,Kenga
+3497,Kuruáya
+3498,Baram Kayan
+3499,Kayagar
+3500,Western Kayah
+3501,Kayort
+3502,Kudmali
+3503,Rapoisi
+3504,Kambaira
+3505,Kayabí
+3506,Western Karaboro
+3507,Kaibobo
+3508,Bondoukou Kulango
+3509,Kadai
+3510,Kosena
+3511,Da'a Kaili
+3512,Kikai
+3513,Kelabit
+3514,Kazukuru
+3515,Kayeli
+3516,Kais
+3517,Kokola
+3518,Kaningi
+3519,Kaidipang
+3520,Kaike
+3521,Karang
+3522,Sugut Dusun
+3523,Kayupulau
+3524,Komyandaret
+3525,Karirí-Xocó
+3526,Kamarian
+3527,Kango (Tshopo District)
+3528,Kalabra
+3529,Southern Subanen
+3530,Linear A
+3531,Lacandon
+3532,Ladino
+3533,Pattani
+3534,Lafofa
+3535,Langi
+3536,Lahnda
+3537,Lambya
+3538,Lango (Uganda)
+3539,Laka (Nigeria)
+3540,Lalia
+3541,Lamba
+3542,Laru
+3543,Lao
+3544,Laka (Chad)
+3545,Qabiao
+3546,Larteh
+3547,Lama (Togo)
+3548,Latin
+3549,Laba
+3550,Latvian
+3551,Lauje
+3552,Tiwa
+3553,Lama Bai
+3554,Aribwatsa
+3555,Label
+3556,Lakkia
+3557,Lak
+3558,Tinani
+3559,Laopang
+3560,La'bi
+3561,Ladakhi
+3562,Central Bontok
+3563,Libon Bikol
+3564,Lodhi
+3565,Rmeet
+3566,Laven
+3567,Wampar
+3568,Lohorung
+3569,Libyan Sign Language
+3570,Lachi
+3571,Labu
+3572,Lavatbura-Lamusong
+3573,Tolaki
+3574,Lawangan
+3575,Lamalama
+3576,Lardil
+3577,Legenyem
+3578,Lola
+3579,Loncong
+3580,Lubu
+3581,Luchazi
+3582,Lisela
+3583,Tungag
+3584,Western Lawa
+3585,Luhu
+3586,Lisabata-Nuniali
+3587,Kla-Dan
+3588,Dũya
+3589,Luri
+3590,Lenyima
+3591,Lamja-Dengsa-Tola
+3592,Laari
+3593,Lemoro
+3594,Leelau
+3595,Kaan
+3596,Landoma
+3597,Láadan
+3598,Loo
+3599,Tso
+3600,Lufu
+3601,Lega-Shabunda
+3602,Lala-Bisa
+3603,Leco
+3604,Lendu
+3605,Lyélé
+3606,Lelemi
+3607,Lenje
+3608,Lemio
+3609,Lengola
+3610,Leipon
+3611,Lele (Democratic Republic of Congo)
+3612,Nomaande
+3613,Lenca
+3614,Leti (Cameroon)
+3615,Lepcha
+3616,Lembena
+3617,Lenkau
+3618,Lese
+3619,Lesing-Gelimi
+3620,Kara (Papua New Guinea)
+3621,Lamma
+3622,Ledo Kaili
+3623,Luang
+3624,Lemolang
+3625,Lezghian
+3626,Lefa
+3627,Lingua Franca Nova
+3628,Lungga
+3629,Laghu
+3630,Lugbara
+3631,Laghuu
+3632,Lengilu
+3633,Lingarak
+3634,Wala
+3635,Lega-Mwenga
+3636,T'apo
+3637,Logba
+3638,Lengo
+3639,Pahi
+3640,Longgu
+3641,Ligenza
+3642,Laha (Viet Nam)
+3643,Laha (Indonesia)
+3644,Lahu Shi
+3645,Lahul Lohar
+3646,Lhomi
+3647,Lahanan
+3648,Lhokpu
+3649,Mlahsö
+3650,Lo-Toga
+3651,Lahu
+3652,West-Central Limba
+3653,Likum
+3654,Hlai
+3655,Nyindrou
+3656,Likila
+3657,Limbu
+3658,Ligbi
+3659,Lihir
+3660,Ligurian
+3661,Lika
+3662,Lillooet
+3663,Limburgan
+3664,Lingala
+3665,Liki
+3666,Sekpele
+3667,Libido
+3668,Liberian English
+3669,Lisu
+3670,Lithuanian
+3671,Logorik
+3672,Liv
+3673,Col
+3674,Liabuku
+3675,Banda-Bambari
+3676,Libinza
+3677,Golpa
+3678,Rampi
+3679,Laiyolo
+3680,Li'o
+3681,Lampung Api
+3682,Yirandali
+3683,Yuru
+3684,Lakalei
+3685,Kabras
+3686,Kucong
+3687,Lakondê
+3688,Kenyi
+3689,Lakha
+3690,Laki
+3691,Remun
+3692,Laeko-Libuat
+3693,Kalaamaya
+3694,Lakon
+3695,Khayo
+3696,Päri
+3697,Kisa
+3698,Lakota
+3699,Kungkari
+3700,Lokoya
+3701,Lala-Roba
+3702,Lolo
+3703,Lele (Guinea)
+3704,Ladin
+3705,Lele (Papua New Guinea)
+3706,Hermit
+3707,Lole
+3708,Lamu
+3709,Teke-Laali
+3710,Ladji Ladji
+3711,Lelak
+3712,Lilau
+3713,Lasalimu
+3714,Lele (Chad)
+3715,North Efate
+3716,Lolak
+3717,Lithuanian Sign Language
+3718,Lau
+3719,Lauan
+3720,East Limba
+3721,Merei
+3722,Limilngan
+3723,Lumun
+3724,Pévé
+3725,South Lembata
+3726,Lamogai
+3727,Lambichhong
+3728,Lombi
+3729,West Lembata
+3730,Lamkang
+3731,Hano
+3732,Lambadi
+3733,Lombard
+3734,Limbum
+3735,Lamatuka
+3736,Lamalera
+3737,Lamenu
+3738,Lomaiviti
+3739,Lake Miwok
+3740,Laimbue
+3741,Lamboya
+3742,Lumbee
+3743,Langbashe
+3744,Mbalanhu
+3745,Lundayeh
+3746,Langobardic
+3747,Lanoh
+3748,Daantanai'
+3749,Leningitij
+3750,South Central Banda
+3751,Langam
+3752,Lorediakarkar
+3753,Lango (South Sudan)
+3754,Lamnso'
+3755,Longuda
+3756,Lanima
+3757,Lonzo
+3758,Loloda
+3759,Lobi
+3760,Inonhan
+3761,Saluan
+3762,Logol
+3763,Logo
+3764,Narim
+3765,Loma (Côte d'Ivoire)
+3766,Lou
+3767,Loko
+3768,Mongo
+3769,Loma (Liberia)
+3770,Malawi Lomwe
+3771,Lombo
+3772,Lopa
+3773,Lobala
+3774,Téén
+3775,Loniu
+3776,Otuho
+3777,Louisiana Creole
+3778,Lopi
+3779,Tampias Lobu
+3780,Loun
+3781,Loke
+3782,Lozi
+3783,Lelepa
+3784,Lepki
+3785,Long Phuri Naga
+3786,Lipo
+3787,Lopit
+3788,Rara Bakati'
+3789,Northern Luri
+3790,Laurentian
+3791,Laragia
+3792,Marachi
+3793,Loarki
+3794,Lari
+3795,Marama
+3796,Lorang
+3797,Laro
+3798,Southern Yamphu
+3799,Larantuka Malay
+3800,Larevat
+3801,Lemerig
+3802,Lasgerdi
+3803,Lishana Deni
+3804,Lusengo
+3805,Lish
+3806,Lashi
+3807,Latvian Sign Language
+3808,Saamia
+3809,Tibetan Sign Language
+3810,Laos Sign Language
+3811,Panamanian Sign Language
+3812,Aruop
+3813,Lasi
+3814,Trinidad and Tobago Sign Language
+3815,Sivia Sign Language
+3816,Mauritian Sign Language
+3817,Late Middle Chinese
+3818,Latgalian
+3819,Thur
+3820,Leti (Indonesia)
+3821,Latundê
+3822,Tsotso
+3823,Tachoni
+3824,Latu
+3825,Luxembourgish
+3826,Luba-Lulua
+3827,Luba-Katanga
+3828,Aringa
+3829,Ludian
+3830,Luvale
+3831,Laua
+3832,Ganda
+3833,Luiseno
+3834,Luna
+3835,Lunanakha
+3836,Olu'bo
+3837,Luimbi
+3838,Lunda
+3839,Luo (Kenya and Tanzania)
+3840,Lumbu
+3841,Lucumi
+3842,Laura
+3843,Lushai
+3844,Lushootseed
+3845,Lumba-Yakkha
+3846,Luwati
+3847,Luo (Cameroon)
+3848,Luyia
+3849,Southern Luri
+3850,Maku'a
+3851,Lavi
+3852,Lavukaleve
+3853,Standard Latvian
+3854,Levuka
+3855,Lwalu
+3856,Lewo Eleng
+3857,Wanga
+3858,White Lachi
+3859,Eastern Lawa
+3860,Laomian
+3861,Luwo
+3862,Malawian Sign Language
+3863,Lewotobi
+3864,Lawu
+3865,Lewo
+3866,Layakha
+3867,Lyngngam
+3868,Luyana
+3869,Literary Chinese
+3870,Litzlitz
+3871,Leinong Naga
+3872,Laz
+3873,San Jerónimo Tecóatl Mazatec
+3874,Yutanduchi Mixtec
+3875,Madurese
+3876,Bo-Rukul
+3877,Mafa
+3878,Magahi
+3879,Marshallese
+3880,Maithili
+3881,Jalapa De Díaz Mazatec
+3882,Makasar
+3883,Malayalam
+3884,Mam
+3885,Mandingo
+3886,Chiquihuitlán Mazatec
+3887,Marathi
+3888,Masai
+3889,San Francisco Matlatzinca
+3890,Huautla Mazatec
+3891,Sateré-Mawé
+3892,Mampruli
+3893,North Moluccan Malay
+3894,Central Mazahua
+3895,Higaonon
+3896,Western Bukidnon Manobo
+3897,Macushi
+3898,Dibabawon Manobo
+3899,Molale
+3900,Baba Malay
+3901,Mangseng
+3902,Ilianen Manobo
+3903,Nadëb
+3904,Malol
+3905,Maxakalí
+3906,Ombamba
+3907,Macaguán
+3908,Mbo (Cameroon)
+3909,Malayo
+3910,Maisin
+3911,Nukak Makú
+3912,Sarangani Manobo
+3913,Matigsalug Manobo
+3914,Mbula-Bwazza
+3915,Mbulungish
+3916,Maring
+3917,Mari (East Sepik Province)
+3918,Memoni
+3919,Amoltepec Mixtec
+3920,Maca
+3921,Machiguenga
+3922,Bitur
+3923,Sharanahua
+3924,Itundujia Mixtec
+3925,Matsés
+3926,Mapoyo
+3927,Maquiritari
+3928,Mese
+3929,Mvanip
+3930,Mbunda
+3931,Macaguaje
+3932,Malaccan Creole Portuguese
+3933,Masana
+3934,Coatlán Mixe
+3935,Makaa
+3936,Ese
+3937,Menya
+3938,Mambai
+3939,Mengisa
+3940,Cameroon Mambila
+3941,Minanibai
+3942,Mawa (Chad)
+3943,Mpiemo
+3944,South Watut
+3945,Mawan
+3946,Mada (Nigeria)
+3947,Morigi
+3948,Male (Papua New Guinea)
+3949,Mbum
+3950,Maba (Chad)
+3951,Moksha
+3952,Massalat
+3953,Maguindanaon
+3954,Mamvu
+3955,Mangbetu
+3956,Mangbutu
+3957,Maltese Sign Language
+3958,Mayogo
+3959,Mbati
+3960,Mbala
+3961,Mbole
+3962,Mandar
+3963,Maria (Papua New Guinea)
+3964,Mbere
+3965,Mboko
+3966,Santa Lucía Monteverde Mixtec
+3967,Mbosi
+3968,Dizin
+3969,Male (Ethiopia)
+3970,Suruí Do Pará
+3971,Menka
+3972,Ikobi
+3973,Marra
+3974,Melpa
+3975,Mengen
+3976,Megam
+3977,Southwestern Tlaxiaco Mixtec
+3978,Midob
+3979,Meyah
+3980,Mekeo
+3981,Central Melanau
+3982,Mangala
+3983,Mende (Sierra Leone)
+3984,Kedah Malay
+3985,Miriwoong
+3986,Merey
+3987,Meru
+3988,Masmaje
+3989,Mato
+3990,Motu
+3991,Mano
+3992,Maaka
+3993,Hassaniyya
+3994,Menominee
+3995,Pattani Malay
+3996,Bangka
+3997,Mba
+3998,Mendankwe-Nkwen
+3999,Morisyen
+4000,Naki
+4001,Mogofin
+4002,Matal
+4003,Wandala
+4004,Mefele
+4005,North Mofu
+4006,Putai
+4007,Marghi South
+4008,Cross River Mbembe
+4009,Mbe
+4010,Makassar Malay
+4011,Moba
+4012,Marrithiyel
+4013,Mexican Sign Language
+4014,Mokerang
+4015,Mbwela
+4016,Mandjak
+4017,Mulaha
+4018,Melo
+4019,Mayo
+4020,Mabaan
+4021,Middle Irish (900-1200)
+4022,Mararit
+4023,Morokodo
+4024,Moru
+4025,Mango
+4026,Maklew
+4027,Mpumpong
+4028,Makhuwa-Meetto
+4029,Lijili
+4030,Abureni
+4031,Mawes
+4032,Maleu-Kilenge
+4033,Mambae
+4034,Mbangi
+4035,Meta'
+4036,Eastern Magar
+4037,Malila
+4038,Mambwe-Lungu
+4039,Manda (Tanzania)
+4040,Mongol
+4041,Mailu
+4042,Matengo
+4043,Matumbi
+4044,Mbunga
+4045,Mbugwe
+4046,Manda (India)
+4047,Mahongwe
+4048,Mocho
+4049,Mbugu
+4050,Besisi
+4051,Mamaa
+4052,Margu
+4053,Ma'di
+4054,Mogholi
+4055,Mungaka
+4056,Mauwake
+4057,Makhuwa-Moniga
+4058,Mócheno
+4059,Mashi (Zambia)
+4060,Balinese Malay
+4061,Mandan
+4062,Eastern Mari
+4063,Buru (Indonesia)
+4064,Mandahuaca
+4065,Digaro-Mishmi
+4066,Mbukushu
+4067,Maru
+4068,Ma'anyan
+4069,Mor (Mor Islands)
+4070,Miami
+4071,Atatláhuca Mixtec
+4072,Mi'kmaq
+4073,Mandaic
+4074,Ocotepec Mixtec
+4075,Mofu-Gudur
+4076,San Miguel El Grande Mixtec
+4077,Chayuco Mixtec
+4078,Chigmecatitlán Mixtec
+4079,Abar
+4080,Mikasuki
+4081,Peñoles Mixtec
+4082,Alacatlatzala Mixtec
+4083,Minangkabau
+4084,Pinotepa Nacional Mixtec
+4085,Apasco-Apoala Mixtec
+4086,Mískito
+4087,Isthmus Mixe
+4088,Southern Puebla Mixtec
+4089,Cacaloxtepec Mixtec
+4090,Akoye
+4091,Mixtepec Mixtec
+4092,Ayutla Mixtec
+4093,Coatzospan Mixtec
+4094,Makalero
+4095,San Juan Colorado Mixtec
+4096,Northwest Maidu
+4097,Muskum
+4098,Tu
+4099,Mwera (Nyasa)
+4100,Kim Mun
+4101,Mawak
+4102,Matukar
+4103,Mandeali
+4104,Medebur
+4105,Ma (Papua New Guinea)
+4106,Malankuravan
+4107,Malapandaram
+4108,Malaryan
+4109,Malavedan
+4110,Miship
+4111,Sauria Paharia
+4112,Manna-Dora
+4113,Mannan
+4114,Karbi
+4115,Mahali
+4116,Mahican
+4117,Majhi
+4118,Mbre
+4119,Mal Paharia
+4120,Siliput
+4121,Macedonian
+4122,Mawchi
+4123,Miya
+4124,Mak (China)
+4125,Dhatki
+4126,Mokilese
+4127,Byep
+4128,Mokole
+4129,Moklen
+4130,Kupang Malay
+4131,Mingang Doso
+4132,Moikodi
+4133,Bay Miwok
+4134,Malas
+4135,Silacayoapan Mixtec
+4136,Vamale
+4137,Konyanka Maninka
+4138,Mafea
+4139,Kituba (Congo)
+4140,Kinamiging Manobo
+4141,East Makian
+4142,Makasae
+4143,Malo
+4144,Mbule
+4145,Cao Lan
+4146,Manambu
+4147,Mal
+4148,Malagasy
+4149,Mape
+4150,Malimpung
+4151,Miltu
+4152,Ilwana
+4153,Malua Bay
+4154,Mulam
+4155,Malango
+4156,Mlomp
+4157,Bargam
+4158,Western Maninkakan
+4159,Vame
+4160,Masalit
+4161,Maltese
+4162,To'abaita
+4163,Motlav
+4164,Moloko
+4165,Malfaxal
+4166,Malaynon
+4167,Mama
+4168,Momina
+4169,Michoacán Mazahua
+4170,Maonan
+4171,Mae
+4172,Mundat
+4173,North Ambrym
+4174,Mehináku
+4175,Musar
+4176,Majhwar
+4177,Mukha-Dora
+4178,Man Met
+4179,Maii
+4180,Mamanwa
+4181,Mangga Buang
+4182,Siawi
+4183,Musak
+4184,Western Xiangxi Miao
+4185,Malalamai
+4186,Mmaala
+4187,Miriti
+4188,Emae
+4189,Madak
+4190,Migaama
+4191,Mabaale
+4192,Mbula
+4193,Muna
+4194,Manchu
+4195,Mondé
+4196,Naba
+4197,Mundani
+4198,Eastern Mnong
+4199,Mono (Democratic Republic of Congo)
+4200,Manipuri
+4201,Munji
+4202,Mandinka
+4203,Tiale
+4204,Mapena
+4205,Southern Mnong
+4206,Min Bei Chinese
+4207,Minriq
+4208,Mono (USA)
+4209,Mansi
+4210,Mer
+4211,Rennell-Bellona
+4212,Mon
+4213,Manikion
+4214,Manyawa
+4215,Moni
+4216,Mwan
+4217,Mocoví
+4218,Mobilian
+4219,Montagnais
+4220,Mongondow
+4221,Mohawk
+4222,Mboi
+4223,Monzombo
+4224,Morori
+4225,Mangue
+4226,Mongolian
+4227,Monom
+4228,Mopán Maya
+4229,Mor (Bomberai Peninsula)
+4230,Moro
+4231,Mossi
+4232,Barí
+4233,Mogum
+4234,Mohave
+4235,Moi (Congo)
+4236,Molima
+4237,Shekkacho
+4238,Mukulu
+4239,Mpoto
+4240,Malak Malak
+4241,Mangarrayi
+4242,Machinere
+4243,Majang
+4244,Marba
+4245,Maung
+4246,Mpade
+4247,Martu Wangka
+4248,Mbara (Chad)
+4249,Middle Watut
+4250,Yosondúa Mixtec
+4251,Mindiri
+4252,Miu
+4253,Migabac
+4254,Matís
+4255,Vangunu
+4256,Dadibi
+4257,Mian
+4258,Makuráp
+4259,Mungkip
+4260,Mapidian
+4261,Misima-Panaeati
+4262,Mapia
+4263,Mpi
+4264,Maba (Indonesia)
+4265,Mbuko
+4266,Mangole
+4267,Matepi
+4268,Momuna
+4269,Kota Bangun Kutai Malay
+4270,Tlazoyaltepec Mixtec
+4271,Mariri
+4272,Mamasa
+4273,Rajah Kabunsuwan Manobo
+4274,Mbelime
+4275,South Marquesan
+4276,Moronene
+4277,Modole
+4278,Manipa
+4279,Minokok
+4280,Mander
+4281,West Makian
+4282,Mok
+4283,Mandari
+4284,Mosimo
+4285,Murupi
+4286,Mamuju
+4287,Manggarai
+4288,Pano
+4289,Mlabri
+4290,Marino
+4291,Maricopa
+4292,Western Magar
+4293,Martha's Vineyard Sign Language
+4294,Elseng
+4295,Mising
+4296,Mara Chin
+4297,Maori
+4298,Western Mari
+4299,Hmwaveke
+4300,Mortlockese
+4301,Merlav
+4302,Cheke Holo
+4303,Mru
+4304,Morouas
+4305,North Marquesan
+4306,Maria (India)
+4307,Maragus
+4308,Marghi Central
+4309,Mono (Cameroon)
+4310,Mangareva
+4311,Maranao
+4312,Maremgi
+4313,Mandaya
+4314,Marind
+4315,Malay (macrolanguage)
+4316,Masbatenyo
+4317,Sankaran Maninka
+4318,Yucatec Maya Sign Language
+4319,Musey
+4320,Mekwei
+4321,Moraid
+4322,Masikoro Malagasy
+4323,Sabah Malay
+4324,Ma (Democratic Republic of Congo)
+4325,Mansaka
+4326,Molof
+4327,Agusan Manobo
+4328,Vurës
+4329,Mombum
+4330,Maritsauá
+4331,Caac
+4332,Mongolian Sign Language
+4333,West Masela
+4334,Musom
+4335,Maslam
+4336,Mansoanka
+4337,Moresada
+4338,Aruamu
+4339,Momare
+4340,Cotabato Manobo
+4341,Anyin Morofo
+4342,Munit
+4343,Mualang
+4344,Mono (Solomon Islands)
+4345,Murik (Papua New Guinea)
+4346,Una
+4347,Munggui
+4348,Maiwa (Papua New Guinea)
+4349,Moskona
+4350,Mbe'
+4351,Montol
+4352,Mator
+4353,Matagalpa
+4354,Totontepec Mixe
+4355,Wichí Lhamtés Nocten
+4356,Muong
+4357,Mewari
+4358,Yora
+4359,Mota
+4360,Tututepec Mixtec
+4361,Asaro'o
+4362,Southern Binukidnon
+4363,Tidaá Mixtec
+4364,Nabi
+4365,Mundang
+4366,Mubi
+4367,Ajumbu
+4368,Mednyj Aleut
+4369,Media Lengua
+4370,Musgu
+4371,Mündü
+4372,Musi
+4373,Mabire
+4374,Mugom
+4375,Maiwala
+4376,Nyong
+4377,Malvi
+4378,Eastern Xiangxi Miao
+4379,Murle
+4380,Creek
+4381,Western Muria
+4382,Yaaku
+4383,Muthuvan
+4384,Bo-Ung
+4385,Muyang
+4386,Mursi
+4387,Manam
+4388,Mattole
+4389,Mamboru
+4390,Marwari (Pakistan)
+4391,Peripheral Mongolian
+4392,Yucuañe Mixtec
+4393,Mulgi
+4394,Miyako
+4395,Mekmek
+4396,Mbara (Australia)
+4397,Muya
+4398,Minaveha
+4399,Marovo
+4400,Duri
+4401,Moere
+4402,Marau
+4403,Massep
+4404,Mpotovoro
+4405,Marfa
+4406,Tagal Murut
+4407,Machinga
+4408,Meoswar
+4409,Indus Kohistani
+4410,Mesqan
+4411,Mwatebu
+4412,Juwal
+4413,Are
+4414,Mwera (Chimwera)
+4415,Murrinh-Patha
+4416,Aiklep
+4417,Mouk-Aria
+4418,Labo
+4419,Kita Maninkakan
+4420,Mirandese
+4421,Sar
+4422,Nyamwanga
+4423,Central Maewo
+4424,Kala Lagaw Ya
+4425,Mün Chin
+4426,Marwari
+4427,Mwimbi-Muthambi
+4428,Moken
+4429,Mittu
+4430,Mentawai
+4431,Hmong Daw
+4432,Moingi
+4433,Northwest Oaxaca Mixtec
+4434,Tezoatlán Mixtec
+4435,Manyika
+4436,Modang
+4437,Mele-Fila
+4438,Malgbe
+4439,Mbangala
+4440,Mvuba
+4441,Mozarabic
+4442,Miju-Mishmi
+4443,Monumbo
+4444,Maxi Gbe
+4445,Meramera
+4446,Moi (Indonesia)
+4447,Mbowe
+4448,Tlahuitoltepec Mixe
+4449,Juquila Mixe
+4450,Murik (Malaysia)
+4451,Huitepec Mixtec
+4452,Jamiltepec Mixtec
+4453,Mada (Cameroon)
+4454,Metlatónoc Mixtec
+4455,Namo
+4456,Mahou
+4457,Southeastern Nochixtlán Mixtec
+4458,Central Masela
+4459,Burmese
+4460,Mbay
+4461,Mayeka
+4462,Myene
+4463,Bambassi
+4464,Manta
+4465,Makah
+4466,Mangayat
+4467,Mamara Senoufo
+4468,Moma
+4469,Me'en
+4470,Anfillo
+4471,Pirahã
+4472,Muniche
+4473,Mesmes
+4474,Mundurukú
+4475,Erzya
+4476,Muyuw
+4477,Masaaba
+4478,Macuna
+4479,Classical Mandaic
+4480,Santa María Zacatepec Mixtec
+4481,Tumzabt
+4482,Madagascar Sign Language
+4483,Malimba
+4484,Morawa
+4485,Monastic Sign Language
+4486,Wichí Lhamtés Güisnay
+4487,Ixcatlán Mazatec
+4488,Manya
+4489,Nigeria Mambila
+4490,Mazatlán Mixe
+4491,Mumuye
+4492,Mazanderani
+4493,Matipuhy
+4494,Movima
+4495,Mori Atas
+4496,Marúbo
+4497,Macanese
+4498,Mintil
+4499,Inapang
+4500,Manza
+4501,Deg
+4502,Mawayana
+4503,Mozambican Sign Language
+4504,Maiadomu
+4505,Namla
+4506,Southern Nambikuára
+4507,Narak
+4508,Naka'ela
+4509,Nabak
+4510,Naga Pidgin
+4511,Nalu
+4512,Nakanai
+4513,Nalik
+4514,Ngan'gityemerri
+4515,Min Nan Chinese
+4516,Naaba
+4517,Neapolitan
+4518,Khoekhoe
+4519,Iguta
+4520,Naasioi
+4521,Ca̱hungwa̱rya̱
+4522,Nauru
+4523,Navajo
+4524,Nawuri
+4525,Nakwi
+4526,Ngarrindjeri
+4527,Coatepec Nahuatl
+4528,Nyemba
+4529,Ndoe
+4530,Chang Naga
+4531,Ngbinda
+4532,Konyak Naga
+4533,Nagarchal
+4534,Ngamo
+4535,Mao Naga
+4536,Ngarinyman
+4537,Nake
+4538,South Ndebele
+4539,Ngbaka Ma'bo
+4540,Kuri
+4541,Nkukoli
+4542,Nnam
+4543,Nggem
+4544,Numana
+4545,Namibian Sign Language
+4546,Na
+4547,Rongmei Naga
+4548,Ngamambo
+4549,Southern Ngbandi
+4550,Ningera
+4551,Iyo
+4552,Central Nicobarese
+4553,Ponam
+4554,Nachering
+4555,Yale
+4556,Notsi
+4557,Nisga'a
+4558,Central Huasteca Nahuatl
+4559,Classical Nahuatl
+4560,Northern Puebla Nahuatl
+4561,Na-kara
+4562,Michoacán Nahuatl
+4563,Nambo
+4564,Nauna
+4565,Sibe
+4566,Northern Katang
+4567,Ncane
+4568,Nicaraguan Sign Language
+4569,Chothe Naga
+4570,Chumburung
+4571,Central Puebla Nahuatl
+4572,Natchez
+4573,Ndasa
+4574,Kenswei Nsei
+4575,Ndau
+4576,Nde-Nsele-Nta
+4577,North Ndebele
+4578,Nadruvian
+4579,Ndengereko
+4580,Ndali
+4581,Samba Leko
+4582,Ndamba
+4583,Ndaka
+4584,Ndolo
+4585,Ndam
+4586,Ngundi
+4587,Ndonga
+4588,Ndo
+4589,Ndombe
+4590,Ndoola
+4591,Low German
+4592,Ndunga
+4593,Dugun
+4594,Ndut
+4595,Ndobo
+4596,Nduga
+4597,Lutos
+4598,Ndogo
+4599,Eastern Ngad'a
+4600,Toura (Côte d'Ivoire)
+4601,Nedebang
+4602,Nde-Gbite
+4603,Nêlêmwa-Nixumwak
+4604,Nefamese
+4605,Negidal
+4606,Nyenkha
+4607,Neo-Hittite
+4608,Neko
+4609,Neku
+4610,Nemi
+4611,Nengone
+4612,Ná-Meo
+4613,Nepali (macrolanguage)
+4614,North Central Mixe
+4615,Yahadian
+4616,Bhoti Kinnauri
+4617,Nete
+4618,Neo
+4619,Nyaheun
+4620,Newari
+4621,Neme
+4622,Neyo
+4623,Nez Perce
+4624,Dhao
+4625,Ahwai
+4626,Ayiwo
+4627,Nafaanra
+4628,Mfumte
+4629,Ngbaka
+4630,Northern Ngbandi
+4631,Ngombe (Democratic Republic of Congo)
+4632,Ngando (Central African Republic)
+4633,Ngemba
+4634,Ngbaka Manza
+4635,Nǁng
+4636,Ngizim
+4637,Ngie
+4638,Dalabon
+4639,Lomwe
+4640,Ngatik Men's Creole
+4641,Ngwo
+4642,Ngoni
+4643,Ngulu
+4644,Ngurimi
+4645,Engdewu
+4646,Gvoko
+4647,Kriang
+4648,Guerrero Nahuatl
+4649,Nagumi
+4650,Ngwaba
+4651,Nggwahyi
+4652,Tibea
+4653,Ngungwel
+4654,Nhanda
+4655,Beng
+4656,Tabasco Nahuatl
+4657,Chiripá
+4658,Eastern Huasteca Nahuatl
+4659,Nhuwala
+4660,Tetelcingo Nahuatl
+4661,Nahari
+4662,Zacatlán-Ahuacatlán-Tepetzintla Nahuatl
+4663,Isthmus-Cosoleacaque Nahuatl
+4664,Morelos Nahuatl
+4665,Central Nahuatl
+4666,Takuu
+4667,Isthmus-Pajapan Nahuatl
+4668,Huaxcaleca Nahuatl
+4669,Naro
+4670,Ometepec Nahuatl
+4671,Noone
+4672,Temascaltepec Nahuatl
+4673,Western Huasteca Nahuatl
+4674,Isthmus-Mecayapan Nahuatl
+4675,Northern Oaxaca Nahuatl
+4676,Santa María La Alta Nahuatl
+4677,Nias
+4678,Nakame
+4679,Ngandi
+4680,Niellim
+4681,Nek
+4682,Ngalakgan
+4683,Nyiha (Tanzania)
+4684,Nii
+4685,Ngaju
+4686,Southern Nicobarese
+4687,Nila
+4688,Nilamba
+4689,Ninzo
+4690,Nganasan
+4691,Nandi
+4692,Nimboran
+4693,Nimi
+4694,Southeastern Kolami
+4695,Niuean
+4696,Gilyak
+4697,Nimo
+4698,Hema
+4699,Ngiti
+4700,Ningil
+4701,Nzanyi
+4702,Nocte Naga
+4703,Ndonde Hamba
+4704,Lotha Naga
+4705,Gudanji
+4706,Njen
+4707,Njalgulgule
+4708,Angami Naga
+4709,Liangmai Naga
+4710,Ao Naga
+4711,Njerep
+4712,Nisa
+4713,Ndyuka-Trio Pidgin
+4714,Ngadjunmaya
+4715,Kunyi
+4716,Njyem
+4717,Nyishi
+4718,Nkoya
+4719,Khoibu Naga
+4720,Nkongho
+4721,Koireng
+4722,Duke
+4723,Inpui Naga
+4724,Nekgini
+4725,Khezha Naga
+4726,Thangal Naga
+4727,Nakai
+4728,Nokuku
+4729,Namat
+4730,Nkangala
+4731,Nkonya
+4732,Niuatoputapu
+4733,Nkami
+4734,Nukuoro
+4735,North Asmat
+4736,Nyika (Tanzania)
+4737,Bouna Kulango
+4738,Nyika (Malawi and Zambia)
+4739,Nkutu
+4740,Nkoroo
+4741,Nkari
+4742,Ngombale
+4743,Nalca
+4744,Dutch
+4745,East Nyala
+4746,Gela
+4747,Grangali
+4748,Nyali
+4749,Ninia Yali
+4750,Nihali
+4751,Mankiyali
+4752,Ngul
+4753,Lao Naga
+4754,Nchumbulu
+4755,Orizaba Nahuatl
+4756,Walangama
+4757,Nahali
+4758,Nyamal
+4759,Nalögo
+4760,Maram Naga
+4761,Big Nambas
+4762,Ngam
+4763,Ndumu
+4764,Mzieme Naga
+4765,Tangkhul Naga (India)
+4766,Kwasio
+4767,Monsang Naga
+4768,Nyam
+4769,Ngombe (Central African Republic)
+4770,Namakura
+4771,Ndemli
+4772,Manangba
+4773,ǃXóõ
+4774,Moyon Naga
+4775,Nimanbur
+4776,Nambya
+4777,Nimbari
+4778,Letemboi
+4779,Namonuito
+4780,Northeast Maidu
+4781,Ngamini
+4782,Nimoa
+4783,Nama (Papua New Guinea)
+4784,Namuyi
+4785,Nawdm
+4786,Nyangumarta
+4787,Nande
+4788,Nancere
+4789,West Ambae
+4790,Ngandyera
+4791,Ngaing
+4792,Maring Naga
+4793,Ngiemboon
+4794,North Nuaulu
+4795,Nyangatom
+4796,Nankina
+4797,Northern Rengma Naga
+4798,Namia
+4799,Ngete
+4800,Norwegian Nynorsk
+4801,Wancho Naga
+4802,Ngindo
+4803,Narungga
+4804,Nanticoke
+4805,Dwang
+4806,Nugunu (Australia)
+4807,Southern Nuni
+4808,Nyangga
+4809,Nda'nda'
+4810,Woun Meu
+4811,Norwegian Bokmål
+4812,Nuk
+4813,Northern Thai
+4814,Nimadi
+4815,Nomane
+4816,Nogai
+4817,Nomu
+4818,Noiri
+4819,Nonuya
+4820,Nooksack
+4821,Nomlaki
+4822,Nocamán
+4823,Old Norse
+4824,Numanggang
+4825,Ngongo
+4826,Norwegian
+4827,Eastern Nisu
+4828,Nomatsiguenga
+4829,Ewage-Notu
+4830,Novial
+4831,Nyambo
+4832,Noy
+4833,Nayi
+4834,Nar Phu
+4835,Nupbikha
+4836,Ponyo-Gongwang Naga
+4837,Phom Naga
+4838,Nepali (individual language)
+4839,Southeastern Puebla Nahuatl
+4840,Mondropolon
+4841,Pochuri Naga
+4842,Nipsan
+4843,Puimei Naga
+4844,Noipx
+4845,Napu
+4846,Southern Nago
+4847,Kura Ede Nago
+4848,Ngendelengo
+4849,Ndom
+4850,Nen
+4851,N'Ko
+4852,Kyan-Karyaw Naga
+4853,Akyaung Ari Naga
+4854,Ngom
+4855,Nara
+4856,Noric
+4857,Southern Rengma Naga
+4858,Jèrriais
+4859,Narango
+4860,Chokri Naga
+4861,Ngarla
+4862,Ngarluma
+4863,Narom
+4864,Norn
+4865,North Picene
+4866,Norra
+4867,Northern Kalapuya
+4868,Narua
+4869,Ngurmbur
+4870,Lala
+4871,Sangtam Naga
+4872,Nshi
+4873,Southern Nisu
+4874,Nsenga
+4875,Northwestern Nisu
+4876,Ngasa
+4877,Ngoshie
+4878,Nigerian Sign Language
+4879,Naskapi
+4880,Norwegian Sign Language
+4881,Sumi Naga
+4882,Nehan
+4883,Pedi
+4884,Nepalese Sign Language
+4885,Northern Sierra Miwok
+4886,Maritime Sign Language
+4887,Nali
+4888,Tase Naga
+4889,Sierra Negra Nahuatl
+4890,Southwestern Nisu
+4891,Navut
+4892,Nsongo
+4893,Nasal
+4894,Nisenan
+4895,Northern Tidung
+4896,Nathembo
+4897,Ngantangarra
+4898,Natioro
+4899,Ngaanyatjarra
+4900,Ikoma-Nata-Isenye
+4901,Nateni
+4902,Ntomba
+4903,Northern Tepehuan
+4904,Delo
+4905,Natügu
+4906,Nottoway
+4907,Tangkhul Naga (Myanmar)
+4908,Mantsi
+4909,Natanzi
+4910,Yuanga
+4911,Nukuini
+4912,Ngala
+4913,Ngundu
+4914,Nusu
+4915,Nungali
+4916,Ndunda
+4917,Ngumbi
+4918,Nyole
+4919,Nuu-chah-nulth
+4920,Nusa Laut
+4921,Niuafo'ou
+4922,Anong
+4923,Nguôn
+4924,Nupe-Nupe-Tako
+4925,Nukumanu
+4926,Nukuria
+4927,Nuer
+4928,Nung (Viet Nam)
+4929,Ngbundu
+4930,Northern Nuni
+4931,Nguluwan
+4932,Mehek
+4933,Nunggubuyu
+4934,Tlamacazapa Nahuatl
+4935,Nasarian
+4936,Namiae
+4937,Nyokon
+4938,Nawathinehena
+4939,Nyabwa
+4940,Classical Newari
+4941,Ngwe
+4942,Ngayawung
+4943,Southwest Tanna
+4944,Nyamusa-Molo
+4945,Nauo
+4946,Nawaru
+4947,Middle Newar
+4948,Nottoway-Meherrin
+4949,Nauete
+4950,Ngando (Democratic Republic of Congo)
+4951,Nage
+4952,Ngad'a
+4953,Nindi
+4954,Koki Naga
+4955,South Nuaulu
+4956,Numidian
+4957,Ngawun
+4958,Ndambomo
+4959,Naxi
+4960,Ninggerum
+4961,Narau
+4962,Nafri
+4963,Nyanja
+4964,Nyangbo
+4965,Nyanga-li
+4966,Nyore
+4967,Nyengo
+4968,Giryama
+4969,Nyindu
+4970,Nyikina
+4971,Ama (Sudan)
+4972,Nyanga
+4973,Nyaneka
+4974,Nyeu
+4975,Nyamwezi
+4976,Nyankole
+4977,Nyoro
+4978,Nyang'i
+4979,Nayini
+4980,Nyiha (Malawi)
+4981,Nyungar
+4982,Nyawaygi
+4983,Nyungwe
+4984,Nyulnyul
+4985,Nyaw
+4986,Nganyaywana
+4987,Nyakyusa-Ngonde
+4988,Tigon Mbembe
+4989,Njebi
+4990,Nzadi
+4991,Nzima
+4992,Nzakara
+4993,Zeme Naga
+4994,New Zealand Sign Language
+4995,Teke-Nzikou
+4996,Nzakambay
+4997,Nanga Dama Dogon
+4998,Orok
+4999,Oroch
+5000,Old Aramaic (up to 700 BCE)
+5001,Old Avar
+5002,Obispeño
+5003,Southern Bontok
+5004,Oblo
+5005,Moabite
+5006,Obo Manobo
+5007,Old Burmese
+5008,Old Breton
+5009,Obulom
+5010,Ocaina
+5011,Old Chinese
+5012,Occitan (post 1500)
+5013,Old Cornish
+5014,Atzingo Matlatzinca
+5015,Odut
+5016,Od
+5017,Old Dutch
+5018,Odual
+5019,Ofo
+5020,Old Frisian
+5021,Efutop
+5022,Ogbia
+5023,Ogbah
+5024,Old Georgian
+5025,Ogbogolo
+5026,Khana
+5027,Ogbronuagum
+5028,Old Hittite
+5029,Old Hungarian
+5030,Oirata
+5031,Inebu One
+5032,Northwestern Ojibwa
+5033,Central Ojibwa
+5034,Eastern Ojibwa
+5035,Ojibwa
+5036,Old Japanese
+5037,Severn Ojibwa
+5038,Ontong Java
+5039,Western Ojibwa
+5040,Okanagan
+5041,Okobo
+5042,Okodia
+5043,Okpe (Southwestern Edo)
+5044,Koko Babangk
+5045,Koresh-e Rostam
+5046,Okiek
+5047,Oko-Juwoi
+5048,Kwamtim One
+5049,Old Kentish Sign Language
+5050,Middle Korean (10th-16th cent.)
+5051,Oki-No-Erabu
+5052,Old Korean (3rd-9th cent.)
+5053,Kirike
+5054,Oko-Eni-Osayen
+5055,Oku
+5056,Orokaiva
+5057,Okpe (Northwestern Edo)
+5058,Walungge
+5059,Mochi
+5060,Olekha
+5061,Olkol
+5062,Oloma
+5063,Livvi
+5064,Olrat
+5065,Old Lithuanian
+5066,Kuvale
+5067,Omaha-Ponca
+5068,East Ambae
+5069,Mochica
+5070,Omagua
+5071,Omi
+5072,Omok
+5073,Ombo
+5074,Minoan
+5075,Utarmbung
+5076,Old Manipuri
+5077,Old Marathi
+5078,Omotik
+5079,Omurano
+5080,South Tairora
+5081,Old Mon
+5082,Ona
+5083,Lingao
+5084,Oneida
+5085,Olo
+5086,Onin
+5087,Onjob
+5088,Kabore One
+5089,Onobasulu
+5090,Onondaga
+5091,Sartang
+5092,Northern One
+5093,Ono
+5094,Ontenu
+5095,Unua
+5096,Old Nubian
+5097,Onin Based Pidgin
+5098,Tohono O'odham
+5099,Ong
+5100,Önge
+5101,Oorlams
+5102,Old Ossetic
+5103,Okpamheri
+5104,Kopkaka
+5105,Oksapmin
+5106,Opao
+5107,Opata
+5108,Ofayé
+5109,Oroha
+5110,Orma
+5111,Orejón
+5112,Oring
+5113,Oroqen
+5114,Oriya (macrolanguage)
+5115,Oromo
+5116,Orang Kanaq
+5117,Orokolo
+5118,Oruma
+5119,Orang Seletar
+5120,Adivasi Oriya
+5121,Ormuri
+5122,Old Russian
+5123,Oro Win
+5124,Oro
+5125,Odia
+5126,Ormu
+5127,Osage
+5128,Oscan
+5129,Osing
+5130,Ososo
+5131,Old Spanish
+5132,Ossetian
+5133,Osatu
+5134,Southern One
+5135,Old Saxon
+5136,Ottoman Turkish (1500-1928)
+5137,Old Tibetan
+5138,Ot Danum
+5139,Mezquital Otomi
+5140,Oti
+5141,Old Turkish
+5142,Tilapa Otomi
+5143,Eastern Highland Otomi
+5144,Tenango Otomi
+5145,Querétaro Otomi
+5146,Otoro
+5147,Estado de México Otomi
+5148,Temoaya Otomi
+5149,Otuke
+5150,Ottawa
+5151,Texcatepec Otomi
+5152,Old Tamil
+5153,Ixtenco Otomi
+5154,Tagargrent
+5155,Glio-Oubi
+5156,Oune
+5157,Old Uighur
+5158,Ouma
+5159,Elfdalian
+5160,Owiniga
+5161,Old Welsh
+5162,Oy
+5163,Oyda
+5164,Wayampi
+5165,Oya'oya
+5166,Koonzime
+5167,Parecís
+5168,Pacoh
+5169,Paumarí
+5170,Pagibete
+5171,Paranawát
+5172,Pangasinan
+5173,Tenharim
+5174,Pe
+5175,Parakanã
+5176,Pahlavi
+5177,Pampanga
+5178,Panjabi
+5179,Northern Paiute
+5180,Papiamento
+5181,Parya
+5182,Panamint
+5183,Papasena
+5184,Papitalai
+5185,Palauan
+5186,Pakaásnovos
+5187,Pawnee
+5188,Pankararé
+5189,Pech
+5190,Pankararú
+5191,Páez
+5192,Patamona
+5193,Mezontla Popoloca
+5194,Coyotepec Popoloca
+5195,Paraujano
+5196,E'ñapa Woromaipu
+5197,Parkwa
+5198,Mak (Nigeria)
+5199,Puebla Mazatec
+5200,Kpasam
+5201,Papel
+5202,Badyara
+5203,Pangwa
+5204,Central Pame
+5205,Southern Pashto
+5206,Northern Pashto
+5207,Pnar
+5208,Pyu (Papua New Guinea)
+5209,Santa Inés Ahuatempan Popoloca
+5210,Pear
+5211,Bouyei
+5212,Picard
+5213,Ruching Palaung
+5214,Paliyan
+5215,Paniya
+5216,Pardhan
+5217,Duruwa
+5218,Parenga
+5219,Paite Chin
+5220,Pardhi
+5221,Nigerian Pidgin
+5222,Piti
+5223,Pacahuara
+5224,Pyapun
+5225,Anam
+5226,Pennsylvania German
+5227,Pa Di
+5228,Podena
+5229,Padoe
+5230,Plautdietsch
+5231,Kayan
+5232,Peranakan Indonesian
+5233,Eastern Pomo
+5234,Mala (Papua New Guinea)
+5235,Taje
+5236,Northeastern Pomo
+5237,Pengo
+5238,Bonan
+5239,Chichimeca-Jonaz
+5240,Northern Pomo
+5241,Penchal
+5242,Pekal
+5243,Phende
+5244,Old Persian (ca. 600-400 B.C.)
+5245,Kunja
+5246,Southern Pomo
+5247,Iranian Persian
+5248,Pémono
+5249,Petats
+5250,Petjo
+5251,Eastern Penan
+5252,Pááfang
+5253,Peere
+5254,Pfaelzisch
+5255,Sudanese Creole Arabic
+5256,Gāndhārī
+5257,Pangwali
+5258,Pagi
+5259,Rerep
+5260,Primitive Irish
+5261,Paelignian
+5262,Pangseng
+5263,Pagu
+5264,Papua New Guinean Sign Language
+5265,Pa-Hng
+5266,Phudagi
+5267,Phuong
+5268,Phukha
+5269,Phake
+5270,Phalura
+5271,Phimbi
+5272,Phoenician
+5273,Phunoi
+5274,Phana'
+5275,Pahari-Potwari
+5276,Phu Thai
+5277,Phuan
+5278,Pahlavani
+5279,Phangduwali
+5280,Pima Bajo
+5281,Yine
+5282,Pinji
+5283,Piaroa
+5284,Piro
+5285,Pingelapese
+5286,Pisabo
+5287,Pitcairn-Norfolk
+5288,Pini
+5289,Pijao
+5290,Yom
+5291,Powhatan
+5292,Piame
+5293,Piapoco
+5294,Pero
+5295,Piratapuyo
+5296,Pijin
+5297,Pitta Pitta
+5298,Pintupi-Luritja
+5299,Pileni
+5300,Pimbwe
+5301,Piu
+5302,Piya-Kwonci
+5303,Pije
+5304,Pitjantjatjara
+5305,Ardhamāgadhī Prākrit
+5306,Pokomo
+5307,Paekche
+5308,Pak-Tong
+5309,Pankhu
+5310,Pakanha
+5311,Pökoot
+5312,Pukapuka
+5313,Attapady Kurumba
+5314,Pakistan Sign Language
+5315,Maleng
+5316,Paku
+5317,Miani
+5318,Polonombauk
+5319,Central Palawano
+5320,Polari
+5321,Palu'e
+5322,Pilagá
+5323,Paulohi
+5324,Pali
+5325,Polci
+5326,Kohistani Shina
+5327,Shwe Palaung
+5328,Palenquero
+5329,Oluta Popoluca
+5330,Palpa
+5331,Palaic
+5332,Palaka Senoufo
+5333,San Marcos Tlacoyalco Popoloca
+5334,Plateau Malagasy
+5335,Palikúr
+5336,Southwest Palawano
+5337,Brooke's Point Palawano
+5338,Bolyu
+5339,Paluan
+5340,Paama
+5341,Pambia
+5342,Pallanganmiddang
+5343,Pwaamei
+5344,Pamona
+5345,Māhārāṣṭri Prākrit
+5346,Northern Pumi
+5347,Southern Pumi
+5348,Pamlico
+5349,Lingua Franca
+5350,Pomo
+5351,Pam
+5352,Pom
+5353,Northern Pame
+5354,Paynamar
+5355,Piemontese
+5356,Tuamotuan
+5357,Plains Miwok
+5358,Poumei Naga
+5359,Papuan Malay
+5360,Southern Pame
+5361,Punan Bah-Biau
+5362,Western Panjabi
+5363,Pannei
+5364,Mpinda
+5365,Western Penan
+5366,Pongu
+5367,Penrhyn
+5368,Aoheng
+5369,Pinjarup
+5370,Paunaka
+5371,Paleni
+5372,Punan Batu 1
+5373,Pinai-Hagahai
+5374,Panobo
+5375,Pancana
+5376,Pana (Burkina Faso)
+5377,Panim
+5378,Ponosakan
+5379,Pontic
+5380,Jiongnai Bunu
+5381,Pinigura
+5382,Banyjima
+5383,Phong-Kniang
+5384,Pinyin
+5385,Pana (Central African Republic)
+5386,Poqomam
+5387,San Juan Atzingo Popoloca
+5388,Poke
+5389,Potiguára
+5390,Poqomchi'
+5391,Highland Popoluca
+5392,Pokangá
+5393,Polish
+5394,Southeastern Pomo
+5395,Pohnpeian
+5396,Central Pomo
+5397,Pwapwâ
+5398,Texistepec Popoluca
+5399,Portuguese
+5400,Sayula Popoluca
+5401,Potawatomi
+5402,Upper Guinea Crioulo
+5403,San Felipe Otlaltepec Popoloca
+5404,Polabian
+5405,Pogolo
+5406,Papi
+5407,Paipai
+5408,Uma
+5409,Pipil
+5410,Papuma
+5411,Papapana
+5412,Folopa
+5413,Pelende
+5414,Pei
+5415,San Luís Temalacayuca Popoloca
+5416,Pare
+5417,Papora
+5418,Pa'a
+5419,Malecite-Passamaquoddy
+5420,Parachi
+5421,Parsi-Dari
+5422,Principense
+5423,Paranan
+5424,Prussian
+5425,Porohanon
+5426,Paicî
+5427,Parauk
+5428,Peruvian Sign Language
+5429,Kibiri
+5430,Prasuni
+5431,Old Provençal (to 1500)
+5432,Parsi
+5433,Ashéninka Perené
+5434,Puri
+5435,Dari
+5436,Phai
+5437,Puragi
+5438,Parawen
+5439,Purik
+5440,Providencia Sign Language
+5441,Asue Awyu
+5442,Persian Sign Language
+5443,Plains Indian Sign Language
+5444,Central Malay
+5445,Penang Sign Language
+5446,Southwest Pashai
+5447,Southeast Pashai
+5448,Puerto Rican Sign Language
+5449,Pauserna
+5450,Panasuan
+5451,Polish Sign Language
+5452,Philippine Sign Language
+5453,Pasi
+5454,Portuguese Sign Language
+5455,Kaulong
+5456,Central Pashto
+5457,Sauraseni Prākrit
+5458,Port Sandwich
+5459,Piscataway
+5460,Pai Tavytera
+5461,Pataxó Hã-Ha-Hãe
+5462,Pindiini
+5463,Patani
+5464,Zo'é
+5465,Patep
+5466,Pattapu
+5467,Piamatsina
+5468,Enrekang
+5469,Bambam
+5470,Port Vato
+5471,Pentlatch
+5472,Pathiya
+5473,Western Highland Purepecha
+5474,Purum
+5475,Punan Merap
+5476,Punan Aput
+5477,Puelche
+5478,Punan Merah
+5479,Phuie
+5480,Puinave
+5481,Punan Tubu
+5482,Puma
+5483,Puoc
+5484,Pulabu
+5485,Puquina
+5486,Puruborá
+5487,Pushto
+5488,Putoh
+5489,Punu
+5490,Puluwatese
+5491,Puare
+5492,Purisimeño
+5493,Pawaia
+5494,Panawa
+5495,Gapapaiwa
+5496,Patwin
+5497,Molbog
+5498,Paiwan
+5499,Pwo Western Karen
+5500,Powari
+5501,Pwo Northern Karen
+5502,Quetzaltepec Mixe
+5503,Pye Krumen
+5504,Fyam
+5505,Poyanáwa
+5506,Paraguayan Sign Language
+5507,Puyuma
+5508,Pyu (Myanmar)
+5509,Pyen
+5510,Para Naga
+5511,Quapaw
+5512,Huallaga Huánuco Quechua
+5513,K'iche'
+5514,Calderón Highland Quichua
+5515,Quechua
+5516,Lambayeque Quechua
+5517,Chimborazo Highland Quichua
+5518,South Bolivian Quechua
+5519,Quileute
+5520,Chachapoyas Quechua
+5521,North Bolivian Quechua
+5522,Sipacapense
+5523,Quinault
+5524,Southern Pastaza Quechua
+5525,Quinqui
+5526,Yanahuanca Pasco Quechua
+5527,Santiago del Estero Quichua
+5528,Sacapulteco
+5529,Tena Lowland Quichua
+5530,Yauyos Quechua
+5531,Ayacucho Quechua
+5532,Cusco Quechua
+5533,Ambo-Pasco Quechua
+5534,Cajamarca Quechua
+5535,Eastern Apurímac Quechua
+5536,Huamalíes-Dos de Mayo Huánuco Quechua
+5537,Imbabura Highland Quichua
+5538,Loja Highland Quichua
+5539,Cajatambo North Lima Quechua
+5540,Margos-Yarowilca-Lauricocha Quechua
+5541,North Junín Quechua
+5542,Napo Lowland Quechua
+5543,Pacaraos Quechua
+5544,San Martín Quechua
+5545,Huaylla Wanca Quechua
+5546,Queyu
+5547,Northern Pastaza Quichua
+5548,Corongo Ancash Quechua
+5549,Classical Quechua
+5550,Huaylas Ancash Quechua
+5551,Kuman (Russia)
+5552,Sihuas Ancash Quechua
+5553,Kwalhioqua-Tlatskanai
+5554,Chiquián Ancash Quechua
+5555,Chincha Quechua
+5556,Panao Huánuco Quechua
+5557,Salasaca Highland Quichua
+5558,Northern Conchucos Ancash Quechua
+5559,Southern Conchucos Ancash Quechua
+5560,Puno Quechua
+5561,Qashqa'i
+5562,Cañar Highland Quichua
+5563,Southern Qiang
+5564,Santa Ana de Tusi Pasco Quechua
+5565,Arequipa-La Unión Quechua
+5566,Jauja Wanca Quechua
+5567,Quenya
+5568,Quiripi
+5569,Dungmali
+5570,Camling
+5571,Rasawa
+5572,Rade
+5573,Western Meohang
+5574,Logooli
+5575,Rabha
+5576,Ramoaaina
+5577,Rajasthani
+5578,Tulu-Bohuai
+5579,Ralte
+5580,Canela
+5581,Riantana
+5582,Rao
+5583,Rapanui
+5584,Saam
+5585,Rarotongan
+5586,Tegali
+5587,Razajerdi
+5588,Raute
+5589,Sampang
+5590,Rawang
+5591,Rang
+5592,Rapa
+5593,Rahambuu
+5594,Rumai Palaung
+5595,Northern Bontok
+5596,Miraya Bikol
+5597,Barababaraba
+5598,Réunion Creole French
+5599,Rudbari
+5600,Rerau
+5601,Rembong
+5602,Rejang Kayan
+5603,Kara (Tanzania)
+5604,Reli
+5605,Rejang
+5606,Rendille
+5607,Remo
+5608,Rengao
+5609,Rer Bare
+5610,Reshe
+5611,Retta
+5612,Reyesano
+5613,Roria
+5614,Romano-Greek
+5615,Rangkas
+5616,Romagnol
+5617,Resígaro
+5618,Southern Roglai
+5619,Ringgou
+5620,Rohingya
+5621,Yahang
+5622,Riang (India)
+5623,Tarifit
+5624,Riang Lang
+5625,Nyaturu
+5626,Nungu
+5627,Ribun
+5628,Ritharrngu
+5629,Riung
+5630,Rajong
+5631,Raji
+5632,Rajbanshi
+5633,Kraol
+5634,Rikbaktsa
+5635,Rakahanga-Manihiki
+5636,Rakhine
+5637,Marka
+5638,Rangpuri
+5639,Arakwal
+5640,Rama
+5641,Rembarrnga
+5642,Carpathian Romani
+5643,Traveller Danish
+5644,Angloromani
+5645,Kalo Finnish Romani
+5646,Traveller Norwegian
+5647,Murkim
+5648,Lomavren
+5649,Romkun
+5650,Baltic Romani
+5651,Roma
+5652,Balkan Romani
+5653,Sinte Romani
+5654,Rempi
+5655,Caló
+5656,Romanian Sign Language
+5657,Domari
+5658,Tavringer Romani
+5659,Romanova
+5660,Welsh Romani
+5661,Romam
+5662,Vlax Romani
+5663,Marma
+5664,Ruund
+5665,Ronga
+5666,Ranglong
+5667,Roon
+5668,Rongpo
+5669,Nari Nari
+5670,Rungwa
+5671,Tae'
+5672,Cacgia Roglai
+5673,Rogo
+5674,Ronji
+5675,Rombo
+5676,Northern Roglai
+5677,Romansh
+5678,Romblomanon
+5679,Romany
+5680,Romanian
+5681,Rotokas
+5682,Kriol
+5683,Rongga
+5684,Runga
+5685,Dela-Oenale
+5686,Repanbitip
+5687,Rapting
+5688,Ririo
+5689,Waima
+5690,Arritinngithigh
+5691,Romano-Serbian
+5692,Russian Sign Language
+5693,Miriwoong Sign Language
+5694,Rungtu Chin
+5695,Ratahan
+5696,Rotuman
+5697,Yurats
+5698,Rathawi
+5699,Gungu
+5700,Ruuli
+5701,Rusyn
+5702,Luguru
+5703,Roviana
+5704,Ruga
+5705,Rufiji
+5706,Che
+5707,Rundi
+5708,Istro Romanian
+5709,Macedo-Romanian
+5710,Megleno Romanian
+5711,Russian
+5712,Rutul
+5713,Lanas Lobu
+5714,Mala (Nigeria)
+5715,Ruma
+5716,Rawo
+5717,Rwa
+5718,Amba (Uganda)
+5719,Rawa
+5720,Marwari (India)
+5721,Ngardi
+5722,Karuwali
+5723,Northern Amami-Oshima
+5724,Yaeyama
+5725,Central Okinawan
+5726,Rāziḥī
+5727,Saba
+5728,Buglere
+5729,Meskwaki
+5730,Sandawe
+5731,Sabanê
+5732,Safaliba
+5733,Sango
+5734,Yakut
+5735,Sahu
+5736,Sake
+5737,Samaritan Aramaic
+5738,Sanskrit
+5739,Sause
+5740,Samburu
+5741,Saraveca
+5742,Sasak
+5743,Santali
+5744,Saleman
+5745,Saafi-Saafi
+5746,Sawi
+5747,Sa
+5748,Saya
+5749,Saurashtra
+5750,Ngambay
+5751,Simbo
+5752,Kele (Papua New Guinea)
+5753,Southern Samo
+5754,Saliba
+5755,Chabu
+5756,Seget
+5757,Sori-Harengan
+5758,Seti
+5759,Surbakhal
+5760,Safwa
+5761,Botolan Sambal
+5762,Sagala
+5763,Sindhi Bhil
+5764,Sabüm
+5765,Sangu (Tanzania)
+5766,Sileibi
+5767,Sembakung Murut
+5768,Subiya
+5769,Kimki
+5770,Stod Bhoti
+5771,Sabine
+5772,Simba
+5773,Seberuang
+5774,Soli
+5775,Sara Kaba
+5776,Chut
+5777,Dongxiang
+5778,San Miguel Creole French
+5779,Sanggau
+5780,Sakachep
+5781,Sri Lankan Creole Malay
+5782,Sadri
+5783,Shina
+5784,Sicilian
+5785,Scots
+5786,Hyolmo
+5787,Sa'och
+5788,North Slavey
+5789,Southern Katang
+5790,Shumcho
+5791,Sheni
+5792,Sha
+5793,Sicel
+5794,Toraja-Sa'dan
+5795,Shabak
+5796,Sassarese Sardinian
+5797,Surubu
+5798,Sarli
+5799,Savi
+5800,Southern Kurdish
+5801,Suundi
+5802,Sos Kundi
+5803,Saudi Arabian Sign Language
+5804,Semandang
+5805,Gallurese Sardinian
+5806,Bukar-Sadung Bidayuh
+5807,Sherdukpen
+5808,Oraon Sadri
+5809,Sened
+5810,Shuadit
+5811,Sarudu
+5812,Sibu Melanau
+5813,Sallands
+5814,Semai
+5815,Shempire Senoufo
+5816,Sechelt
+5817,Sedang
+5818,Seneca
+5819,Cebaara Senoufo
+5820,Segeju
+5821,Sena
+5822,Seri
+5823,Sene
+5824,Sekani
+5825,Selkup
+5826,Nanerigé Sénoufo
+5827,Suarmin
+5828,Sìcìté Sénoufo
+5829,Senara Sénoufo
+5830,Serrano
+5831,Koyraboro Senni Songhai
+5832,Sentani
+5833,Serui-Laut
+5834,Nyarafolo Senoufo
+5835,Sewa Bay
+5836,Secoya
+5837,Senthang Chin
+5838,Langue des signes de Belgique Francophone
+5839,Eastern Subanen
+5840,Small Flowery Miao
+5841,South African Sign Language
+5842,Sehwi
+5843,Old Irish (to 900)
+5844,Mag-antsi Ayta
+5845,Kipsigis
+5846,Surigaonon
+5847,Segai
+5848,Swiss-German Sign Language
+5849,Shughni
+5850,Suga
+5851,Surgujia
+5852,Sangkong
+5853,Singa
+5854,Singpho
+5855,Sangisari
+5856,Samogitian
+5857,Brokpake
+5858,Salas
+5859,Sebat Bet Gurage
+5860,Sierra Leone Sign Language
+5861,Sanglechi
+5862,Sursurunga
+5863,Shall-Zwall
+5864,Ninam
+5865,Sonde
+5866,Kundal Shahi
+5867,Sheko
+5868,Shua
+5869,Shoshoni
+5870,Tachelhit
+5871,Shatt
+5872,Shilluk
+5873,Shendu
+5874,Shahrudi
+5875,Shan
+5876,Shanga
+5877,Shipibo-Conibo
+5878,Sala
+5879,Shi
+5880,Shuswap
+5881,Shasta
+5882,Chadian Arabic
+5883,Shehri
+5884,Shwai
+5885,She
+5886,Tachawit
+5887,Syenara Senoufo
+5888,Akkala Sami
+5889,Sebop
+5890,Sidamo
+5891,Simaa
+5892,Siamou
+5893,Paasaal
+5894,Zire
+5895,Shom Peng
+5896,Numbami
+5897,Sikiana
+5898,Tumulung Sisaala
+5899,Mende (Papua New Guinea)
+5900,Sinhala
+5901,Sikkimese
+5902,Sonia
+5903,Siri
+5904,Siuslaw
+5905,Sinagen
+5906,Sumariup
+5907,Siwai
+5908,Sumau
+5909,Sivandi
+5910,Siwi
+5911,Epena
+5912,Sajau Basap
+5913,Kildin Sami
+5914,Pite Sami
+5915,Assangori
+5916,Kemi Sami
+5917,Sajalong
+5918,Mapun
+5919,Sindarin
+5920,Xibe
+5921,Surjapuri
+5922,Siar-Lak
+5923,Senhaja De Srair
+5924,Ter Sami
+5925,Ume Sami
+5926,Shawnee
+5927,Skagit
+5928,Saek
+5929,Ma Manda
+5930,Southern Sierra Miwok
+5931,Seke (Vanuatu)
+5932,Sakirabiá
+5933,Sakalava Malagasy
+5934,Sikule
+5935,Sika
+5936,Seke (Nepal)
+5937,Kutong
+5938,Kolibugan Subanon
+5939,Seko Tengah
+5940,Sekapan
+5941,Sininkere
+5942,Saraiki
+5943,Maia
+5944,Sakata
+5945,Sakao
+5946,Skou
+5947,Skepi Creole Dutch
+5948,Seko Padang
+5949,Sikaiana
+5950,Sekar
+5951,Sáliba
+5952,Sissala
+5953,Sholaga
+5954,Swiss-Italian Sign Language
+5955,Selungai Murut
+5956,Southern Puget Sound Salish
+5957,Lower Silesian
+5958,Salumá
+5959,Slovak
+5960,Salt-Yui
+5961,Pangutaran Sama
+5962,Salinan
+5963,Lamaholot
+5964,Salchuq
+5965,Salar
+5966,Singapore Sign Language
+5967,Sila
+5968,Selaru
+5969,Slovenian
+5970,Sialum
+5971,Salampasu
+5972,Selayar
+5973,Ma'ya
+5974,Southern Sami
+5975,Simbari
+5976,Som
+5977,Sama
+5978,Northern Sami
+5979,Auwe
+5980,Simbali
+5981,Samei
+5982,Lule Sami
+5983,Bolinao
+5984,Central Sama
+5985,Musasa
+5986,Inari Sami
+5987,Samoan
+5988,Samaritan
+5989,Samo
+5990,Simeulue
+5991,Skolt Sami
+5992,Simte
+5993,Somray
+5994,Samvedi
+5995,Sumbawa
+5996,Samba
+5997,Semnani
+5998,Simeku
+5999,Shona
+6000,Sebuyau
+6001,Sinaugoro
+6002,Sindhi
+6003,Bau Bidayuh
+6004,Noon
+6005,Sanga (Democratic Republic of Congo)
+6006,Sensi
+6007,Riverain Sango
+6008,Soninke
+6009,Sangil
+6010,Southern Ma'di
+6011,Siona
+6012,Snohomish
+6013,Siane
+6014,Sangu (Gabon)
+6015,Sihan
+6016,South West Bay
+6017,Senggi
+6018,Sa'ban
+6019,Selee
+6020,Sam
+6021,Saniyo-Hiyewe
+6022,Kou
+6023,Thai Song
+6024,Sobei
+6025,So (Democratic Republic of Congo)
+6026,Songoora
+6027,Songomeno
+6028,Sogdian
+6029,Aka
+6030,Sonha
+6031,Soi
+6032,Sokoro
+6033,Solos
+6034,Somali
+6035,Songo
+6036,Songe
+6037,Kanasi
+6038,Somrai
+6039,Seeku
+6040,Southern Sotho
+6041,Southern Thai
+6042,Sonsorol
+6043,Sowanda
+6044,Swo
+6045,Miyobe
+6046,Temi
+6047,Spanish
+6048,Sepa (Indonesia)
+6049,Sapé
+6050,Saep
+6051,Sepa (Papua New Guinea)
+6052,Sian
+6053,Saponi
+6054,Sengo
+6055,Selepet
+6056,Akukem
+6057,Sanapaná
+6058,Spokane
+6059,Supyire Senoufo
+6060,Loreto-Ucayali Spanish
+6061,Saparua
+6062,Saposa
+6063,Spiti Bhoti
+6064,Sapuan
+6065,Sambalpuri
+6066,South Picene
+6067,Sabaot
+6068,Shama-Sambuga
+6069,Shau
+6070,Albanian
+6071,Albanian Sign Language
+6072,Suma
+6073,Susquehannock
+6074,Sorkhei
+6075,Sou
+6076,Siculo Arabic
+6077,Sri Lankan Sign Language
+6078,Soqotri
+6079,Squamish
+6080,Saruga
+6081,Sora
+6082,Logudorese Sardinian
+6083,Sardinian
+6084,Sara
+6085,Nafi
+6086,Sulod
+6087,Sarikoli
+6088,Siriano
+6089,Serudung Murut
+6090,Isirawa
+6091,Saramaccan
+6092,Campidanese Sardinian
+6093,Serbian
+6094,Sirionó
+6095,Serer
+6096,Sarsi
+6097,Sauri
+6098,Suruí
+6099,Southern Sorsoganon
+6100,Serua
+6101,Sirmauri
+6102,Sera
+6103,Shahmirzadi
+6104,Southern Sama
+6105,Suba-Simbiti
+6106,Siroi
+6107,Balangingi
+6108,Thao
+6109,Seimat
+6110,Shihhi Arabic
+6111,Sansi
+6112,Sausi
+6113,Sunam
+6114,Western Sisaala
+6115,Semnam
+6116,Waata
+6117,Sissano
+6118,Spanish Sign Language
+6119,So'a
+6120,Swiss-French Sign Language
+6121,Sô
+6122,Sinasina
+6123,Susuami
+6124,Shark Bay
+6125,Swati
+6126,Samberigi
+6127,Saho
+6128,Sengseng
+6129,Settla
+6130,Northern Subanen
+6131,Sentinel
+6132,Liana-Seti
+6133,Seta
+6134,Trieng
+6135,Shelta
+6136,Bulo Stieng
+6137,Matya Samo
+6138,Arammba
+6139,Stellingwerfs
+6140,Setaman
+6141,Owa
+6142,Stoney
+6143,Southeastern Tepehuan
+6144,Saterfriesisch
+6145,Straits Salish
+6146,Shumashti
+6147,Budeh Stieng
+6148,Samtao
+6149,Silt'e
+6150,Satawalese
+6151,Siberian Tatar
+6152,Sulka
+6153,Suku
+6154,Western Subanon
+6155,Suena
+6156,Suganga
+6157,Suki
+6158,Shubi
+6159,Sukuma
+6160,Sundanese
+6161,Suri
+6162,Mwaghavul
+6163,Susu
+6164,Subtiaba
+6165,Puroik
+6166,Sumbwa
+6167,Sumerian
+6168,Suyá
+6169,Sunwar
+6170,Svan
+6171,Ulau-Suain
+6172,Vincentian Creole English
+6173,Serili
+6174,Slovakian Sign Language
+6175,Slavomolisano
+6176,Savosavo
+6177,Skalvian
+6178,Swahili (macrolanguage)
+6179,Maore Comorian
+6180,Congo Swahili
+6181,Swedish
+6182,Sere
+6183,Swabian
+6184,Swahili (individual language)
+6185,Sui
+6186,Sira
+6187,Malawi Sena
+6188,Swedish Sign Language
+6189,Samosa
+6190,Sawknah
+6191,Shanenawa
+6192,Suau
+6193,Sharwa
+6194,Saweru
+6195,Seluwasan
+6196,Sawila
+6197,Suwawa
+6198,Shekhawati
+6199,Sowa
+6200,Suruahá
+6201,Sarua
+6202,Suba
+6203,Sicanian
+6204,Sighu
+6205,Shuhi
+6206,Southern Kalapuya
+6207,Selian
+6208,Samre
+6209,Sangir
+6210,Sorothaptic
+6211,Saaroa
+6212,Sasaru
+6213,Upper Saxon
+6214,Saxwe Gbe
+6215,Siang
+6216,Central Subanen
+6217,Seki
+6218,Sukur
+6219,Sylheti
+6220,Maya Samo
+6221,Senaya
+6222,Suoy
+6223,Syriac
+6224,Sinyar
+6225,Kagate
+6226,Samay
+6227,Al-Sayyid Bedouin Sign Language
+6228,Semelai
+6229,Ngalum
+6230,Semaq Beri
+6231,Seru
+6232,Seze
+6233,Sengele
+6234,Silesian
+6235,Sula
+6236,Suabo
+6237,Solomon Islands Sign Language
+6238,Isu (Fako Division)
+6239,Sawai
+6240,Sakizaya
+6241,Lower Tanana
+6242,Tabassaran
+6243,Lowland Tarahumara
+6244,Tause
+6245,Tariana
+6246,Tapirapé
+6247,Tagoi
+6248,Tahitian
+6249,Eastern Tamang
+6250,Tala
+6251,Tal
+6252,Tamil
+6253,Tangale
+6254,Yami
+6255,Taabwa
+6256,Tamasheq
+6257,Central Tarahumara
+6258,Tay Boi
+6259,Tatar
+6260,Upper Tanana
+6261,Tatuyo
+6262,Tai
+6263,Tamki
+6264,Atayal
+6265,Tocho
+6266,Aikanã
+6267,Tapeba
+6268,Takia
+6269,Kaki Ae
+6270,Tanimbili
+6271,Mandara
+6272,North Tairora
+6273,Dharawal
+6274,Gaam
+6275,Tiang
+6276,Calamian Tagbanwa
+6277,Tboli
+6278,Tagbu
+6279,Barro Negro Tunebo
+6280,Tawala
+6281,Taworta
+6282,Tumtum
+6283,Tanguat
+6284,Tembo (Kitembo)
+6285,Tubar
+6286,Tobo
+6287,Tagbanwa
+6288,Kapin
+6289,Tabaru
+6290,Ditammari
+6291,Ticuna
+6292,Tanacross
+6293,Datooga
+6294,Tafi
+6295,Southern Tutchone
+6296,Malinaltepec Me'phaa
+6297,Tamagario
+6298,Turks And Caicos Creole English
+6299,Wára
+6300,Tchitchege
+6301,Taman (Myanmar)
+6302,Tanahmerah
+6303,Tichurong
+6304,Taungyo
+6305,Tawr Chin
+6306,Kaiy
+6307,Torres Strait Creole
+6308,T'en
+6309,Southeastern Tarahumara
+6310,Tecpatlán Totonac
+6311,Toda
+6312,Tulu
+6313,Thado Chin
+6314,Tagdal
+6315,Panchpargania
+6316,Emberá-Tadó
+6317,Tai Nüa
+6318,Tiranige Diga Dogon
+6319,Talieng
+6320,Western Tamang
+6321,Thulung
+6322,Tomadino
+6323,Tajio
+6324,Tambas
+6325,Sur
+6326,Taruma
+6327,Tondano
+6328,Teme
+6329,Tita
+6330,Todrah
+6331,Doutai
+6332,Tetun Dili
+6333,Toro
+6334,Tandroy-Mahafaly Malagasy
+6335,Tadyawan
+6336,Temiar
+6337,Tetete
+6338,Terik
+6339,Tepo Krumen
+6340,Huehuetla Tepehua
+6341,Teressa
+6342,Teke-Tege
+6343,Tehuelche
+6344,Torricelli
+6345,Ibali Teke
+6346,Telugu
+6347,Timne
+6348,Tama (Colombia)
+6349,Teso
+6350,Tepecano
+6351,Temein
+6352,Tereno
+6353,Tengger
+6354,Tetum
+6355,Soo
+6356,Teor
+6357,Tewa (USA)
+6358,Tennet
+6359,Tulishi
+6360,Tetserret
+6361,Tofin Gbe
+6362,Tanaina
+6363,Tefaro
+6364,Teribe
+6365,Ternate
+6366,Sagalla
+6367,Tobilung
+6368,Tigak
+6369,Ciwogai
+6370,Eastern Gorkha Tamang
+6371,Chalikha
+6372,Tobagonian Creole English
+6373,Lawunuia
+6374,Tagin
+6375,Tajik
+6376,Tagalog
+6377,Tandaganon
+6378,Sudest
+6379,Tangoa
+6380,Tring
+6381,Tareng
+6382,Nume
+6383,Central Tagbanwa
+6384,Tanggu
+6385,Tingui-Boto
+6386,Tagwana Senoufo
+6387,Tagish
+6388,Togoyo
+6389,Tagalaka
+6390,Thai
+6391,Kuuk Thaayorre
+6392,Chitwania Tharu
+6393,Thangmi
+6394,Northern Tarahumara
+6395,Tai Long
+6396,Tharaka
+6397,Dangaura Tharu
+6398,Aheu
+6399,Thachanadan
+6400,Thompson
+6401,Kochila Tharu
+6402,Rana Tharu
+6403,Thakali
+6404,Tahltan
+6405,Thuri
+6406,Tahaggart Tamahaq
+6407,Thudam
+6408,Tha
+6409,Tayart Tamajeq
+6410,Tidikelt Tamazight
+6411,Tira
+6412,Tifal
+6413,Tigre
+6414,Timugon Murut
+6415,Tiene
+6416,Tilung
+6417,Tikar
+6418,Tillamook
+6419,Timbe
+6420,Tindi
+6421,Teop
+6422,Trimuris
+6423,Tiéfo
+6424,Tigrinya
+6425,Masadiit Itneg
+6426,Tinigua
+6427,Adasen
+6428,Tiv
+6429,Tiwi
+6430,Southern Tiwa
+6431,Tiruray
+6432,Tai Hongjin
+6433,Tajuasohn
+6434,Tunjung
+6435,Northern Tujia
+6436,Tjungundji
+6437,Tai Laing
+6438,Timucua
+6439,Tonjon
+6440,Temacine Tamazight
+6441,Tjupany
+6442,Southern Tujia
+6443,Tjurruru
+6444,Djabwurrung
+6445,Truká
+6446,Buksa
+6447,Tukudede
+6448,Takwane
+6449,Tukumanféd
+6450,Tesaka Malagasy
+6451,Tokelau
+6452,Takelma
+6453,Toku-No-Shima
+6454,Tikopia
+6455,Tee
+6456,Tsakhur
+6457,Takestani
+6458,Kathoriya Tharu
+6459,Upper Necaxa Totonac
+6460,Mur Pano
+6461,Teanu
+6462,Tangko
+6463,Takua
+6464,Southwestern Tepehuan
+6465,Tobelo
+6466,Yecuatla Totonac
+6467,Talaud
+6468,Telefol
+6469,Tofanma
+6470,Klingon
+6471,Tlingit
+6472,Talinga-Bwisi
+6473,Taloki
+6474,Tetela
+6475,Tolomako
+6476,Talondo'
+6477,Talodi
+6478,Filomena Mata-Coahuitlán Totonac
+6479,Tai Loi
+6480,Talise
+6481,Tambotalo
+6482,Sou Nama
+6483,Tulehu
+6484,Taliabu
+6485,Khehek
+6486,Talysh
+6487,Tama (Chad)
+6488,Katbol
+6489,Tumak
+6490,Haruai
+6491,Tremembé
+6492,Toba-Maskoy
+6493,Ternateño
+6494,Tamashek
+6495,Tutuba
+6496,Samarokena
+6497,Northwestern Tamang
+6498,Tamnim Citak
+6499,Tai Thanh
+6500,Taman (Indonesia)
+6501,Temoq
+6502,Tumleo
+6503,Jewish Babylonian Aramaic (ca. 200-1200 CE)
+6504,Tima
+6505,Tasmate
+6506,Iau
+6507,Tembo (Motembo)
+6508,Temuan
+6509,Tami
+6510,Tamanaku
+6511,Tacana
+6512,Western Tunebo
+6513,Tanimuca-Retuarã
+6514,Angosturas Tunebo
+6515,Tobanga
+6516,Maiani
+6517,Tandia
+6518,Kwamera
+6519,Lenakel
+6520,Tabla
+6521,North Tanna
+6522,Toromono
+6523,Whitesands
+6524,Taino
+6525,Ménik
+6526,Tenis
+6527,Tontemboan
+6528,Tay Khang
+6529,Tangchangya
+6530,Tonsawang
+6531,Tanema
+6532,Tongwe
+6533,Ten'edn
+6534,Toba
+6535,Coyutla Totonac
+6536,Toma
+6537,Gizrra
+6538,Tonga (Nyasa)
+6539,Gitonga
+6540,Tonga (Zambia)
+6541,Tojolabal
+6542,Tolowa
+6543,Tombulu
+6544,Tonga (Tonga Islands)
+6545,Xicotepec De Juárez Totonac
+6546,Papantla Totonac
+6547,Toposa
+6548,Togbo-Vara Banda
+6549,Highland Totonac
+6550,Tho
+6551,Upper Taromi
+6552,Jemez
+6553,Tobian
+6554,Topoiyo
+6555,To
+6556,Taupota
+6557,Azoyú Me'phaa
+6558,Tippera
+6559,Tarpia
+6560,Kula
+6561,Tok Pisin
+6562,Tapieté
+6563,Tupinikin
+6564,Tlacoapa Me'phaa
+6565,Tampulma
+6566,Tupinambá
+6567,Tai Pao
+6568,Pisaflores Tepehua
+6569,Tukpa
+6570,Tuparí
+6571,Tlachichilco Tepehua
+6572,Tampuan
+6573,Tanapag
+6574,Tupí
+6575,Acatepec Me'phaa
+6576,Trumai
+6577,Tinputz
+6578,Tembé
+6579,Lehali
+6580,Turumsa
+6581,Tenino
+6582,Toaripi
+6583,Tomoip
+6584,Tunni
+6585,Torona
+6586,Western Totonac
+6587,Touo
+6588,Tonkawa
+6589,Tirahi
+6590,Terebu
+6591,Copala Triqui
+6592,Turi
+6593,East Tarangan
+6594,Trinidadian Creole English
+6595,Lishán Didán
+6596,Turaka
+6597,Trió
+6598,Toram
+6599,Traveller Scottish
+6600,Tregami
+6601,Trinitario
+6602,Tarao Naga
+6603,Kok Borok
+6604,San Martín Itunyoso Triqui
+6605,Taushiro
+6606,Chicahuaxtla Triqui
+6607,Tunggare
+6608,Turoyo
+6609,Taroko
+6610,Torwali
+6611,Tringgus-Sembaan Bidayuh
+6612,Turung
+6613,Torá
+6614,Tsaangi
+6615,Tsamai
+6616,Tswa
+6617,Tsakonian
+6618,Tunisian Sign Language
+6619,Tausug
+6620,Tsuvan
+6621,Tsimshian
+6622,Tshangla
+6623,Tseku
+6624,Ts'ün-Lao
+6625,Turkish Sign Language
+6626,Tswana
+6627,Tsonga
+6628,Northern Toussian
+6629,Thai Sign Language
+6630,Akei
+6631,Taiwan Sign Language
+6632,Tondi Songway Kiini
+6633,Tsou
+6634,Tsogo
+6635,Tsishingini
+6636,Mubami
+6637,Tebul Sign Language
+6638,Purepecha
+6639,Tutelo
+6640,Gaa
+6641,Tektiteko
+6642,Tauade
+6643,Bwanabwana
+6644,Tuotomb
+6645,Tutong
+6646,Upper Ta'oih
+6647,Tobati
+6648,Tooro
+6649,Totoro
+6650,Totela
+6651,Northern Tutchone
+6652,Towei
+6653,Lower Ta'oih
+6654,Tombelala
+6655,Tawallammat Tamajaq
+6656,Tera
+6657,Northeastern Thai
+6658,Muslim Tat
+6659,Torau
+6660,Titan
+6661,Long Wat
+6662,Sikaritai
+6663,Tsum
+6664,Wiarumus
+6665,Tübatulabal
+6666,Mutu
+6667,Tuxá
+6668,Tuyuca
+6669,Central Tunebo
+6670,Tunia
+6671,Taulil
+6672,Tupuri
+6673,Tugutil
+6674,Turkmen
+6675,Tula
+6676,Tumbuka
+6677,Tunica
+6678,Tucano
+6679,Tedaga
+6680,Turkish
+6681,Tuscarora
+6682,Tututni
+6683,Turkana
+6684,Tuxináwa
+6685,Tugen
+6686,Turka
+6687,Vaghua
+6688,Tsuvadi
+6689,Te'un
+6690,Southeast Ambrym
+6691,Tuvalu
+6692,Tela-Masbuar
+6693,Tavoyan
+6694,Tidore
+6695,Taveta
+6696,Tutsa Naga
+6697,Tunen
+6698,Sedoa
+6699,Taivoan
+6700,Timor Pidgin
+6701,Twana
+6702,Western Tawbuid
+6703,Teshenawa
+6704,Twents
+6705,Tewa (Indonesia)
+6706,Northern Tiwa
+6707,Tereweng
+6708,Tai Dón
+6709,Twi
+6710,Tawara
+6711,Tawang Monpa
+6712,Twendi
+6713,Tswapong
+6714,Ere
+6715,Tasawaq
+6716,Southwestern Tarahumara
+6717,Turiwára
+6718,Termanu
+6719,Tuwari
+6720,Tewe
+6721,Tawoyan
+6722,Tombonuo
+6723,Tokharian B
+6724,Tsetsaut
+6725,Totoli
+6726,Tangut
+6727,Thracian
+6728,Ikpeng
+6729,Tarjumo
+6730,Tomini
+6731,West Tarangan
+6732,Toto
+6733,Tii
+6734,Tartessian
+6735,Tonsea
+6736,Citak
+6737,Kayapó
+6738,Tatana
+6739,Tanosy Malagasy
+6740,Tauya
+6741,Kyanga
+6742,O'du
+6743,Teke-Tsaayi
+6744,Tai Do
+6745,Thu Lao
+6746,Kombai
+6747,Thaypan
+6748,Tai Daeng
+6749,Tày Sa Pa
+6750,Tày Tac
+6751,Kua
+6752,Tuvinian
+6753,Teke-Tyee
+6754,Tày
+6755,Tanzanian Sign Language
+6756,Tzeltal
+6757,Tz'utujil
+6758,Talossan
+6759,Central Atlas Tamazight
+6760,Tugun
+6761,Tzotzil
+6762,Tabriak
+6763,Uamué
+6764,Kuan
+6765,Tairuma
+6766,Ubang
+6767,Ubi
+6768,Buhi'non Bikol
+6769,Ubir
+6770,Umbu-Ungu
+6771,Ubykh
+6772,Uda
+6773,Udihe
+6774,Muduga
+6775,Udi
+6776,Ujir
+6777,Wuzlam
+6778,Udmurt
+6779,Uduk
+6780,Kioko
+6781,Ufim
+6782,Ugaritic
+6783,Kuku-Ugbanh
+6784,Ughele
+6785,Ugandan Sign Language
+6786,Ugong
+6787,Uruguayan Sign Language
+6788,Uhami
+6789,Damal
+6790,Uighur
+6791,Uisai
+6792,Iyive
+6793,Tanjijili
+6794,Kaburi
+6795,Ukuriguma
+6796,Ukhwejo
+6797,Muak Sa-aak
+6798,Ukrainian Sign Language
+6799,Ukpe-Bayobiri
+6800,Ukwa
+6801,Ukrainian
+6802,Urubú-Kaapor Sign Language
+6803,Ukue
+6804,Ukwuani-Aboh-Ndoni
+6805,Kuuk-Yak
+6806,Fungwa
+6807,Ulukwumi
+6808,Ulch
+6809,Lule
+6810,Usku
+6811,Ulithian
+6812,Meriam Mir
+6813,Ullatan
+6814,Ulumanda'
+6815,Unserdeutsch
+6816,Uma' Lung
+6817,Ulwa
+6818,Umatilla
+6819,Umbundu
+6820,Marrucinian
+6821,Umbindhamu
+6822,Morrobalama
+6823,Ukit
+6824,Umon
+6825,Makyan Naga
+6826,Umotína
+6827,Umpila
+6828,Umbugarla
+6829,Pendau
+6830,Munsee
+6831,North Watut
+6832,Uneme
+6833,Ngarinyin
+6834,Enawené-Nawé
+6835,Unami
+6836,Kurnai
+6837,Mundari
+6838,Unubahe
+6839,Munda
+6840,Unde Kaili
+6841,Umeda
+6842,Uripiv-Wala-Rano-Atchin
+6843,Urarina
+6844,Urubú-Kaapor
+6845,Urningangg
+6846,Urdu
+6847,Uru
+6848,Uradhi
+6849,Urigina
+6850,Urhobo
+6851,Urim
+6852,Urak Lawoi'
+6853,Urali
+6854,Urapmin
+6855,Uruangnirin
+6856,Ura (Papua New Guinea)
+6857,Uru-Pa-In
+6858,Lehalurup
+6859,Urat
+6860,Urumi
+6861,Uruava
+6862,Sop
+6863,Urimo
+6864,Orya
+6865,Uru-Eu-Wau-Wau
+6866,Usarufa
+6867,Ushojo
+6868,Usui
+6869,Usaghade
+6870,Uspanteco
+6871,us-Saare
+6872,Uya
+6873,Otank
+6874,Ute-Southern Paiute
+6875,ut-Hun
+6876,Amba (Solomon Islands)
+6877,Etulo
+6878,Utu
+6879,Urum
+6880,Kulon-Pazeh
+6881,Ura (Vanuatu)
+6882,U
+6883,West Uvean
+6884,Uri
+6885,Lote
+6886,Kuku-Uwanh
+6887,Doko-Uyanga
+6888,Uzbek
+6889,Northern Uzbek
+6890,Southern Uzbek
+6891,Vaagri Booli
+6892,Vale
+6893,Vafsi
+6894,Vagla
+6895,Varhadi-Nagpuri
+6896,Vai
+6897,Sekele
+6898,Vehes
+6899,Vanimo
+6900,Valman
+6901,Vao
+6902,Vaiphei
+6903,Huarijio
+6904,Vasavi
+6905,Vanuma
+6906,Varli
+6907,Wayu
+6908,Southeast Babar
+6909,Southwestern Bontok
+6910,Venetian
+6911,Veddah
+6912,Veluws
+6913,Vemgo-Mabas
+6914,Venda
+6915,Ventureño
+6916,Veps
+6917,Mom Jango
+6918,Vaghri
+6919,Vlaamse Gebarentaal
+6920,Virgin Islands Creole English
+6921,Vidunda
+6922,Vietnamese
+6923,Vili
+6924,Viemo
+6925,Vilela
+6926,Vinza
+6927,Vishavan
+6928,Viti
+6929,Iduna
+6930,Kariyarra
+6931,Ija-Zuba
+6932,Kujarge
+6933,Kaur
+6934,Kulisusu
+6935,Kamakan
+6936,Kodeoha
+6937,Korlai Creole Portuguese
+6938,Tenggarong Kutai Malay
+6939,Kurrama
+6940,Valpei
+6941,Vlaams
+6942,Martuyhunira
+6943,Barbaram
+6944,Juxtlahuaca Mixtec
+6945,Mudu Koraga
+6946,East Masela
+6947,Mainfränkisch
+6948,Lungalunga
+6949,Maraghei
+6950,Miwa
+6951,Ixtayutla Mixtec
+6952,Makhuwa-Shirima
+6953,Malgana
+6954,Mitlatongo Mixtec
+6955,Soyaltepec Mazatec
+6956,Soyaltepec Mixtec
+6957,Marenje
+6958,Moksela
+6959,Muluridyi
+6960,Valley Maidu
+6961,Makhuwa
+6962,Tamazola Mixtec
+6963,Ayautla Mazatec
+6964,Mazatlán Mazatec
+6965,Vano
+6966,Vinmavis
+6967,Vunapu
+6968,Volapük
+6969,Voro
+6970,Votic
+6971,Vera'a
+6972,Võro
+6973,Varisi
+6974,Burmbar
+6975,Moldova Sign Language
+6976,Venezuelan Sign Language
+6977,Valencian Sign Language
+6978,Vitou
+6979,Vumbu
+6980,Vunjo
+6981,Vute
+6982,Awa (China)
+6983,Walla Walla
+6984,Wab
+6985,Wasco-Wishram
+6986,Wandamen
+6987,Walser
+6988,Wakoná
+6989,Wa'ema
+6990,Watubela
+6991,Wares
+6992,Waffa
+6993,Wolaytta
+6994,Wampanoag
+6995,Wan
+6996,Wappo
+6997,Wapishana
+6998,Wagiman
+6999,Waray (Philippines)
+7000,Washo
+7001,Kaninuwa
+7002,Waurá
+7003,Waka
+7004,Waiwai
+7005,Watam
+7006,Wayana
+7007,Wampur
+7008,Warao
+7009,Wabo
+7010,Waritai
+7011,Wara
+7012,Wanda
+7013,Vwanji
+7014,Alagwa
+7015,Waigali
+7016,Wakhi
+7017,Wa
+7018,Warlpiri
+7019,Waddar
+7020,Wagdi
+7021,West Bengal Sign Language
+7022,Warnman
+7023,Wajarri
+7024,Woi
+7025,Yanomámi
+7026,Waci Gbe
+7027,Wandji
+7028,Wadaginam
+7029,Wadjiginy
+7030,Wadikali
+7031,Wadjigu
+7032,Wadjabangayi
+7033,Wewaw
+7034,Wè Western
+7035,Wedau
+7036,Wergaia
+7037,Weh
+7038,Kiunum
+7039,Weme Gbe
+7040,Wemale
+7041,Westphalien
+7042,Weri
+7043,Cameroon Pidgin
+7044,Perai
+7045,Rawngtu Chin
+7046,Wejewa
+7047,Yafi
+7048,Wagaya
+7049,Wagawaga
+7050,Wangkangurru
+7051,Wahgi
+7052,Waigeo
+7053,Wirangu
+7054,Warrgamay
+7055,Sou Upaa
+7056,North Wahgi
+7057,Wahau Kenyah
+7058,Wahau Kayan
+7059,Southern Toussian
+7060,Wichita
+7061,Wik-Epa
+7062,Wik-Keyangan
+7063,Wik Ngathan
+7064,Wik-Me'anha
+7065,Minidien
+7066,Wik-Iiyanh
+7067,Wikalkan
+7068,Wilawila
+7069,Wik-Mungkan
+7070,Ho-Chunk
+7071,Wiraféd
+7072,Wiru
+7073,Vitu
+7074,Wiyot
+7075,Waja
+7076,Warji
+7077,Kw'adza
+7078,Kumbaran
+7079,Wakde
+7080,Kalanadi
+7081,Keerray-Woorroong
+7082,Kunduvadi
+7083,Wakawaka
+7084,Wangkayutyuru
+7085,Walio
+7086,Mwali Comorian
+7087,Wolane
+7088,Kunbarlang
+7089,Waioli
+7090,Wailaki
+7091,Wali (Sudan)
+7092,Middle Welsh
+7093,Walloon
+7094,Wolio
+7095,Wailapa
+7096,Wallisian
+7097,Wuliwuli
+7098,Wichí Lhamtés Vejoz
+7099,Walak
+7100,Wali (Ghana)
+7101,Waling
+7102,Mawa (Nigeria)
+7103,Wambaya
+7104,Wamas
+7105,Mamaindé
+7106,Wambule
+7107,Waima'a
+7108,Wamin
+7109,Maiwa (Indonesia)
+7110,Waamwang
+7111,Wom (Papua New Guinea)
+7112,Wambon
+7113,Walmajarri
+7114,Mwani
+7115,Womo
+7116,Wanambre
+7117,Wantoat
+7118,Wandarang
+7119,Waneci
+7120,Wanggom
+7121,Ndzwani Comorian
+7122,Wanukaka
+7123,Wanggamala
+7124,Wunumara
+7125,Wano
+7126,Wanap
+7127,Usan
+7128,Wintu
+7129,Wanyi
+7130,Kuwema
+7131,Wè Northern
+7132,Wogeo
+7133,Wolani
+7134,Woleaian
+7135,Gambian Wolof
+7136,Wogamusin
+7137,Kamang
+7138,Longto
+7139,Wolof
+7140,Wom (Nigeria)
+7141,Wongo
+7142,Manombai
+7143,Woria
+7144,Hanga Hundi
+7145,Wawonii
+7146,Weyto
+7147,Maco
+7148,Warapu
+7149,Waluwarra
+7150,Warduji
+7151,Warungu
+7152,Wiradjuri
+7153,Wariyangga
+7154,Garrwa
+7155,Warlmanpa
+7156,Warumungu
+7157,Warnang
+7158,Worrorra
+7159,Waropen
+7160,Wardaman
+7161,Waris
+7162,Waru
+7163,Waruna
+7164,Gugu Warra
+7165,Wae Rana
+7166,Merwari
+7167,Waray (Australia)
+7168,Warembori
+7169,Adilabad Gondi
+7170,Wusi
+7171,Waskia
+7172,Owenia
+7173,Wasa
+7174,Wasu
+7175,Wotapuri-Katarqalai
+7176,Watiwa
+7177,Wathawurrung
+7178,Berta
+7179,Watakataui
+7180,Mewati
+7181,Wotu
+7182,Wikngenchera
+7183,Wunambal
+7184,Wudu
+7185,Wutunhua
+7186,Silimo
+7187,Wumbvu
+7188,Bungu
+7189,Wurrugu
+7190,Wutung
+7191,Wu Chinese
+7192,Wuvulu-Aua
+7193,Wulna
+7194,Wauyai
+7195,Waama
+7196,Wakabunga
+7197,Wetamut
+7198,Warrwa
+7199,Wawa
+7200,Waxianghua
+7201,Wardandi
+7202,Wyandot
+7203,Wangaaybuwan-Ngiyambaa
+7204,Woiwurrung
+7205,Wymysorys
+7206,Wayoró
+7207,Western Fijian
+7208,Andalusian Arabic
+7209,Sambe
+7210,Kachari
+7211,Adai
+7212,Aequian
+7213,Aghwan
+7214,Kaimbé
+7215,Ararandewára
+7216,Máku
+7217,Kalmyk
+7218,ǀXam
+7219,Xamtanga
+7220,Khao
+7221,Apalachee
+7222,Aquitanian
+7223,Karami
+7224,Kamas
+7225,Katawixi
+7226,Kauwera
+7227,Xavánte
+7228,Kawaiisu
+7229,Kayan Mahakam
+7230,Lower Burdekin
+7231,Bactrian
+7232,Bindal
+7233,Bigambal
+7234,Bunganditj
+7235,Kombio
+7236,Birrpayi
+7237,Middle Breton
+7238,Kenaboi
+7239,Bolgarian
+7240,Bibbulman
+7241,Kambera
+7242,Kambiwá
+7243,Batjala
+7244,Cumbric
+7245,Camunic
+7246,Celtiberian
+7247,Cisalpine Gaulish
+7248,Chemakum
+7249,Classical Armenian
+7250,Comecrudo
+7251,Cotoname
+7252,Chorasmian
+7253,Carian
+7254,Classical Tibetan
+7255,Curonian
+7256,Chuvantsy
+7257,Coahuilteco
+7258,Cayuse
+7259,Darkinyung
+7260,Dacian
+7261,Dharuk
+7262,Edomite
+7263,Kwandu
+7264,Malayic Dayak
+7265,Eblan
+7266,Hdi
+7267,ǁXegwi
+7268,Kelo
+7269,Kembayan
+7270,Epi-Olmec
+7271,Xerénte
+7272,Kesawai
+7273,Xetá
+7274,Keoru-Ahia
+7275,Faliscan
+7276,Galatian
+7277,Gbin
+7278,Gudang
+7279,Gabrielino-Fernandeño
+7280,Goreng
+7281,Garingbal
+7282,Galindan
+7283,Dharumbal
+7284,Garza
+7285,Unggumi
+7286,Guwa
+7287,Harami
+7288,Hunnic
+7289,Hadrami
+7290,Khetrani
+7291,Xhosa
+7292,Hernican
+7293,Hattic
+7294,Hurrian
+7295,Khua
+7296,Iberian
+7297,Xiri
+7298,Illyrian
+7299,Xinca
+7300,Xiriâna
+7301,Kisan
+7302,Indus Valley Language
+7303,Xipaya
+7304,Minjungbal
+7305,Jaitmatang
+7306,Kalkoti
+7307,Northern Nago
+7308,Kho'ini
+7309,Mendalam Kayan
+7310,Kereho
+7311,Khengkha
+7312,Kagoro
+7313,Kenyan Sign Language
+7314,Kajali
+7315,Kaco'
+7316,Mainstream Kenyah
+7317,Kayan River Kayan
+7318,Kiorr
+7319,Kabatei
+7320,Koroni
+7321,Xakriabá
+7322,Kumbewaha
+7323,Kantosi
+7324,Kaamba
+7325,Kgalagadi
+7326,Kembra
+7327,Karore
+7328,Uma' Lasan
+7329,Kurtokha
+7330,Kamula
+7331,Loup B
+7332,Lycian
+7333,Lydian
+7334,Lemnian
+7335,Ligurian (Ancient)
+7336,Liburnian
+7337,Alanic
+7338,Loup A
+7339,Lepontic
+7340,Lusitanian
+7341,Cuneiform Luwian
+7342,Elymian
+7343,Mushungulu
+7344,Mbonga
+7345,Makhuwa-Marrevone
+7346,Mbudum
+7347,Median
+7348,Mingrelian
+7349,Mengaka
+7350,Kugu-Muminh
+7351,Majera
+7352,Ancient Macedonian
+7353,Malaysian Sign Language
+7354,Manado Malay
+7355,Manichaean Middle Persian
+7356,Morerebi
+7357,Kuku-Mu'inh
+7358,Kuku-Mangk
+7359,Meroitic
+7360,Moroccan Sign Language
+7361,Matbat
+7362,Kamu
+7363,Antankarana Malagasy
+7364,Tsimihety Malagasy
+7365,Maden
+7366,Mayaguduna
+7367,Mori Bawah
+7368,Ancient North Arabian
+7369,Kanakanabu
+7370,Middle Mongolian
+7371,Kuanhua
+7372,Ngarigu
+7373,Nganakarti
+7374,Northern Kankanay
+7375,Anglo-Norman
+7376,Kangri
+7377,Kanashi
+7378,Narragansett
+7379,Nukunul
+7380,Nyiyaparli
+7381,Kenzi
+7382,O'chi'chi'
+7383,Kokoda
+7384,Soga
+7385,Kominimung
+7386,Xokleng
+7387,Komo (Sudan)
+7388,Konkomba
+7389,Xukurú
+7390,Kopar
+7391,Korubo
+7392,Kowaki
+7393,Pirriya
+7394,Pecheneg
+7395,Liberia Kpelle
+7396,Phrygian
+7397,Pictish
+7398,Mpalitjanh
+7399,Kulina Pano
+7400,Pumpokol
+7401,Kapinawá
+7402,Pochutec
+7403,Puyo-Paekche
+7404,Mohegan-Pequot
+7405,Parthian
+7406,Pisidian
+7407,Punthamara
+7408,Punic
+7409,Puyo
+7410,Karakhanid
+7411,Qatabanian
+7412,Krahô
+7413,Eastern Karaboro
+7414,Gundungurra
+7415,Kreye
+7416,Minang
+7417,Krikati-Timbira
+7418,Armazic
+7419,Arin
+7420,Karranga
+7421,Raetic
+7422,Aranama-Tamique
+7423,Marriammu
+7424,Karawa
+7425,Sabaean
+7426,Sambal
+7427,Scythian
+7428,Sidetic
+7429,Sempan
+7430,Shamang
+7431,Sio
+7432,Subi
+7433,South Slavey
+7434,Kasem
+7435,Sanga (Nigeria)
+7436,Solano
+7437,Silopi
+7438,Makhuwa-Saka
+7439,Sherpa
+7440,Assan
+7441,Sanumá
+7442,Sudovian
+7443,Saisiyat
+7444,Alcozauca Mixtec
+7445,Chazumba Mixtec
+7446,Katcha-Kadugli-Miri
+7447,Diuxi-Tilantongo Mixtec
+7448,Ketengban
+7449,Transalpine Gaulish
+7450,Yitha Yitha
+7451,Sinicahua Mixtec
+7452,San Juan Teita Mixtec
+7453,Tijaltepec Mixtec
+7454,Magdalena Peñasco Mixtec
+7455,Northern Tlaxiaco Mixtec
+7456,Tokharian A
+7457,San Miguel Piedras Mixtec
+7458,Tumshuqese
+7459,Early Tripuri
+7460,Sindihui Mixtec
+7461,Tacahua Mixtec
+7462,Cuyamecalco Mixtec
+7463,Thawa
+7464,Tawandê
+7465,Yoloxochitl Mixtec
+7466,Tasmanian
+7467,Alu Kurumba
+7468,Betta Kurumba
+7469,Umiida
+7470,Kunigami
+7471,Jennu Kurumba
+7472,Ngunawal
+7473,Umbrian
+7474,Unggaranggu
+7475,Kuo
+7476,Upper Umpqua
+7477,Urartian
+7478,Kuthant
+7479,Kxoe
+7480,Venetic
+7481,Kamviri
+7482,Vandalic
+7483,Volscian
+7484,Vestinian
+7485,Kwaza
+7486,Woccon
+7487,Wadi Wadi
+7488,Xwela Gbe
+7489,Kwegu
+7490,Wajuk
+7491,Wangkumara
+7492,Western Xwla Gbe
+7493,Written Oirat
+7494,Kwerba Mamberamo
+7495,Wotjobaluk
+7496,Wemba Wemba
+7497,Boro (Ghana)
+7498,Ke'o
+7499,Minkin
+7500,Koropó
+7501,Tambora
+7502,Yaygir
+7503,Yandjibara
+7504,Mayi-Yapi
+7505,Mayi-Kulan
+7506,Yalakalore
+7507,Mayi-Thakurti
+7508,Yorta Yorta
+7509,Zhang-Zhung
+7510,Zemgalian
+7511,Ancient Zapotec
+7512,Yaminahua
+7513,Yuhup
+7514,Pass Valley Yali
+7515,Yagua
+7516,Pumé
+7517,Yaka (Democratic Republic of Congo)
+7518,Yámana
+7519,Yazgulyam
+7520,Yagnobi
+7521,Banda-Yangere
+7522,Yakama
+7523,Yalunka
+7524,Yamba
+7525,Mayangna
+7526,Yao
+7527,Yapese
+7528,Yaqui
+7529,Yabarana
+7530,Nugunu (Cameroon)
+7531,Yambeta
+7532,Yuwana
+7533,Yangben
+7534,Yawalapití
+7535,Yauma
+7536,Agwagwune
+7537,Lokaa
+7538,Yala
+7539,Yemba
+7540,West Yugur
+7541,Yakha
+7542,Yamphu
+7543,Hasha
+7544,Bokha
+7545,Yukuben
+7546,Yaben
+7547,Yabaâna
+7548,Yabong
+7549,Yawiyo
+7550,Yaweyuha
+7551,Chesu
+7552,Lolopo
+7553,Yucuna
+7554,Chepya
+7555,Yanda
+7556,Eastern Yiddish
+7557,Yangum Dey
+7558,Yidgha
+7559,Yoidik
+7560,Ravula
+7561,Yeniche
+7562,Yimas
+7563,Yeni
+7564,Yevanic
+7565,Yela
+7566,Tarok
+7567,Nyankpa
+7568,Yetfa
+7569,Yerukula
+7570,Yapunda
+7571,Yeyi
+7572,Malyangapa
+7573,Yiningayi
+7574,Yangum Gel
+7575,Yagomi
+7576,Gepo
+7577,Yagaria
+7578,Yolŋu Sign Language
+7579,Yugul
+7580,Yagwoia
+7581,Baha Buyang
+7582,Judeo-Iraqi Arabic
+7583,Hlepho Phowa
+7584,Yan-nhaŋu Sign Language
+7585,Yinggarda
+7586,Yiddish
+7587,Ache
+7588,Wusa Nasu
+7589,Western Yiddish
+7590,Yidiny
+7591,Yindjibarndi
+7592,Dongshanba Lalo
+7593,Yindjilandji
+7594,Yimchungru Naga
+7595,Riang Lai
+7596,Pholo
+7597,Miqie
+7598,North Awyu
+7599,Yis
+7600,Eastern Lalu
+7601,Awu
+7602,Northern Nisu
+7603,Axi Yi
+7604,Azhe
+7605,Yakan
+7606,Northern Yukaghir
+7607,Yoke
+7608,Yakaikeke
+7609,Khlula
+7610,Kap
+7611,Kua-nsi
+7612,Yasa
+7613,Yekora
+7614,Kathu
+7615,Kuamasi
+7616,Yakoma
+7617,Yaul
+7618,Yaleba
+7619,Yele
+7620,Yelogu
+7621,Angguruk Yali
+7622,Yil
+7623,Limi
+7624,Langnian Buyang
+7625,Naluo Yi
+7626,Yalarnnga
+7627,Aribwaung
+7628,Nyâlayu
+7629,Yambes
+7630,Southern Muji
+7631,Muda
+7632,Yameo
+7633,Yamongeri
+7634,Mili
+7635,Moji
+7636,Makwe
+7637,Iamalele
+7638,Maay
+7639,Yamna
+7640,Yangum Mon
+7641,Yamap
+7642,Qila Muji
+7643,Malasar
+7644,Mysian
+7645,Northern Muji
+7646,Muzi
+7647,Aluo
+7648,Yandruwandha
+7649,Lang'e
+7650,Yango
+7651,Naukan Yupik
+7652,Yangulam
+7653,Yana
+7654,Yong
+7655,Yendang
+7656,Yansi
+7657,Yahuna
+7658,Yoba
+7659,Yogad
+7660,Yonaguni
+7661,Yokuts
+7662,Yola
+7663,Yombe
+7664,Yongkom
+7665,Yoruba
+7666,Yotti
+7667,Yoron
+7668,Yoy
+7669,Phala
+7670,Labo Phowa
+7671,Phola
+7672,Phupha
+7673,Phuma
+7674,Ani Phowa
+7675,Alo Phola
+7676,Phupa
+7677,Phuza
+7678,Yerakai
+7679,Yareba
+7680,Yaouré
+7681,Nenets
+7682,Nhengatu
+7683,Yirrk-Mel
+7684,Yerong
+7685,Yaroamë
+7686,Yarsun
+7687,Yarawata
+7688,Yarluyandi
+7689,Yassic
+7690,Samatao
+7691,Sonaga
+7692,Yugoslavian Sign Language
+7693,Sani
+7694,Nisi (China)
+7695,Southern Lolopo
+7696,Sirenik Yupik
+7697,Yessan-Mayo
+7698,Sanie
+7699,Talu
+7700,Tanglang
+7701,Thopho
+7702,Yout Wam
+7703,Yatay
+7704,Yucateco
+7705,Yugambal
+7706,Yuchi
+7707,Judeo-Tripolitanian Arabic
+7708,Yue Chinese
+7709,Havasupai-Walapai-Yavapai
+7710,Yug
+7711,Yurutí
+7712,Karkar-Yuri
+7713,Yuki
+7714,Yulu
+7715,Quechan
+7716,Bena (Nigeria)
+7717,Yukpa
+7718,Yuqui
+7719,Yurok
+7720,Yopno
+7721,Yau (Morobe Province)
+7722,Southern Yukaghir
+7723,East Yugur
+7724,Yuracare
+7725,Yawa
+7726,Yavitero
+7727,Kalou
+7728,Yinhawangka
+7729,Western Lalu
+7730,Yawanawa
+7731,Wuding-Luquan Yi
+7732,Yawuru
+7733,Xishanba Lalo
+7734,Wumeng Nasu
+7735,Yawarawarga
+7736,Mayawali
+7737,Yagara
+7738,Yardliyawarra
+7739,Yinwum
+7740,Yuyu
+7741,Yabula Yabula
+7742,Yir Yoront
+7743,Yau (Sandaun Province)
+7744,Ayizi
+7745,E'ma Buyang
+7746,Zokhuo
+7747,Sierra de Juárez Zapotec
+7748,Western Tlacolula Valley Zapotec
+7749,Ocotlán Zapotec
+7750,Cajonos Zapotec
+7751,Yareni Zapotec
+7752,Ayoquesco Zapotec
+7753,Zaghawa
+7754,Zangwal
+7755,Isthmus Zapotec
+7756,Zaramo
+7757,Zanaki
+7758,Zauzou
+7759,Miahuatlán Zapotec
+7760,Ozolotepec Zapotec
+7761,Zapotec
+7762,Aloápam Zapotec
+7763,Rincón Zapotec
+7764,Santo Domingo Albarradas Zapotec
+7765,Tabaa Zapotec
+7766,Zangskari
+7767,Yatzachi Zapotec
+7768,Mitla Zapotec
+7769,Xadani Zapotec
+7770,Zayse-Zergulla
+7771,Zari
+7772,Central Berawan
+7773,East Berawan
+7774,Blissymbols
+7775,Batui
+7776,West Berawan
+7777,Coatecas Altas Zapotec
+7778,Central Hongshuihe Zhuang
+7779,Ngazidja Comorian
+7780,Zeeuws
+7781,Zenag
+7782,Eastern Hongshuihe Zhuang
+7783,Zenaga
+7784,Kinga
+7785,Guibei Zhuang
+7786,Standard Moroccan Tamazight
+7787,Minz Zhuang
+7788,Guibian Zhuang
+7789,Magori
+7790,Zhuang
+7791,Zhaba
+7792,Dai Zhuang
+7793,Zhire
+7794,Nong Zhuang
+7795,Chinese
+7796,Zhoa
+7797,Zia
+7798,Zimbabwe Sign Language
+7799,Zimakani
+7800,Zialo
+7801,Mesme
+7802,Zinza
+7803,Ziriya
+7804,Zigula
+7805,Zizilivakan
+7806,Kaimbulawa
+7807,Koibal
+7808,Kadu
+7809,Koguryo
+7810,Khorezmian
+7811,Karankawa
+7812,Kanan
+7813,Kott
+7814,São Paulo Kaingáng
+7815,Zakhring
+7816,Kitan
+7817,Kaurna
+7818,Krevinian
+7819,Khazar
+7820,Liujiang Zhuang
+7821,Malay (individual language)
+7822,Lianshan Zhuang
+7823,Liuqian Zhuang
+7824,Manda (Australia)
+7825,Zimba
+7826,Margany
+7827,Maridan
+7828,Mangerr
+7829,Mfinu
+7830,Marti Ke
+7831,Makolkol
+7832,Negeri Sembilan Malay
+7833,Maridjabin
+7834,Mandandanyi
+7835,Matngala
+7836,Marimanindji
+7837,Mbangwe
+7838,Molo
+7839,Mpuono
+7840,Mituku
+7841,Maranunggu
+7842,Mbesa
+7843,Maringarr
+7844,Muruwari
+7845,Mbariman-Gudhinma
+7846,Mbo (Democratic Republic of Congo)
+7847,Bomitaba
+7848,Mariyedi
+7849,Mbandja
+7850,Zan Gula
+7851,Zande (individual language)
+7852,Mang
+7853,Manangkari
+7854,Mangas
+7855,Copainalá Zoque
+7856,Chimalapa Zoque
+7857,Zou
+7858,Asunción Mixtepec Zapotec
+7859,Tabasco Zoque
+7860,Rayón Zoque
+7861,Francisco León Zoque
+7862,Lachiguiri Zapotec
+7863,Yautepec Zapotec
+7864,Choapan Zapotec
+7865,Southeastern Ixtlán Zapotec
+7866,Petapa Zapotec
+7867,San Pedro Quiatoni Zapotec
+7868,Guevea De Humboldt Zapotec
+7869,Totomachapan Zapotec
+7870,Santa María Quiegolani Zapotec
+7871,Quiavicuzas Zapotec
+7872,Tlacolulita Zapotec
+7873,Lachixío Zapotec
+7874,Mixtepec Zapotec
+7875,Santa Inés Yatzechi Zapotec
+7876,Amatlán Zapotec
+7877,El Alto Zapotec
+7878,Zoogocho Zapotec
+7879,Santiago Xanica Zapotec
+7880,Coatlán Zapotec
+7881,San Vicente Coatlán Zapotec
+7882,Yalálag Zapotec
+7883,Chichicapan Zapotec
+7884,Zaniza Zapotec
+7885,San Baltazar Loxicha Zapotec
+7886,Mazaltepec Zapotec
+7887,Texmelucan Zapotec
+7888,Qiubei Zhuang
+7889,Kara (Korea)
+7890,Mirgan
+7891,Zerenkel
+7892,Záparo
+7893,Zarphatic
+7894,Mairasi
+7895,Sarasira
+7896,Kaskean
+7897,Zambian Sign Language
+7898,Standard Malay
+7899,Southern Rincon Zapotec
+7900,Sukurum
+7901,Elotepec Zapotec
+7902,Xanaguía Zapotec
+7903,Lapaguía-Guivini Zapotec
+7904,San Agustín Mixtepec Zapotec
+7905,Santa Catarina Albarradas Zapotec
+7906,Loxicha Zapotec
+7907,Quioquitani-Quierí Zapotec
+7908,Tilquiapan Zapotec
+7909,Tejalapan Zapotec
+7910,Güilá Zapotec
+7911,Zaachila Zapotec
+7912,Yatee Zapotec
+7913,Zeem
+7914,Tokano
+7915,Zulu
+7916,Kumzari
+7917,Zuni
+7918,Zumaya
+7919,Zay
+7920,Yongbei Zhuang
+7921,Yang Zhuang
+7922,Youjiang Zhuang
+7923,Yongnan Zhuang
+7924,Zyphe Chin
+7925,Zaza
+7926,Zuojiang Zhuang

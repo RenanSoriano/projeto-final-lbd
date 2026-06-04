@@ -1,0 +1,250 @@
+id,code,name,wikipedia_link,keywords,continent_id
+1,AD,Andorra,https://en.wikipedia.org/wiki/Andorra,Andorran airports,4
+2,AE,United Arab Emirates,https://en.wikipedia.org/wiki/United_Arab_Emirates,"UAE,مطارات في الإمارات العربية المتحدة",3
+3,AF,Afghanistan,https://en.wikipedia.org/wiki/Afghanistan,,3
+4,AG,Antigua and Barbuda,https://en.wikipedia.org/wiki/Antigua_and_Barbuda,Antiguan airports,5
+5,AI,Anguilla,https://en.wikipedia.org/wiki/Anguilla,,5
+6,AL,Albania,https://en.wikipedia.org/wiki/Albania,Albanian airports,4
+7,AM,Armenia,https://en.wikipedia.org/wiki/Armenia,,3
+8,AO,Angola,https://en.wikipedia.org/wiki/Angola,Angolan airports,1
+9,AQ,Antarctica,https://en.wikipedia.org/wiki/Antarctica,Airports in Antarctica,2
+10,AR,Argentina,https://en.wikipedia.org/wiki/Argentina,Aeropuertos de Argentina,7
+11,AS,American Samoa,https://en.wikipedia.org/wiki/American_Samoa,Samoan airports,6
+12,AT,Austria,https://en.wikipedia.org/wiki/Austria,Flughäfen in Österreich,4
+13,AU,Australia,https://en.wikipedia.org/wiki/Australia,Australian airports,6
+14,AW,Aruba,https://en.wikipedia.org/wiki/Aruba,,5
+15,AZ,Azerbaijan,https://en.wikipedia.org/wiki/Azerbaijan,Azerbaijani airports,3
+16,BA,Bosnia and Herzegovina,https://en.wikipedia.org/wiki/Bosnia_and_Herzegovina,Bosnian airports,4
+17,BB,Barbados,https://en.wikipedia.org/wiki/Barbados,Barbadan airports,5
+18,BD,Bangladesh,https://en.wikipedia.org/wiki/Bangladesh,Bangladeshi airports,3
+19,BE,Belgium,https://en.wikipedia.org/wiki/Belgium,"Aéroports de Belgique,Luchthavens van België",4
+20,BF,Burkina Faso,https://en.wikipedia.org/wiki/Burkina_Faso,Burkinabé airports,1
+21,BG,Bulgaria,https://en.wikipedia.org/wiki/Bulgaria,Bulgarian airports,4
+22,BH,Bahrain,https://en.wikipedia.org/wiki/Bahrain,مطارات البحرين,3
+23,BI,Burundi,https://en.wikipedia.org/wiki/Burundi,Burundian airports,1
+24,BJ,Benin,https://en.wikipedia.org/wiki/Benin,Beninese airports,1
+25,BL,Saint Barthélemy,https://en.wikipedia.org/wiki/Saint_Barthélemy,Airports in Saint Barthélemy,5
+26,BM,Bermuda,https://en.wikipedia.org/wiki/Bermuda,,5
+27,BN,Brunei,https://en.wikipedia.org/wiki/Brunei,Bruneian airports,3
+28,BO,Bolivia,https://en.wikipedia.org/wiki/Bolivia,Aeropuertos de Bolivia,7
+29,BQ,Caribbean Netherlands,https://en.wikipedia.org/wiki/Caribbean_Netherlands,Airports in Caribbean Netherlands,5
+30,BR,Brazil,https://en.wikipedia.org/wiki/Brazil,"Brasil, Brasilian, Aeroportos do Brasil",7
+31,BS,Bahamas,https://en.wikipedia.org/wiki/Bahamas,Bahaman airports,5
+32,BT,Bhutan,https://en.wikipedia.org/wiki/Bhutan,Bhutanese airports,3
+33,BW,Botswana,https://en.wikipedia.org/wiki/Botswana,Botswana airports,1
+34,BY,Belarus,https://en.wikipedia.org/wiki/Belarus,"Belarussian, Беларусь",4
+35,BZ,Belize,https://en.wikipedia.org/wiki/Belize,Belizean airports,5
+36,CA,Canada,https://en.wikipedia.org/wiki/Canada,Canadian airports,5
+37,CC,Cocos (Keeling) Islands,https://en.wikipedia.org/wiki/Cocos_(Keeling)_Islands,Airports in Cocos (Keeling) Islands,3
+38,CD,Democratic Republic of the Congo,https://en.wikipedia.org/wiki/Democratic_Republic_of_the_Congo,DRC,1
+39,CF,Central African Republic,https://en.wikipedia.org/wiki/Central_African_Republic,Airports in Central African Republic,1
+40,CG,Republic of the Congo,https://en.wikipedia.org/wiki/Republic_of_the_Congo,Congo-Brazzaville,1
+41,CH,Switzerland,https://en.wikipedia.org/wiki/Switzerland,"Aéroports de la Suisse,Flughäfen der Schweiz",4
+42,CI,Côte d'Ivoire,https://en.wikipedia.org/wiki/Côte_d'Ivoire,Ivory Coast,1
+43,CK,Cook Islands,https://en.wikipedia.org/wiki/Cook_Islands,Airports in Cook Islands,6
+44,CL,Chile,https://en.wikipedia.org/wiki/Chile,Aeropuertos de Chile,7
+45,CM,Cameroon,https://en.wikipedia.org/wiki/Cameroon,Cameroonian airports,1
+46,CN,China,https://en.wikipedia.org/wiki/China,中国的机场,3
+47,CO,Colombia,https://en.wikipedia.org/wiki/Colombia,Aeropuertos de Colombia,7
+48,CR,Costa Rica,https://en.wikipedia.org/wiki/Costa_Rica,Aeropuertos de Costa Rica,5
+49,CU,Cuba,https://en.wikipedia.org/wiki/Cuba,Aeropuertos de Cuba,5
+50,CV,Cape Verde,https://en.wikipedia.org/wiki/Cape_Verde,Airports in Cape Verde,1
+51,CW,Curaçao,https://en.wikipedia.org/wiki/Cura%C3%A7ao,Airports in Curaçao,5
+52,CX,Christmas Island,https://en.wikipedia.org/wiki/Christmas_Island,Airports in Christmas Island,3
+53,CY,Cyprus,https://en.wikipedia.org/wiki/Cyprus,Cypriot airports,3
+54,CZ,Czech Republic,https://en.wikipedia.org/wiki/Czech_Republic,"Letiště České republiky, Czechia",4
+55,DE,Germany,https://en.wikipedia.org/wiki/Germany,Flughäfen in Deutschland,4
+56,DJ,Djibouti,https://en.wikipedia.org/wiki/Djibouti,Djiboutian airports,1
+57,DK,Denmark,https://en.wikipedia.org/wiki/Denmark,Lufthavnene i Danmark,4
+58,DM,Dominica,https://en.wikipedia.org/wiki/Dominica,Airports in Dominica,5
+59,DO,Dominican Republic,https://en.wikipedia.org/wiki/Dominican_Republic,Airports in Dominican Republic,5
+60,DZ,Algeria,https://en.wikipedia.org/wiki/Algeria,مطارات الجزائر,1
+61,EC,Ecuador,https://en.wikipedia.org/wiki/Ecuador,Aeropuertos de Ecuador,7
+62,EE,Estonia,https://en.wikipedia.org/wiki/Estonia,Estonian airports,4
+63,EG,Egypt,https://en.wikipedia.org/wiki/Egypt,"مطارات مصر, Egyptian airports",1
+64,EH,Western Sahara (disputed territory),https://en.wikipedia.org/wiki/Western_Sahara,"Sahrawian, مطارات الصحراء الغربية",1
+65,ER,Eritrea,https://en.wikipedia.org/wiki/Eritrea,Eritrean airports,1
+66,ES,Spain,https://en.wikipedia.org/wiki/Spain,Aeropuertos de España,4
+67,ET,Ethiopia,https://en.wikipedia.org/wiki/Ethiopia,Ethiopian airports,1
+68,FI,Finland,https://en.wikipedia.org/wiki/Finland,"Lentokentät, Suomen",4
+69,FJ,Fiji,https://en.wikipedia.org/wiki/Fiji,Fijan airports,6
+70,FK,Falkland Islands,https://en.wikipedia.org/wiki/Falkland_Islands,Airports in Falkland Islands,7
+71,FM,Micronesia,https://en.wikipedia.org/wiki/Federated_States_of_Micronesia,Micronesian airports,6
+72,FO,Faroe Islands,https://en.wikipedia.org/wiki/Faroe_Islands,Faroese airports,4
+73,FR,France,https://en.wikipedia.org/wiki/France,Aéroports de France,4
+74,GA,Gabon,https://en.wikipedia.org/wiki/Gabon,Gabonese airports,1
+75,GB,United Kingdom,https://en.wikipedia.org/wiki/United_Kingdom,Great Britain,4
+76,GD,Grenada,https://en.wikipedia.org/wiki/Grenada,Grenadian airports,5
+77,GE,Georgia,https://en.wikipedia.org/wiki/Georgia_(country),Georgian airports,3
+78,GF,French Guiana,https://en.wikipedia.org/wiki/French_Guiana,French Guyana,7
+79,GG,Guernsey,https://en.wikipedia.org/wiki/Guernsey,Airports in Guernsey,4
+80,GH,Ghana,https://en.wikipedia.org/wiki/Ghana,Ghanan airports,1
+81,GI,Gibraltar,https://en.wikipedia.org/wiki/Gibraltar,Gibraltarian airports,4
+82,GL,Greenland,https://en.wikipedia.org/wiki/Greenland,Airports in Greenland,5
+83,GM,Gambia,https://en.wikipedia.org/wiki/Gambia,Gambian airports,1
+84,GN,Guinea,https://en.wikipedia.org/wiki/Guinea,Aéroports de la Guinée,1
+85,GP,Guadeloupe,https://en.wikipedia.org/wiki/Guadeloupe,Airports in Guadeloupe,5
+86,GQ,Equatorial Guinea,https://en.wikipedia.org/wiki/Equatorial_Guinea,Airports in Equatorial Guinea,1
+87,GR,Greece,https://en.wikipedia.org/wiki/Greece,αεροδρόμια στην Ελλάδα,4
+88,GS,South Georgia and the South Sandwich Islands,https://en.wikipedia.org/wiki/South_Georgia_and_the_South_Sandwich_Islands,Airports in South Georgia and the South Sandwich Islands,2
+89,GT,Guatemala,https://en.wikipedia.org/wiki/Guatemala,Aeropuertos de Guatemala,5
+90,GU,Guam,https://en.wikipedia.org/wiki/Guam,Guamanian airports,6
+91,GW,Guinea-Bissau,https://en.wikipedia.org/wiki/Guinea-Bissau,Airports in Guinea-Bissau,1
+92,GY,Guyana,https://en.wikipedia.org/wiki/Guyana,Guyanese airports,7
+93,HK,Hong Kong,https://en.wikipedia.org/wiki/Hong_Kong,Airports in Hong Kong,3
+94,HM,Heard and McDonald Islands,https://en.wikipedia.org/wiki/Heard_Island_and_McDonald_Islands,Airports in Heard and McDonald Islands,6
+95,HN,Honduras,https://en.wikipedia.org/wiki/Honduras,Aeropuertos de Honduras,5
+96,HR,Croatia,https://en.wikipedia.org/wiki/Croatia,Croatian airports,4
+97,HT,Haiti,https://en.wikipedia.org/wiki/Haiti,Aéroports de Haïti,5
+98,HU,Hungary,https://en.wikipedia.org/wiki/Hungary,Repülőterek Magyarország,4
+99,ID,Indonesia,https://en.wikipedia.org/wiki/Indonesia,Bandara di Indonesia,3
+100,IE,Ireland,https://en.wikipedia.org/wiki/Ireland,Eire,4
+101,IL,Israel,https://en.wikipedia.org/wiki/Israel,שדות התעופה של ישראל,3
+102,IM,Isle of Man,https://en.wikipedia.org/wiki/Isle_of_Man,Manx,4
+103,IN,India,https://en.wikipedia.org/wiki/India,"Airports in India, Indian airports",3
+104,IO,British Indian Ocean Territory,https://en.wikipedia.org/wiki/British_Indian_Ocean_Territory,Airports in British Indian Ocean Territory,3
+105,IQ,Iraq,https://en.wikipedia.org/wiki/Iraq,مطارات العراق,3
+106,IR,Iran,https://en.wikipedia.org/wiki/Iran,فرودگاه های ایران,3
+107,IS,Iceland,https://en.wikipedia.org/wiki/Iceland,Icelandic airports,4
+108,IT,Italy,https://en.wikipedia.org/wiki/Italy,Aeroporti d'Italia,4
+109,JE,Jersey,https://en.wikipedia.org/wiki/Jersey,Airports in Jersey,4
+110,JM,Jamaica,https://en.wikipedia.org/wiki/Jamaica,Jamaican airports,5
+111,JO,Jordan,https://en.wikipedia.org/wiki/Jordan,مطارات في الأردن,3
+112,JP,Japan,https://en.wikipedia.org/wiki/Japan,"Nippon, 日本の空港",3
+113,KE,Kenya,https://en.wikipedia.org/wiki/Kenya,Kenyan airports,1
+114,KG,Kyrgyzstan,https://en.wikipedia.org/wiki/Kyrgyzstan,,3
+115,KH,Cambodia,https://en.wikipedia.org/wiki/Cambodia,Cambodian airports,3
+116,KI,Kiribati,https://en.wikipedia.org/wiki/Kiribati,Airports in Kiribati,6
+117,KM,Comoros,https://en.wikipedia.org/wiki/Comoros,جزر القمر,1
+118,KN,Saint Kitts and Nevis,https://en.wikipedia.org/wiki/Saint_Kitts_and_Nevis,Airports in Saint Kitts and Nevis,5
+119,KP,North Korea,https://en.wikipedia.org/wiki/North_Korea,North Korean airports,3
+120,KR,South Korea,https://en.wikipedia.org/wiki/South_Korea,한국의 공항,3
+121,KW,Kuwait,https://en.wikipedia.org/wiki/Kuwait,Kuwaiti airports,3
+122,KY,Cayman Islands,https://en.wikipedia.org/wiki/Cayman_Islands,Airports in Cayman Islands,5
+123,KZ,Kazakhstan,https://en.wikipedia.org/wiki/Kazakhstan,Kazakh,3
+124,LA,Laos,https://en.wikipedia.org/wiki/Laos,Laotian airports,3
+125,LB,Lebanon,https://en.wikipedia.org/wiki/Lebanon,المطارات في لبنان,3
+126,LC,Saint Lucia,https://en.wikipedia.org/wiki/Saint_Lucia,Airports in Saint Lucia,5
+127,LI,Liechtenstein,https://en.wikipedia.org/wiki/Liechtenstein,Airports in Liechtenstein,4
+128,LK,Sri Lanka,https://en.wikipedia.org/wiki/Sri_Lanka,Sri Lankan airports,3
+129,LR,Liberia,https://en.wikipedia.org/wiki/Liberia,,1
+130,LS,Lesotho,https://en.wikipedia.org/wiki/Lesotho,Airports in Lesotho,1
+131,LT,Lithuania,https://en.wikipedia.org/wiki/Lithuania,Lithuanian airports,4
+132,LU,Luxembourg,https://en.wikipedia.org/wiki/Luxembourg,Airports in Luxembourg,4
+133,LV,Latvia,https://en.wikipedia.org/wiki/Latvia,Latvian airports,4
+134,LY,Libya,https://en.wikipedia.org/wiki/Libya,مطارات في ليبيا,1
+135,MA,Morocco,https://en.wikipedia.org/wiki/Morocco,مطارات المغرب,1
+136,MC,Monaco,https://en.wikipedia.org/wiki/Monaco,Airports in Monaco,4
+137,MD,Moldova,https://en.wikipedia.org/wiki/Moldova,Airports in Moldova,4
+138,ME,Montenegro,https://en.wikipedia.org/wiki/Montenegro,Montenegran airports,4
+139,MF,Saint Martin,https://en.wikipedia.org/wiki/Saint_Martin_(France),Airports in Saint Martin,5
+140,MG,Madagascar,https://en.wikipedia.org/wiki/Madagascar,Airports in Madagascar,1
+141,MH,Marshall Islands,https://en.wikipedia.org/wiki/Marshall_Islands,Airports in Marshall Islands,6
+142,MK,North Macedonia,https://en.wikipedia.org/wiki/Macedonia,Macedonian airports,4
+143,ML,Mali,https://en.wikipedia.org/wiki/Mali,"Aéroports du Mali, Malian airports",1
+144,MM,Myanmar,https://en.wikipedia.org/wiki/Burma,Myanmar,3
+145,MN,Mongolia,https://en.wikipedia.org/wiki/Mongolia,Mongolian airports,3
+146,MO,Macau,https://en.wikipedia.org/wiki/Macau,Macao,3
+147,MP,Northern Mariana Islands,https://en.wikipedia.org/wiki/Northern_Mariana_Islands,Airports in Northern Mariana Islands,6
+148,MQ,Martinique,https://en.wikipedia.org/wiki/Martinique,Airports in Martinique,5
+149,MR,Mauritania,https://en.wikipedia.org/wiki/Mauritania,مطارات موريتانيا,1
+150,MS,Montserrat,https://en.wikipedia.org/wiki/Montserrat,Airports in Montserrat,5
+151,MT,Malta,https://en.wikipedia.org/wiki/Malta,,4
+152,MU,Mauritius,https://en.wikipedia.org/wiki/Mauritius,Airports in Mauritius,1
+153,MV,Maldives,https://en.wikipedia.org/wiki/Maldives,Airports in Maldives,3
+154,MW,Malawi,https://en.wikipedia.org/wiki/Malawi,Airports in Malawi,1
+155,MX,Mexico,https://en.wikipedia.org/wiki/Mexico,"Aeropuertos de México, Mexican airports",5
+156,MY,Malaysia,https://en.wikipedia.org/wiki/Malaysia,Lapangan Terbang Malaysia,3
+157,MZ,Mozambique,https://en.wikipedia.org/wiki/Mozambique,Airports in Mozambique,1
+158,NA,Namibia,https://en.wikipedia.org/wiki/Namibia,,1
+159,NC,New Caledonia,https://en.wikipedia.org/wiki/New_Caledonia,Airports in New Caledonia,6
+160,NE,Niger,https://en.wikipedia.org/wiki/Niger,Nigerien airports,1
+161,NF,Norfolk Island,https://en.wikipedia.org/wiki/Norfolk_Island,Airports in Norfolk Island,6
+162,NG,Nigeria,https://en.wikipedia.org/wiki/Nigeria,,1
+163,NI,Nicaragua,https://en.wikipedia.org/wiki/Nicaragua,Aeropuertos de Nicaragua,5
+164,NL,Netherlands,https://en.wikipedia.org/wiki/Netherlands,"Holland, Luchthavens van Nederland, Dutch airports",4
+165,NO,Norway,https://en.wikipedia.org/wiki/Norway,Flyplasser i Norge,4
+166,NP,Nepal,https://en.wikipedia.org/wiki/Nepal,नेपाल विमानस्थलको,3
+167,NR,Nauru,https://en.wikipedia.org/wiki/Nauru,Airports in Nauru,6
+168,NU,Niue,https://en.wikipedia.org/wiki/Niue,Niuean airports,6
+169,NZ,New Zealand,https://en.wikipedia.org/wiki/New_Zealand,Airports in New Zealand,6
+170,OM,Oman,https://en.wikipedia.org/wiki/Oman,مطارات عمان,3
+171,PA,Panama,https://en.wikipedia.org/wiki/Panama,Aeropuertos de Panamá,5
+172,PE,Peru,https://en.wikipedia.org/wiki/Perú,Aeropuertos de Perú,7
+173,PF,French Polynesia,https://en.wikipedia.org/wiki/French_Polynesia,,6
+174,PG,Papua New Guinea,https://en.wikipedia.org/wiki/Papua_New_Guinea,Airports in Papua New Guinea,6
+175,PH,Philippines,https://en.wikipedia.org/wiki/Philippines,Mga alternatibong byahe mula sa Pilipinas,3
+176,PK,Pakistan,https://en.wikipedia.org/wiki/Pakistan,پاکستان کے ہوائی اڈوں,3
+177,PL,Poland,https://en.wikipedia.org/wiki/Poland,Lotniska Polski,4
+178,PM,Saint Pierre and Miquelon,https://en.wikipedia.org/wiki/Saint_Pierre_and_Miquelon,Airports in Saint Pierre and Miquelon,5
+179,PN,Pitcairn,https://en.wikipedia.org/wiki/Pitcairn,Airports in Pitcairn,6
+180,PR,Puerto Rico,https://en.wikipedia.org/wiki/Puerto_Rico,,5
+181,PS,Palestinian Territory,https://en.wikipedia.org/wiki/Palestinian_Territory,Palestinian airports,3
+182,PT,Portugal,https://en.wikipedia.org/wiki/Portugal,Aeroportos de Portugal,4
+183,PW,Palau,https://en.wikipedia.org/wiki/Palau,Palauan airports,6
+184,PY,Paraguay,https://en.wikipedia.org/wiki/Paraguay,Aeropuertos de Paraguay,7
+185,QA,Qatar,https://en.wikipedia.org/wiki/Qatar,مطارات قطر,3
+186,RE,Réunion,https://en.wikipedia.org/wiki/Réunion,"Île Bourbon, La Réunion",1
+187,RO,Romania,https://en.wikipedia.org/wiki/Romania,Aeroporturi din România,4
+188,RS,Serbia,https://en.wikipedia.org/wiki/Serbia,Serb,4
+189,RU,Russia,https://en.wikipedia.org/wiki/Russia,"Soviet, Sovietskaya, Sovetskaya, Аэропорты России",4
+190,RW,Rwanda,https://en.wikipedia.org/wiki/Rwanda,,1
+191,SA,Saudi Arabia,https://en.wikipedia.org/wiki/Saudi_Arabia,"مطارات المملكة العربية السعودية,المطارات لموسم الحج",3
+192,SB,Solomon Islands,https://en.wikipedia.org/wiki/Solomon_Islands,Airports in Solomon Islands,6
+193,SC,Seychelles,https://en.wikipedia.org/wiki/Seychelles,Airports in Seychelles,1
+194,SD,Sudan,https://en.wikipedia.org/wiki/Sudan,مطارات السودان,1
+195,SE,Sweden,https://en.wikipedia.org/wiki/Sweden,"Flygplatserna, Sverige",4
+196,SG,Singapore,https://en.wikipedia.org/wiki/Singapore,Singaporean airports,3
+197,SH,"Saint Helena, Ascension and Tristan da Cunha","https://en.wikipedia.org/wiki/Saint_Helena,_Ascension_and_Tristan_da_Cunha","Airports in Saint Helena, Ascension and Tristan da Cunha",1
+198,SI,Slovenia,https://en.wikipedia.org/wiki/Slovenia,,4
+199,SK,Slovakia,https://en.wikipedia.org/wiki/Slovakia,letisko Slovenska,4
+200,SL,Sierra Leone,https://en.wikipedia.org/wiki/Sierra_Leone,Sierra Leonean airports,1
+201,SM,San Marino,https://en.wikipedia.org/wiki/San_Marino,Airports in San Marino,4
+202,SN,Senegal,https://en.wikipedia.org/wiki/Senegal,"Aéroports du Sénégal, Senegalese airports",1
+203,SO,Somalia,https://en.wikipedia.org/wiki/Somalia,,1
+204,SR,Suriname,https://en.wikipedia.org/wiki/Suriname,Surinamese airports,7
+205,SS,South Sudan,https://en.wikipedia.org/wiki/South_Sudan,South Sudanese airports,1
+206,ST,São Tomé and Principe,https://en.wikipedia.org/wiki/São_Tomé_and_Principe,Airports in São Tomé and Principe,1
+207,SV,El Salvador,https://en.wikipedia.org/wiki/El_Salvador,"Salvadorian, Salvadorean",5
+208,SX,Sint Maarten,https://en.wikipedia.org/wiki/Sint_Maarten,Airports in Sint Maarten,5
+209,SY,Syria,https://en.wikipedia.org/wiki/Syria,مطارات سوريا,3
+210,SZ,Eswatini,https://en.wikipedia.org/wiki/Eswatini,Swaziland,1
+211,TC,Turks and Caicos Islands,https://en.wikipedia.org/wiki/Turks_and_Caicos_Islands,Airports in Turks and Caicos Islands,5
+212,TD,Chad,https://en.wikipedia.org/wiki/Chad,Airports in Chad,1
+213,TF,French Southern and Antarctic Lands,https://en.wikipedia.org/wiki/French_Southern_and_Antarctic_Lands,Airports in French Southern and Antarctic Lands,1
+214,TG,Togo,https://en.wikipedia.org/wiki/Togo,Airports in Togo,1
+215,TH,Thailand,https://en.wikipedia.org/wiki/Thailand,"Siam, Siamese",3
+216,TJ,Tajikistan,https://en.wikipedia.org/wiki/Tajikistan,Tajik,3
+217,TK,Tokelau,https://en.wikipedia.org/wiki/Tokelau,Airports in Tokelau,6
+218,TL,Timor-Leste,https://en.wikipedia.org/wiki/Timor-Leste,East Timor,3
+219,TM,Turkmenistan,https://en.wikipedia.org/wiki/Turkmenistan,"Turkmenistani airports, Airports in Turkmenistan",3
+220,TN,Tunisia,https://en.wikipedia.org/wiki/Tunisia,مطارات تونس,1
+221,TO,Tonga,https://en.wikipedia.org/wiki/Tonga,Airports in Tonga,6
+222,TR,Turkey,https://en.wikipedia.org/wiki/Turkey,Türkiye havaalanları,3
+223,TT,Trinidad and Tobago,https://en.wikipedia.org/wiki/Trinidad_and_Tobago,Airports in Trinidad and Tobago,5
+224,TV,Tuvalu,https://en.wikipedia.org/wiki/Tuvalu,Airports in Tuvalu,6
+225,TW,Taiwan,https://en.wikipedia.org/wiki/Taiwan,Taiwanese airports,3
+226,TZ,Tanzania,https://en.wikipedia.org/wiki/Tanzania,Tanzanian airports,1
+227,UA,Ukraine,https://en.wikipedia.org/wiki/Ukraine,Аеропорти України,4
+228,UG,Uganda,https://en.wikipedia.org/wiki/Uganda,,1
+229,UM,United States Minor Outlying Islands,https://en.wikipedia.org/wiki/United_States_Minor_Outlying_Islands,Airports in United States Minor Outlying Islands,6
+230,US,United States,https://en.wikipedia.org/wiki/United_States,American airports,5
+231,UY,Uruguay,https://en.wikipedia.org/wiki/Uruguay,Aeropuertos de Uruguay,7
+232,UZ,Uzbekistan,https://en.wikipedia.org/wiki/Uzbekistan,Uzbek,3
+233,VA,Vatican City,https://en.wikipedia.org/wiki/Vatican_City,The Holy See,4
+234,VC,Saint Vincent and the Grenadines,https://en.wikipedia.org/wiki/Saint_Vincent_and_the_Grenadines,Airports in Saint Vincent and the Grenadines,5
+235,VE,Venezuela,https://en.wikipedia.org/wiki/Venezuela,Aeropuertos de Venezuela,7
+236,VG,British Virgin Islands,https://en.wikipedia.org/wiki/British_Virgin_Islands,Airports in British Virgin Islands,5
+237,VI,U.S. Virgin Islands,https://en.wikipedia.org/wiki/U.S._Virgin_Islands,Airports in U.S. Virgin Islands,5
+238,VN,Vietnam,https://en.wikipedia.org/wiki/Vietnam,Các sân bay của Việt Nam,3
+239,VU,Vanuatu,https://en.wikipedia.org/wiki/Vanuatu,Airports in Vanuatu,6
+240,WF,Wallis and Futuna,https://en.wikipedia.org/wiki/Wallis_and_Futuna,Airports in Wallis and Futuna,6
+241,WS,Samoa,https://en.wikipedia.org/wiki/Samoa,Samoan airports,6
+242,XK,Kosovo,https://en.wikipedia.org/wiki/Kosovo,Kosova,4
+243,XP,Paracel Islands (disputed),https://en.wikipedia.org/wiki/Paracel_Islands,"China, Vietnam, Taiwan",3
+244,YE,Yemen,https://en.wikipedia.org/wiki/Yemen,مطارات اليمن,3
+245,YT,Mayotte,https://en.wikipedia.org/wiki/Mayotte,Airports in Mayotte,1
+246,ZA,South Africa,https://en.wikipedia.org/wiki/South_Africa,South African airports,1
+247,ZM,Zambia,https://en.wikipedia.org/wiki/Zambia,Zambian airports,1
+248,ZW,Zimbabwe,https://en.wikipedia.org/wiki/Zimbabwe,Zimbabwan airports,1
+249,ZZ,Unknown or unassigned country,https://en.wikipedia.org/wiki/Unknown_or_unassigned_country,Airports in Unknown or unassigned country,1
